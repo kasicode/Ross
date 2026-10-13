@@ -21,7 +21,7 @@ const memory = require('./memory');
 const CONFIG = {
   schedule: process.env.SCHEDULE || '50 7 * * 1',
   timezone: process.env.TZ_SCHEDULE || 'Europe/Amsterdam',
-  pairings: Number(process.env.PAIRINGS || 8),
+  pairings: Number(process.env.PAIRINGS || 10),
   finalCount: Number(process.env.FINAL_COUNT || 6),
   cooldownDays: Number(process.env.COOLDOWN_DAYS || 90),
   language: process.env.OUTPUT_LANGUAGE || 'en',
@@ -54,11 +54,11 @@ async function runOnce({ now = new Date() } = {}) {
   const pairings = await choosePairings({ signals, candidates, saturation, count: CONFIG.pairings });
   console.log(`[ross] ${pairings.length} pairings`);
 
-  const written = await writeIdeas({ pairings, enginesById, signalsById, language: CONFIG.language });
+  const written = await writeIdeas({ pairings, enginesById, signalsById, profiles, language: CONFIG.language });
   console.log(`[ross] ${written.length} ideas written`);
   if (!written.length) throw new Error('Idea writer returned nothing');
 
-  const reviewed = await review({ ideas: written, enginesById, formats, profiles, language: CONFIG.language });
+  const reviewed = await review({ ideas: written, enginesById, signalsById, formats, profiles, language: CONFIG.language });
   const { kept, dropped } = gate(reviewed, { finalCount: CONFIG.finalCount });
   for (const d of dropped) console.log(`[ross] dropped "${d.idea.title}": ${d.reason}`);
 

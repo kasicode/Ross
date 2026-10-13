@@ -22,7 +22,7 @@ Once a week, Ross:
 | `reviewer.js` | Similarity check against the format database, commissioner match, quality gates |
 | `email.js` | Builds and sends the weekly email via Resend |
 | `memory.js` | Cooldown and run log on the Railway volume |
-| `llm.js` | Claude API wrapper (forced tool output, so no JSON parsing problems) |
+| `llm.js` | Claude API wrapper (structured tool output, with a fallback for models that don't allow forced tool use) |
 | `engines.json` | 417 Friends plotline engines |
 | `saturation.json` | How crowded each engine is in existing formats |
 | `formats_tagged.json` | The format database with trigger/tension/relationship tags |
@@ -48,7 +48,7 @@ The repo is completely flat: every file at the root, no folders.
 | `SCHEDULE` | no | cron, default `50 7 * * 1` (Monday 07:50) |
 | `TZ_SCHEDULE` | no | default `Europe/Amsterdam` |
 | `FINAL_COUNT` | no | ideas per email, default `6` |
-| `PAIRINGS` | no | ideas generated before filtering, default `8` |
+| `PAIRINGS` | no | ideas generated before filtering, default `10` |
 | `COOLDOWN_DAYS` | no | days before an engine can return, default `90` |
 | `RUN_ON_START` | no | `true` = run once right after deploy (for testing) |
 | `DRY_RUN` | no | `true` = don't send, write `data/preview.html` instead |

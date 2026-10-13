@@ -94,15 +94,18 @@ const SCHEMA = {
           difference: { type: 'string', description: 'What makes this idea different from that format (or why it is not)' },
           commissioner: { type: 'string', description: 'Best-fitting profile id, or "none"' },
           commissioner_fit: { type: 'string', description: 'One sentence on why it fits that mandate, or why none do' },
+          fit_score: { type: 'integer', minimum: 1, maximum: 5, description: 'How strongly the best commissioner would want this: 1 = no fit, 3 = moderate, 5 = squarely in mandate' },
+          coherent: { type: 'boolean', description: 'False if title, logline, pitch and mechanic describe different formats or contradict each other' },
+          invented_facts: { type: 'boolean', description: 'True if why_now states specific facts (numbers, plans, events, laws) that are not in the signal text' },
         },
-        required: ['engine_id', 'too_close', 'closest_format', 'difference', 'commissioner', 'commissioner_fit'],
+        required: ['engine_id', 'too_close', 'closest_format', 'difference', 'commissioner', 'commissioner_fit', 'fit_score', 'coherent', 'invented_facts'],
       },
     },
   },
   required: ['reviews'],
 };
 
-async function review({ ideas, enginesById, formats, profiles, language = 'en' }) {
+async function review({ ideas, enginesById, signalsById = new Map(), formats, profiles, language = 'en' }) {
   for (const f of formats) if (!f._words) f._words = words(`${f.title} ${f.syn} ${f.genre}`);
   const lists = ideas.map((idea) => shortlist(idea, enginesById.get(idea.engine_id), formats));
 
@@ -121,15 +124,20 @@ ${ideas
     (idea, i) => `#${i + 1} engine_id: ${idea.engine_id}
 Title: ${idea.title}
 Logline: ${idea.logline}
+Friends pitch: ${idea.friends_pitch}
 Mechanic: ${idea.mechanic}
 Genre: ${idea.genre}
+Why now: ${idea.why_now}
+Signal it was based on: ${(() => { const sg = signalsById.get(idea.signal_id); return sg ? `${sg.title}${sg.detail ? ` — ${sg.detail}` : ''}` : 'unknown'; })()}
 Similar existing formats:
 ${lists[i].map((f) => `- ${f.title} (${f.genre}): ${String(f.syn || '').slice(0, 220)}`).join('\n')}`
   )
   .join('\n\n')}
 
 For each idea: mark too_close only when an existing format already delivers the same repeatable mechanic with the same kind of cast — a shared genre or setting is not enough.
-Pick the commissioner whose mandate fits best and respect any rules written in the profiles.`;
+Pick the commissioner whose mandate fits best and respect any rules written in the profiles. Be strict with fit_score: a 4 or 5 only when the idea squarely matches that commissioner's stated audience and needs.
+Mark coherent=false when title, logline, Friends pitch and mechanic do not describe one and the same format.
+Mark invented_facts=true when why_now contains specific facts that are not in the signal text.`;
 
   const out = await callTool({ system: 'You are a rigorous format-acquisitions reviewer at Fremantle.', prompt, name: 'reviews', schema: SCHEMA, maxTokens: 4000 });
   const byEngine = new Map((out.reviews || []).map((r) => [r.engine_id, r]));
@@ -137,7 +145,8 @@ Pick the commissioner whose mandate fits best and respect any rules written in t
 }
 
 function score(idea) {
-  return idea.repeatability * 2 + idea.castability + idea.feasibility;
+  const fit = idea.review && Number.isInteger(idea.review.fit_score) ? idea.review.fit_score : 2;
+  return idea.repeatability * 2 + idea.castability + idea.feasibility + fit * 2;
 }
 
 /** Apply hard gates and rank. Returns { kept, dropped }. */
@@ -147,6 +156,7 @@ function gate(ideas, { finalCount = 6, minRepeatability = 3 } = {}) {
   for (const idea of ideas) {
     if (idea.repeatability < minRepeatability) dropped.push({ idea, reason: `repeatability ${idea.repeatability}/5` });
     else if (idea.review && idea.review.too_close) dropped.push({ idea, reason: `too close to ${idea.review.closest_format}` });
+    else if (idea.review && idea.review.coherent === false) dropped.push({ idea, reason: 'logline and mechanic contradict each other' });
     else kept.push(idea);
   }
   kept.sort((a, b) => score(b) - score(a));

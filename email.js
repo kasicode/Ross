@@ -33,10 +33,11 @@ function ideaCard(idea, i) {
       ${row('Cast', idea.cast)}
       ${row('Closest format', r.closest_format ? `${r.closest_format} — ${r.difference || ''}` : '')}
       ${row('Commissioner', r.commissioner && r.commissioner !== 'none' ? `${r.commissioner} — ${r.commissioner_fit || ''}` : r.commissioner_fit)}
+      ${r.invented_facts ? row('⚠ Check facts', 'The why-now may contain details that were not in the source signal — verify before pitching') : ''}
       ${idea.consent_flag ? row('⚠ Consent', idea.consent_note || 'Relies on deception or third parties — needs a consent plan') : ''}
     </table>
     <div style="font-size:12px;color:#6b6b6b;margin-top:12px;font-family:monospace">
-      repeatable ${dots(idea.repeatability)} &nbsp; castable ${dots(idea.castability)} &nbsp; feasible ${dots(idea.feasibility)}
+      repeatable ${dots(idea.repeatability)} &nbsp; castable ${dots(idea.castability)} &nbsp; feasible ${dots(idea.feasibility)}${r.fit_score ? ` &nbsp; commissioner fit ${dots(r.fit_score)}` : ''}
     </div>
     <div style="font-size:12px;color:#8a8a8a;margin-top:6px">Source: ${esc(idea.engine_title)} · ${esc(idea.signal_source)}: ${esc(idea.signal_title)}</div>
   </div>`;

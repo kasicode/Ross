@@ -64,7 +64,7 @@ ${candidates.map((e) => engineLine(e, saturation.engines[e.id])).join('\n')}
 Choose exactly ${count} pairings of one signal and one engine.
 Rules:
 - Each engine at most once. Each signal at most twice.
-- At least two pairings should use a calendar moment if any are listed.
+- Use a calendar moment in at most two pairings; the rest must use Google Trends or Google News signals.
 - Favour engines marked [open] or [light]; use [saturated] only when the signal twists it into something genuinely different.
 - Skip signals that are too narrow, too dark or about named private individuals.`;
 
@@ -73,8 +73,15 @@ Rules:
   const engIds = new Set(candidates.map((e) => e.id));
   const usedEngines = new Set();
   const valid = [];
+  let calendarUsed = 0;
+  // Cap calendar moments at 2, unless the trend/news feeds delivered nothing this week
+  const calendarCap = signals.some((s) => !s.id.startsWith('cal-')) ? 2 : Infinity;
   for (const p of out.pairings || []) {
     if (!sigIds.has(p.signal_id) || !engIds.has(p.engine_id) || usedEngines.has(p.engine_id)) continue;
+    if (p.signal_id.startsWith('cal-')) {
+      if (calendarUsed >= calendarCap) continue;
+      calendarUsed++;
+    }
     usedEngines.add(p.engine_id);
     valid.push(p);
   }

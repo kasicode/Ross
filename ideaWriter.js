@@ -38,9 +38,18 @@ Hard rules:
 - A Friends plot happens once; a format must repeat. The mechanic must work with a NEW set of people or a new round every episode.
 - Real people, real stakes. Use Dutch settings and culture (Sinterklaas, verjaardagen in de kring, fietsen, Koningsdag, Waddeneilanden...), not American ones.
 - Never build a format on humiliating a specific real person, on minors in romantic or sexual situations, or on deceiving people without a consent plan.
-- Be honest in the scores: a 5 means you would fight for it in a commissioning meeting.`;
+- Stakes: every format needs something real to win or lose (money, a prize, a home, a relationship decision with consequences) AND a reason to keep watching across episodes (elimination, a running score, a serialised cast or a season-long question). Low-stakes "nice" observational ideas are not good enough.
+- Consistency: title, logline, friends_pitch and mechanic must describe the SAME format. Write the mechanic first in your head, then derive the logline from it.
+- Facts: why_now may only use facts that appear in the signal text or the calendar date given. Do not add numbers, plans, protests, laws or events that are not in the signal. If the signal is thin, say what the cultural mood is without inventing specifics.
+- Commissioners: aim each idea at one of the commissioner mandates below and make it fit that mandate (audience, tone, budget, episode structure). If you aim at Videoland, write for its target audience, not for a general family audience.
+- Scores must discriminate. Score each idea relative to the others in this batch: across the batch, use at most two 5s, and give at least two ideas a 3 or lower on some dimension. A 5 means you would fight for it in a commissioning meeting; a 3 means it needs real work.`;
 
-async function writeIdeas({ pairings, enginesById, signalsById, language = 'en' }) {
+function mandateSummary(profiles) {
+  if (!profiles || !profiles.length) return 'No commissioner profiles available.';
+  return profiles.map((p) => `${p.id}: ${p.raw.length > 1500 ? `${p.raw.slice(0, 1500)}…` : p.raw}`).join('\n\n');
+}
+
+async function writeIdeas({ pairings, enginesById, signalsById, profiles = [], language = 'en' }) {
   const lang = LANGUAGES[language] || LANGUAGES.en;
   const blocks = pairings.map((p, i) => {
     const e = enginesById.get(p.engine_id);
@@ -55,12 +64,15 @@ Signal (${s.source}): ${s.title}${s.detail ? ` — ${s.detail}` : ''}
 Why they spark: ${p.spark}`;
   });
 
-  const prompt = `Write one format idea for each pairing below. Write all text fields in ${lang}.
+  const prompt = `COMMISSIONER MANDATES:
+${mandateSummary(profiles)}
+
+Write one format idea for each pairing below. Write all text fields in ${lang}.
 Keep engine_id and signal_id exactly as given.
 
 ${blocks.join('\n\n')}`;
 
-  const out = await callTool({ system: SYSTEM, prompt, name: 'format_ideas', schema: SCHEMA, maxTokens: 9000 });
+  const out = await callTool({ system: SYSTEM, prompt, name: 'format_ideas', schema: SCHEMA, maxTokens: 16000 });
   const wanted = new Set(pairings.map((p) => p.engine_id));
   return (out.ideas || []).filter((i) => wanted.has(i.engine_id) && signalsById.has(i.signal_id));
 }
