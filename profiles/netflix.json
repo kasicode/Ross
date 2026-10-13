@@ -1,0 +1,60 @@
+{
+  "name": "Netflix",
+  "mandate": {
+    "description": "Netflix zoekt fris, hoog-stakes, nadrukkelijk Nederlands reality/dating/competitie-aanbod en persoonlijke-perspectief 'pop crime'-documentaires die definitief aanvoelen — 'kill the opportunity for another doc to exist'. Succes wordt gemeten aan kijkersaantal en completion rate, niet aan of iets mensen naar Netflix trekt: de concurrentie is intern, binnen Netflix' eigen overvolle aanbod opvallen is het doel. Netflix hoeft content niet lokaal te houden — sterke ideeën worden door Robyn zelf naar andere territoria doorvertaald.",
+    "actively_looking_for": [
+      "Dating — hoge inzet, koppels-format, 'de volgende Love Is Blind'; guilty pleasure maar niet het generieke villa/eiland-format",
+      "Competitie-formats — koken/muziek/reality met een structurele twist; graag de bekende genre-blauwdruk remixen in plaats van kopiëren",
+      "Reality met een ensemble cast — een groep creëert van nature drama en cliffhangers",
+      "Reality met één zeer bekend gezicht en rijke persoonlijke toegang (zoals Yolanthe) — moet lokaal/Nederlands aanvoelen, niet 'LA-based'",
+      "Documentaire 'pop crime' — crime zonder bloed, rond een mainstream/breed bekend incident (vergelijkbaar met Tinder Swindler, Fyre Festival, Tiger King, Project X)",
+      "Celebrity docu-follows — mag, mits zeer persoonlijk en exclusief",
+      "Sport-documentaire — alleen als het onderwerp cultureel groter is dan de sport zelf (zoals Beckham)",
+      "Sociale experimenten — hier heeft Netflix expliciet affiniteit mee"
+    ],
+    "slot_needs": [
+      "Geen host, geen voice-over — het verhaal moet verteld worden door de ogen van de mensen zelf",
+      "Extreem simpele, directe logline ('What if...?'-helderheid) — dit weegt zwaarder dan verdere details",
+      "Hoge inzet en cliffhangers, idealiter in iedere scène/aflevering",
+      "Geen closed-episode formats",
+      "Documentaire aflevering-lengte: 40-60 minuten",
+      "Direct contract met talent, geen third-party rechten-constructies",
+      "Volledig nieuw — geen remakes, spin-offs of catalogus-achtige ideeën"
+    ],
+    "tone": "Hoog entertainmentgehalte gecombineerd met hoge emotie; guilty pleasure; bingeable; 'watercooler-worthy'; continu twists en cliffhangers; 'quick or loud'"
+  },
+  "cost_sensitivity": "MEDIUM, met concept zwaarder wegend dan productiewaarde — 'een sterk half-af idee verslaat een gepolijst zwak idee', en soms is bestaand beeldmateriaal al genoeg om mee te pitchen. Ter info: gangbare adaptatievergoeding voor productiebedrijven is 5%.",
+  "what_works": {
+    "proven_formats": [
+      "Dubai Bling",
+      "Tinder Swindler",
+      "Fyre Festival",
+      "Tiger King",
+      "Love Is Blind",
+      "Beckham",
+      "LOL (genoemd als format dat zou werken, inzet: reputatie)"
+    ]
+  },
+  "rejects": [
+    "Remakes, spin-offs of bewezen/bestaande third-party IP — Netflix wil zelf de eerste zijn (merken als plotelement inzetten mag wel, zoals Tinder in Tinder Swindler)",
+    "Politieke thema's, wetenschap, geschiedenis, reisformats, talkshows",
+    "Te niche onderwerpen",
+    "Brave/veilige shows zonder voldoende inzet",
+    "Closed-episode formats",
+    "Internationale of multi-territoriale settings — moet nadrukkelijk Nederlands aanvoelen",
+    "Onderzoeksjournalistieke documentaires — het verhaal moet al volledig gebeurd zijn",
+    "Vage locatie of context",
+    "Adventure reality (expliciet benoemd als lastig te verkopen bij Netflix, kost te veel 'investeringstijd' van de kijker)",
+    "Quiz-formats (nog niet succesvol gebleken)",
+    "Nederlandse BN'ers zonder brede landelijke relevantie (genoemd voorbeeld: Gerard Joling → niet geschikt)",
+    "The Floor (expliciet genoemd als format dat niet werkt op Netflix)"
+  ],
+  "scoring_weights": {
+    "stakes_and_cliffhangers": "Zwaarste weging — 'wat staat er op het spel' is de centrale vraag bij elke pitch",
+    "logline_simplicity": "Extreem zwaar wegend — een logline die niet in één simpele zin te vangen is, is vrijwel diskwalificerend ongeacht conceptkracht",
+    "dutch_locality": "Zwaar wegend — nadrukkelijk Nederlands is een pré, multi-territoriaal is een min in plaats van een plus",
+    "talent_fame_and_access": "Voor reality specifiek — of een ensemble cast, of één uitzonderlijk bekend gezicht met diepe persoonlijke toegang",
+    "freshness": "Geen remakes, spin-offs, catalogus-achtige ideeën of bewezen third-party IP",
+    "documentary_cap": "Netflix heeft oprechte interesse in sterke 'pop crime'/persoonlijke-verhaal documentaires, maar wij verkopen docu's relatief weinig, er zit minder marge op, het is tijdsintensief en het is niet onze specialiteit — niet meer dan ongeveer 1 op de 10 ideeën die naar Netflix gaan zou een documentaire moeten zijn. Behandel een docu-pitch als een zeldzame uitzondering bij een uitzonderlijk sterk signaal, niet als een routine-optie."
+  }
+}
