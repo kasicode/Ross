@@ -1,0 +1,7096 @@
+{
+  "version": 1,
+  "source": "Friends plotlines, regenerated per episode; entries with verify=true need a spot-check",
+  "count": 417,
+  "engines": [
+    {
+      "id": "s01e01-a",
+      "season": 1,
+      "episode": 1,
+      "title": "The One Where Monica Gets a Roommate",
+      "plot": "Rachel flees her wedding and must start an independent life from zero, cutting up daddy's credit cards",
+      "trigger": "move",
+      "tension": [
+        "independence",
+        "identity"
+      ],
+      "stakes": "financial and emotional independence",
+      "reveal": "she can't even make coffee yet",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s01e01-b",
+      "season": 1,
+      "episode": 1,
+      "title": "The One Where Monica Gets a Roommate",
+      "plot": "Monica sleeps with Paul after his sob story, then learns he uses the same line on every woman",
+      "trigger": "date",
+      "tension": [
+        "attraction",
+        "embarrassment"
+      ],
+      "stakes": "her pride",
+      "reveal": "the sob story is a pickup routine",
+      "relationship": "dating",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s01e02-a",
+      "season": 1,
+      "episode": 2,
+      "title": "The One with the Sonogram at the End",
+      "plot": "Ross attends his pregnant ex-wife's sonogram with her new wife and fights over the baby's surname",
+      "trigger": "event",
+      "tension": [
+        "family",
+        "status"
+      ],
+      "stakes": "his role as a father",
+      "reveal": "seeing the baby on screen changes him",
+      "relationship": "exes",
+      "setting": "hospital",
+      "verify": false
+    },
+    {
+      "id": "s01e02-b",
+      "season": 1,
+      "episode": 2,
+      "title": "The One with the Sonogram at the End",
+      "plot": "Rachel returns the engagement ring and learns her ex moved on with her maid of honour",
+      "trigger": "object",
+      "tension": [
+        "jealousy",
+        "loyalty"
+      ],
+      "stakes": "closure",
+      "reveal": "he's on honeymoon with Mindy",
+      "relationship": "exes",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s01e02-c",
+      "season": 1,
+      "episode": 2,
+      "title": "The One with the Sonogram at the End",
+      "plot": "Monica scrambles to impress her critical parents at dinner while they praise Ross",
+      "trigger": "visitor",
+      "tension": [
+        "family",
+        "status"
+      ],
+      "stakes": "parental approval",
+      "reveal": "parents still favour the brother",
+      "relationship": "parent-child",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s01e03-a",
+      "season": 1,
+      "episode": 3,
+      "title": "The One with the Thumb",
+      "plot": "Monica's new boyfriend charms all her friends so much that dumping him devastates them",
+      "trigger": "date",
+      "tension": [
+        "loyalty",
+        "control"
+      ],
+      "stakes": "group approval of a partner",
+      "reveal": "the group loved him more than she did",
+      "relationship": "friends",
+      "setting": "cafe",
+      "verify": false
+    },
+    {
+      "id": "s01e03-b",
+      "season": 1,
+      "episode": 3,
+      "title": "The One with the Thumb",
+      "plot": "Phoebe finds a thumb in her soda, gets a payout and money keeps landing on her",
+      "trigger": "discovery",
+      "tension": [
+        "money",
+        "guilt"
+      ],
+      "stakes": "unwanted windfall",
+      "reveal": "money she gives away comes back bigger",
+      "relationship": "friends",
+      "setting": "cafe",
+      "verify": false
+    },
+    {
+      "id": "s01e03-c",
+      "season": 1,
+      "episode": 3,
+      "title": "The One with the Thumb",
+      "plot": "Chandler restarts smoking and the group lets his habit slide until they don't",
+      "trigger": "mistake",
+      "tension": [
+        "control",
+        "loyalty"
+      ],
+      "stakes": "a bad habit",
+      "reveal": "friends' tolerance has a limit",
+      "relationship": "friends",
+      "setting": "cafe",
+      "verify": false
+    },
+    {
+      "id": "s01e04-a",
+      "season": 1,
+      "episode": 4,
+      "title": "The One with George Stephanopoulos",
+      "plot": "The guys take Ross to hockey on his anniversary with his ex; he ends in A&E with a puck to the face",
+      "trigger": "holiday",
+      "tension": [
+        "commitment",
+        "guilt"
+      ],
+      "stakes": "getting over an ex",
+      "reveal": "the distraction becomes the disaster",
+      "relationship": "friends",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s01e04-b",
+      "season": 1,
+      "episode": 4,
+      "title": "The One with George Stephanopoulos",
+      "plot": "The girls' sleepover spirals into existential despair about having no plan in life",
+      "trigger": "event",
+      "tension": [
+        "identity",
+        "status"
+      ],
+      "stakes": "life direction",
+      "reveal": "nobody has a plan",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s01e05-a",
+      "season": 1,
+      "episode": 5,
+      "title": "The One with the East German Laundry Detergent",
+      "plot": "Ross turns a laundry trip into a secret date with Rachel and defends her against a rude regular",
+      "trigger": "date",
+      "tension": [
+        "attraction",
+        "secret"
+      ],
+      "stakes": "a first move",
+      "reveal": "she thinks it's just laundry",
+      "relationship": "friends",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s01e05-b",
+      "season": 1,
+      "episode": 5,
+      "title": "The One with the East German Laundry Detergent",
+      "plot": "Chandler tries to break up with Janice and keeps failing",
+      "trigger": "deadline",
+      "tension": [
+        "commitment",
+        "guilt"
+      ],
+      "stakes": "ending a relationship",
+      "reveal": "she cries and he folds",
+      "relationship": "dating",
+      "setting": "cafe",
+      "verify": false
+    },
+    {
+      "id": "s01e05-c",
+      "season": 1,
+      "episode": 5,
+      "title": "The One with the East German Laundry Detergent",
+      "plot": "Joey stages a double date with Monica to steal back his ex from her new boyfriend",
+      "trigger": "lie",
+      "tension": [
+        "jealousy",
+        "rivalry"
+      ],
+      "stakes": "winning back an ex",
+      "reveal": "the fake couple gets real competitive",
+      "relationship": "exes",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s01e06-a",
+      "season": 1,
+      "episode": 6,
+      "title": "The One with the Butt",
+      "plot": "Joey lands his first film part as Al Pacino's butt double and overacts it into getting fired",
+      "trigger": "job",
+      "tension": [
+        "status",
+        "identity"
+      ],
+      "stakes": "a career break",
+      "reveal": "even a butt role needs restraint",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s01e06-b",
+      "season": 1,
+      "episode": 6,
+      "title": "The One with the Butt",
+      "plot": "Chandler dates a woman with a husband and a boyfriend and must decide if he can share",
+      "trigger": "date",
+      "tension": [
+        "jealousy",
+        "commitment"
+      ],
+      "stakes": "an open relationship",
+      "reveal": "he's the one who can't handle it",
+      "relationship": "dating",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s01e07-a",
+      "season": 1,
+      "episode": 7,
+      "title": "The One with the Blackout",
+      "plot": "Chandler is trapped in an ATM vestibule with a supermodel and fails at small talk",
+      "trigger": "mistake",
+      "tension": [
+        "attraction",
+        "embarrassment"
+      ],
+      "stakes": "a dream chance",
+      "reveal": "the gum, the panic, the tape",
+      "relationship": "strangers",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s01e07-b",
+      "season": 1,
+      "episode": 7,
+      "title": "The One with the Blackout",
+      "plot": "Ross plans to confess his love to Rachel during a blackout but a charming Italian beats him to it",
+      "trigger": "event",
+      "tension": [
+        "attraction",
+        "rivalry"
+      ],
+      "stakes": "confessing feelings",
+      "reveal": "a stranger gets there first",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s01e08-a",
+      "season": 1,
+      "episode": 8,
+      "title": "The One Where Nana Dies Twice",
+      "plot": "Ross and Monica's grandmother dies, wakes up, then dies again, while Monica seeks her mother's approval",
+      "trigger": "event",
+      "tension": [
+        "family",
+        "status"
+      ],
+      "stakes": "parental approval at a funeral",
+      "reveal": "the mother criticises even now",
+      "relationship": "family",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s01e08-b",
+      "season": 1,
+      "episode": 8,
+      "title": "The One Where Nana Dies Twice",
+      "plot": "Chandler is upset that people keep assuming he's gay",
+      "trigger": "discovery",
+      "tension": [
+        "identity",
+        "embarrassment"
+      ],
+      "stakes": "how others see you",
+      "reveal": "everyone saw it immediately",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s01e09-a",
+      "season": 1,
+      "episode": 9,
+      "title": "The One Where Underdog Gets Away",
+      "plot": "Everyone's Thanksgiving plans collapse and they get locked out while the dinner burns",
+      "trigger": "holiday",
+      "tension": [
+        "guilt",
+        "loyalty"
+      ],
+      "stakes": "a ruined holiday",
+      "reveal": "blame spreads before they make up",
+      "relationship": "friends",
+      "setting": "holiday",
+      "verify": false
+    },
+    {
+      "id": "s01e09-b",
+      "season": 1,
+      "episode": 9,
+      "title": "The One Where Underdog Gets Away",
+      "plot": "Joey's face appears on a VD awareness poster all over the city",
+      "trigger": "mistake",
+      "tension": [
+        "embarrassment",
+        "status"
+      ],
+      "stakes": "public reputation",
+      "reveal": "strangers recognise him for the wrong thing",
+      "relationship": "strangers",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s01e10-a",
+      "season": 1,
+      "episode": 10,
+      "title": "The One with the Monkey",
+      "plot": "The friends make a no-dates New Year's Eve pact and all of them break it",
+      "trigger": "rule",
+      "tension": [
+        "loyalty",
+        "attraction"
+      ],
+      "stakes": "keeping a group promise",
+      "reveal": "everyone turns up with a date",
+      "relationship": "friends",
+      "setting": "party",
+      "verify": false
+    },
+    {
+      "id": "s01e10-b",
+      "season": 1,
+      "episode": 10,
+      "title": "The One with the Monkey",
+      "plot": "Lonely Ross adopts a monkey as a companion",
+      "trigger": "move",
+      "tension": [
+        "commitment",
+        "independence"
+      ],
+      "stakes": "filling a gap",
+      "reveal": "a pet is not a partner",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s01e11-a",
+      "season": 1,
+      "episode": 11,
+      "title": "The One with Mrs. Bing",
+      "plot": "Chandler's flirtatious celebrity-author mother visits and kisses Ross",
+      "trigger": "visitor",
+      "tension": [
+        "family",
+        "embarrassment"
+      ],
+      "stakes": "family boundaries",
+      "reveal": "a friend kissed his mum",
+      "relationship": "parent-child",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s01e11-b",
+      "season": 1,
+      "episode": 11,
+      "title": "The One with Mrs. Bing",
+      "plot": "Monica and Phoebe fight over a handsome coma patient neither has spoken to",
+      "trigger": "discovery",
+      "tension": [
+        "rivalry",
+        "attraction"
+      ],
+      "stakes": "a fantasy partner",
+      "reveal": "fighting over someone who doesn't know them",
+      "relationship": "friends",
+      "setting": "hospital",
+      "verify": false
+    },
+    {
+      "id": "s01e12-a",
+      "season": 1,
+      "episode": 12,
+      "title": "The One with the Dozen Lasagnas",
+      "plot": "Paolo makes a pass at Phoebe during a massage and she has to tell Rachel",
+      "trigger": "discovery",
+      "tension": [
+        "loyalty",
+        "secret"
+      ],
+      "stakes": "telling a friend the truth",
+      "reveal": "the partner is a cheat",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s01e12-b",
+      "season": 1,
+      "episode": 12,
+      "title": "The One with the Dozen Lasagnas",
+      "plot": "Ross refuses to learn the baby's sex while everyone else finds out",
+      "trigger": "rule",
+      "tension": [
+        "secret",
+        "family"
+      ],
+      "stakes": "keeping a surprise",
+      "reveal": "someone blurts it out",
+      "relationship": "family",
+      "setting": "hospital",
+      "verify": false
+    },
+    {
+      "id": "s01e12-c",
+      "season": 1,
+      "episode": 12,
+      "title": "The One with the Dozen Lasagnas",
+      "plot": "The guys buy a foosball table and Monica destroys them at it",
+      "trigger": "object",
+      "tension": [
+        "rivalry",
+        "status"
+      ],
+      "stakes": "bragging rights",
+      "reveal": "the underestimated one wins",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s01e13-a",
+      "season": 1,
+      "episode": 13,
+      "title": "The One with the Boobies",
+      "plot": "Chandler accidentally sees Rachel topless and the group escalates eye-for-an-eye payback",
+      "trigger": "mistake",
+      "tension": [
+        "embarrassment",
+        "rivalry"
+      ],
+      "stakes": "evening the score",
+      "reveal": "payback keeps escalating",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s01e13-b",
+      "season": 1,
+      "episode": 13,
+      "title": "The One with the Boobies",
+      "plot": "Joey discovers his dad has a long-term mistress and his mum knows",
+      "trigger": "discovery",
+      "tension": [
+        "family",
+        "secret"
+      ],
+      "stakes": "family loyalty",
+      "reveal": "mum knew all along",
+      "relationship": "parent-child",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s01e13-c",
+      "season": 1,
+      "episode": 13,
+      "title": "The One with the Boobies",
+      "plot": "Phoebe dates a psychiatrist who analyses every friend to their face",
+      "trigger": "date",
+      "tension": [
+        "status",
+        "embarrassment"
+      ],
+      "stakes": "being judged",
+      "reveal": "the outsider reads them all accurately",
+      "relationship": "dating",
+      "setting": "cafe",
+      "verify": false
+    },
+    {
+      "id": "s01e14-a",
+      "season": 1,
+      "episode": 14,
+      "title": "The One with the Candy Hearts",
+      "plot": "Chandler's Valentine's blind date turns out to be Janice",
+      "trigger": "date",
+      "tension": [
+        "commitment",
+        "embarrassment"
+      ],
+      "stakes": "a fresh start",
+      "reveal": "the ex returns",
+      "relationship": "exes",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s01e14-b",
+      "season": 1,
+      "episode": 14,
+      "title": "The One with the Candy Hearts",
+      "plot": "The girls burn mementos of exes in a ritual and set off the fire brigade",
+      "trigger": "event",
+      "tension": [
+        "identity",
+        "independence"
+      ],
+      "stakes": "letting go of exes",
+      "reveal": "the ritual gets out of control",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s01e15-a",
+      "season": 1,
+      "episode": 15,
+      "title": "The One with the Stoned Guy",
+      "plot": "Monica cooks a tryout dinner for a restaurateur who arrives stoned",
+      "trigger": "job",
+      "tension": [
+        "status",
+        "control"
+      ],
+      "stakes": "a dream job",
+      "reveal": "the judge can't judge",
+      "relationship": "strangers",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s01e15-b",
+      "season": 1,
+      "episode": 15,
+      "title": "The One with the Stoned Guy",
+      "plot": "Chandler is offered a promotion and keeps raising his price hoping they'll say no",
+      "trigger": "job",
+      "tension": [
+        "identity",
+        "money"
+      ],
+      "stakes": "escaping a career path",
+      "reveal": "they say yes to everything",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s01e15-c",
+      "season": 1,
+      "episode": 15,
+      "title": "The One with the Stoned Guy",
+      "plot": "Ross takes dirty-talk lessons from his sister",
+      "trigger": "date",
+      "tension": [
+        "embarrassment",
+        "family"
+      ],
+      "stakes": "a sex life",
+      "reveal": "sibling coaching is mortifying",
+      "relationship": "siblings",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s01e16-a",
+      "season": 1,
+      "episode": 16,
+      "title": "The One with Two Parts: Part 1",
+      "plot": "Joey dates Phoebe's estranged twin and Phoebe has to accept it",
+      "trigger": "date",
+      "tension": [
+        "loyalty",
+        "family"
+      ],
+      "stakes": "sibling territory",
+      "reveal": "the twin doesn't care",
+      "relationship": "siblings",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s01e16-b",
+      "season": 1,
+      "episode": 16,
+      "title": "The One with Two Parts: Part 1",
+      "plot": "Ross attends Lamaze class with his ex-wife and her wife",
+      "trigger": "event",
+      "tension": [
+        "status",
+        "family"
+      ],
+      "stakes": "his place in the family",
+      "reveal": "he's the odd one out",
+      "relationship": "exes",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s01e17-a",
+      "season": 1,
+      "episode": 17,
+      "title": "The One with Two Parts: Part 2",
+      "plot": "Uninsured Rachel uses Monica's identity at the hospital and they double date the doctors",
+      "trigger": "lie",
+      "tension": [
+        "identity",
+        "secret"
+      ],
+      "stakes": "keeping a fraud straight",
+      "reveal": "they sabotage each other on the date",
+      "relationship": "friends",
+      "setting": "hospital",
+      "verify": false
+    },
+    {
+      "id": "s01e18-a",
+      "season": 1,
+      "episode": 18,
+      "title": "The One with All the Poker",
+      "plot": "The girls challenge the guys to poker and take it far too seriously",
+      "trigger": "challenge",
+      "tension": [
+        "rivalry",
+        "money"
+      ],
+      "stakes": "winning against the boys",
+      "reveal": "whoever cares most loses",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s01e18-b",
+      "season": 1,
+      "episode": 18,
+      "title": "The One with All the Poker",
+      "plot": "Rachel waits on a dream job interview at a fashion house",
+      "trigger": "job",
+      "tension": [
+        "status",
+        "identity"
+      ],
+      "stakes": "career escape",
+      "reveal": "she doesn't get it",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s01e19-a",
+      "season": 1,
+      "episode": 19,
+      "title": "The One Where the Monkey Gets Away",
+      "plot": "Rachel loses Ross's monkey and must find it before he finds out",
+      "trigger": "mistake",
+      "tension": [
+        "guilt",
+        "secret"
+      ],
+      "stakes": "a friend's trust",
+      "reveal": "Animal Control is an old school rival",
+      "relationship": "friends",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s01e20-a",
+      "season": 1,
+      "episode": 20,
+      "title": "The One with the Evil Orthodontist",
+      "plot": "Rachel secretly sleeps with her ex who's now engaged to her friend",
+      "trigger": "date",
+      "tension": [
+        "secret",
+        "loyalty"
+      ],
+      "stakes": "two friendships",
+      "reveal": "the fiancée knows too",
+      "relationship": "exes",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s01e20-b",
+      "season": 1,
+      "episode": 20,
+      "title": "The One with the Evil Orthodontist",
+      "plot": "Chandler agonises over whether to call a woman back and when",
+      "trigger": "date",
+      "tension": [
+        "commitment",
+        "control"
+      ],
+      "stakes": "dating rules",
+      "reveal": "overthinking kills it",
+      "relationship": "dating",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s01e21-a",
+      "season": 1,
+      "episode": 21,
+      "title": "The One with the Fake Monica",
+      "plot": "Monica befriends the woman who stole her credit card and lives a wilder life through her",
+      "trigger": "discovery",
+      "tension": [
+        "identity",
+        "secret"
+      ],
+      "stakes": "living differently",
+      "reveal": "the fake Monica is more Monica than her",
+      "relationship": "strangers",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s01e21-b",
+      "season": 1,
+      "episode": 21,
+      "title": "The One with the Fake Monica",
+      "plot": "Ross must give his monkey to a zoo when it hits sexual maturity",
+      "trigger": "deadline",
+      "tension": [
+        "commitment",
+        "guilt"
+      ],
+      "stakes": "letting go",
+      "reveal": "it's the right thing",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s01e22-a",
+      "season": 1,
+      "episode": 22,
+      "title": "The One with the Ick Factor",
+      "plot": "Monica discovers her new boyfriend is a high school senior",
+      "trigger": "discovery",
+      "tension": [
+        "taboo",
+        "attraction"
+      ],
+      "stakes": "an age gap",
+      "reveal": "he lied about his age",
+      "relationship": "dating",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s01e22-b",
+      "season": 1,
+      "episode": 22,
+      "title": "The One with the Ick Factor",
+      "plot": "Phoebe temps at Chandler's office and learns his coworkers mock him since his promotion",
+      "trigger": "job",
+      "tension": [
+        "status",
+        "secret"
+      ],
+      "stakes": "workplace popularity",
+      "reveal": "they think he's a boss now",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s01e23-a",
+      "season": 1,
+      "episode": 23,
+      "title": "The One with the Birth",
+      "plot": "The gang waits at the hospital for Ross's son to be born while Ross and Susan compete as parents",
+      "trigger": "event",
+      "tension": [
+        "rivalry",
+        "family"
+      ],
+      "stakes": "being part of the birth",
+      "reveal": "they get locked in a closet together",
+      "relationship": "family",
+      "setting": "hospital",
+      "verify": false
+    },
+    {
+      "id": "s01e23-b",
+      "season": 1,
+      "episode": 23,
+      "title": "The One with the Birth",
+      "plot": "Joey helps a stranger give birth and wants to stay in the baby's life",
+      "trigger": "event",
+      "tension": [
+        "commitment",
+        "identity"
+      ],
+      "stakes": "a borrowed family",
+      "reveal": "he's not the father",
+      "relationship": "strangers",
+      "setting": "hospital",
+      "verify": false
+    },
+    {
+      "id": "s01e24-a",
+      "season": 1,
+      "episode": 24,
+      "title": "The One Where Rachel Finds Out",
+      "plot": "Rachel learns by accident that Ross loves her just as he leaves for China",
+      "trigger": "discovery",
+      "tension": [
+        "secret",
+        "attraction"
+      ],
+      "stakes": "timing",
+      "reveal": "she runs to the airport too late",
+      "relationship": "friends",
+      "setting": "travel",
+      "verify": false
+    },
+    {
+      "id": "s02e01-a",
+      "season": 2,
+      "episode": 1,
+      "title": "The One with Ross's New Girlfriend",
+      "plot": "Rachel waits at the airport to confess her love and Ross walks out with a new girlfriend",
+      "trigger": "travel",
+      "tension": [
+        "jealousy",
+        "attraction"
+      ],
+      "stakes": "a missed moment",
+      "reveal": "he moved on",
+      "relationship": "friends",
+      "setting": "travel",
+      "verify": false
+    },
+    {
+      "id": "s02e01-b",
+      "season": 2,
+      "episode": 1,
+      "title": "The One with Ross's New Girlfriend",
+      "plot": "Phoebe gives Monica a haircut that goes horribly wrong",
+      "trigger": "mistake",
+      "tension": [
+        "embarrassment",
+        "loyalty"
+      ],
+      "stakes": "trust between friends",
+      "reveal": "Dudley Moore vs Demi Moore",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s02e01-c",
+      "season": 2,
+      "episode": 1,
+      "title": "The One with Ross's New Girlfriend",
+      "plot": "Joey's tailor gets inappropriately handsy and the others insist it's normal",
+      "trigger": "discovery",
+      "tension": [
+        "taboo",
+        "embarrassment"
+      ],
+      "stakes": "what counts as normal",
+      "reveal": "it was never normal",
+      "relationship": "friends",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s02e02-a",
+      "season": 2,
+      "episode": 2,
+      "title": "The One with the Breast Milk",
+      "plot": "Monica befriends Ross's new girlfriend Julie and Rachel feels betrayed",
+      "trigger": "date",
+      "tension": [
+        "loyalty",
+        "jealousy"
+      ],
+      "stakes": "friendship loyalty",
+      "reveal": "shopping with the enemy",
+      "relationship": "friends",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s02e02-b",
+      "season": 2,
+      "episode": 2,
+      "title": "The One with the Breast Milk",
+      "plot": "Joey is a cologne sprayer at a department store and battles a rival sprayer",
+      "trigger": "job",
+      "tension": [
+        "rivalry",
+        "status"
+      ],
+      "stakes": "job turf",
+      "reveal": "the gunslinger showdown",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s02e02-c",
+      "season": 2,
+      "episode": 2,
+      "title": "The One with the Breast Milk",
+      "plot": "Everyone tastes Carol's breast milk except Ross who can't bring himself to",
+      "trigger": "challenge",
+      "tension": [
+        "taboo",
+        "embarrassment"
+      ],
+      "stakes": "being a sport",
+      "reveal": "he tries it alone",
+      "relationship": "family",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s02e03-a",
+      "season": 2,
+      "episode": 3,
+      "title": "The One Where Heckles Dies",
+      "plot": "The cranky neighbour dies and leaves everything to Monica and Rachel",
+      "trigger": "discovery",
+      "tension": [
+        "guilt",
+        "identity"
+      ],
+      "stakes": "an inheritance of junk",
+      "reveal": "he left it to the noisy girls",
+      "relationship": "strangers",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s02e03-b",
+      "season": 2,
+      "episode": 3,
+      "title": "The One Where Heckles Dies",
+      "plot": "Chandler sees his own lonely future in Heckles's things",
+      "trigger": "discovery",
+      "tension": [
+        "commitment",
+        "identity"
+      ],
+      "stakes": "ending up alone",
+      "reveal": "he calls Janice",
+      "relationship": "dating",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s02e04-a",
+      "season": 2,
+      "episode": 4,
+      "title": "The One with Phoebe's Husband",
+      "plot": "Phoebe reveals she's married to a gay ice dancer for his green card",
+      "trigger": "discovery",
+      "tension": [
+        "secret",
+        "identity"
+      ],
+      "stakes": "a hidden marriage",
+      "reveal": "he's actually straight",
+      "relationship": "friends",
+      "setting": "cafe",
+      "verify": false
+    },
+    {
+      "id": "s02e05-a",
+      "season": 2,
+      "episode": 5,
+      "title": "The One with Five Steaks and an Eggplant",
+      "plot": "Friends with less money resent always splitting the bill evenly",
+      "trigger": "money",
+      "tension": [
+        "money",
+        "loyalty"
+      ],
+      "stakes": "equality in a friend group",
+      "reveal": "one rich guy's birthday splits the group",
+      "relationship": "friends",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s02e05-b",
+      "season": 2,
+      "episode": 5,
+      "title": "The One with Five Steaks and an Eggplant",
+      "plot": "Chandler pretends to be someone else on the phone to land a date",
+      "trigger": "lie",
+      "tension": [
+        "identity",
+        "attraction"
+      ],
+      "stakes": "a fake persona",
+      "reveal": "the real person shows up",
+      "relationship": "strangers",
+      "setting": "public",
+      "verify": true
+    },
+    {
+      "id": "s02e06-a",
+      "season": 2,
+      "episode": 6,
+      "title": "The One with the Baby on the Bus",
+      "plot": "Joey and Chandler babysit Ben and leave him on a bus",
+      "trigger": "mistake",
+      "tension": [
+        "guilt",
+        "secret"
+      ],
+      "stakes": "a parent's trust",
+      "reveal": "they nearly bring back the wrong baby",
+      "relationship": "friends",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s02e06-b",
+      "season": 2,
+      "episode": 6,
+      "title": "The One with the Baby on the Bus",
+      "plot": "Phoebe's coffeehouse gig is taken by a pro singer and she sings outside",
+      "trigger": "job",
+      "tension": [
+        "status",
+        "rivalry"
+      ],
+      "stakes": "a passion spot",
+      "reveal": "the pro is better",
+      "relationship": "coworkers",
+      "setting": "cafe",
+      "verify": false
+    },
+    {
+      "id": "s02e07-a",
+      "season": 2,
+      "episode": 7,
+      "title": "The One Where Ross Finds Out",
+      "plot": "Monica personal-trains Chandler and pushes him too far",
+      "trigger": "challenge",
+      "tension": [
+        "control",
+        "status"
+      ],
+      "stakes": "getting fit",
+      "reveal": "the trainer breaks the friendship",
+      "relationship": "friends",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s02e07-b",
+      "season": 2,
+      "episode": 7,
+      "title": "The One Where Ross Finds Out",
+      "plot": "A drunk voicemail exposes Rachel's feelings for Ross while he's with Julie",
+      "trigger": "mistake",
+      "tension": [
+        "secret",
+        "attraction"
+      ],
+      "stakes": "a confession",
+      "reveal": "the voicemail plays in front of him",
+      "relationship": "friends",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s02e08-a",
+      "season": 2,
+      "episode": 8,
+      "title": "The One with the List",
+      "plot": "Ross writes a pros and cons list comparing two women and one of them reads it",
+      "trigger": "mistake",
+      "tension": [
+        "guilt",
+        "status"
+      ],
+      "stakes": "choosing a partner",
+      "reveal": "the list is found",
+      "relationship": "dating",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s02e08-b",
+      "season": 2,
+      "episode": 8,
+      "title": "The One with the List",
+      "plot": "Monica must develop recipes for a fake-chocolate product she despises",
+      "trigger": "job",
+      "tension": [
+        "identity",
+        "money"
+      ],
+      "stakes": "doing work you hate",
+      "reveal": "everything tastes bad",
+      "relationship": "coworkers",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s02e09-a",
+      "season": 2,
+      "episode": 9,
+      "title": "The One with Phoebe's Dad",
+      "plot": "Phoebe travels to her father's house at Christmas but can't bring herself to knock",
+      "trigger": "discovery",
+      "tension": [
+        "family",
+        "identity"
+      ],
+      "stakes": "meeting a parent",
+      "reveal": "she leaves without knocking",
+      "relationship": "parent-child",
+      "setting": "holiday",
+      "verify": false
+    },
+    {
+      "id": "s02e09-b",
+      "season": 2,
+      "episode": 9,
+      "title": "The One with Phoebe's Dad",
+      "plot": "The guys leave Christmas shopping to the last minute and buy gifts at a petrol station",
+      "trigger": "deadline",
+      "tension": [
+        "guilt",
+        "embarrassment"
+      ],
+      "stakes": "showing you care",
+      "reveal": "gas station gifts",
+      "relationship": "friends",
+      "setting": "holiday",
+      "verify": false
+    },
+    {
+      "id": "s02e10-a",
+      "season": 2,
+      "episode": 10,
+      "title": "The One with Russ",
+      "plot": "Rachel dates a man who is a carbon copy of Ross",
+      "trigger": "date",
+      "tension": [
+        "identity",
+        "jealousy"
+      ],
+      "stakes": "a type",
+      "reveal": "everyone sees it but her",
+      "relationship": "dating",
+      "setting": "cafe",
+      "verify": false
+    },
+    {
+      "id": "s02e11-a",
+      "season": 2,
+      "episode": 11,
+      "title": "The One with the Lesbian Wedding",
+      "plot": "Carol's parents boycott her wedding and Ross steps in to give her away",
+      "trigger": "event",
+      "tension": [
+        "family",
+        "loyalty"
+      ],
+      "stakes": "acceptance",
+      "reveal": "the ex is the support",
+      "relationship": "exes",
+      "setting": "wedding",
+      "verify": false
+    },
+    {
+      "id": "s02e11-b",
+      "season": 2,
+      "episode": 11,
+      "title": "The One with the Lesbian Wedding",
+      "plot": "Rachel's mother visits and announces she's divorcing",
+      "trigger": "visitor",
+      "tension": [
+        "family",
+        "independence"
+      ],
+      "stakes": "a parent's freedom",
+      "reveal": "the mother envies the runaway bride",
+      "relationship": "parent-child",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s02e12-a",
+      "season": 2,
+      "episode": 12,
+      "title": "The One After the Superbowl: Part 1",
+      "plot": "Ross tracks down his old monkey who's now a film star",
+      "trigger": "discovery",
+      "tension": [
+        "loyalty",
+        "status"
+      ],
+      "stakes": "reunion",
+      "reveal": "the monkey doesn't remember",
+      "relationship": "strangers",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s02e12-b",
+      "season": 2,
+      "episode": 12,
+      "title": "The One After the Superbowl: Part 1",
+      "plot": "A fan believes Joey really is his soap doctor character",
+      "trigger": "date",
+      "tension": [
+        "identity",
+        "secret"
+      ],
+      "stakes": "fame",
+      "reveal": "the stalker confuses actor and role",
+      "relationship": "strangers",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s02e13-a",
+      "season": 2,
+      "episode": 13,
+      "title": "The One After the Superbowl: Part 2",
+      "plot": "Monica and Rachel fight over who gets to ask out a film star they meet on set",
+      "trigger": "challenge",
+      "tension": [
+        "rivalry",
+        "attraction"
+      ],
+      "stakes": "a celebrity date",
+      "reveal": "the star picks someone",
+      "relationship": "friends",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s02e13-b",
+      "season": 2,
+      "episode": 13,
+      "title": "The One After the Superbowl: Part 2",
+      "plot": "Chandler's childhood crush takes elaborate revenge for something he did in school",
+      "trigger": "date",
+      "tension": [
+        "guilt",
+        "secret"
+      ],
+      "stakes": "a past wrong",
+      "reveal": "she leaves him in women's underwear",
+      "relationship": "exes",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s02e14-a",
+      "season": 2,
+      "episode": 14,
+      "title": "The One with the Prom Video",
+      "plot": "An old prom video shows Ross getting ready to take Rachel when she'd been stood up",
+      "trigger": "discovery",
+      "tension": [
+        "secret",
+        "attraction"
+      ],
+      "stakes": "a past kindness",
+      "reveal": "she sees it on tape",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s02e14-b",
+      "season": 2,
+      "episode": 14,
+      "title": "The One with the Prom Video",
+      "plot": "Joey buys Chandler a gaudy bracelet and Chandler must pretend to love it",
+      "trigger": "object",
+      "tension": [
+        "loyalty",
+        "embarrassment"
+      ],
+      "stakes": "a friend's gift",
+      "reveal": "he loses it",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s02e15-a",
+      "season": 2,
+      "episode": 15,
+      "title": "The One Where Ross and Rachel... You Know",
+      "plot": "Ross and Rachel's first date gets awkward because they know each other too well",
+      "trigger": "date",
+      "tension": [
+        "attraction",
+        "identity"
+      ],
+      "stakes": "friends to lovers",
+      "reveal": "laughter kills the moment",
+      "relationship": "friends",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s02e15-b",
+      "season": 2,
+      "episode": 15,
+      "title": "The One Where Ross and Rachel... You Know",
+      "plot": "Monica falls for her parents' much older friend Richard",
+      "trigger": "date",
+      "tension": [
+        "taboo",
+        "family"
+      ],
+      "stakes": "an age gap",
+      "reveal": "the parents' friend",
+      "relationship": "dating",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s02e15-c",
+      "season": 2,
+      "episode": 15,
+      "title": "The One Where Ross and Rachel... You Know",
+      "plot": "Joey and Chandler buy recliners and never leave them",
+      "trigger": "object",
+      "tension": [
+        "independence",
+        "identity"
+      ],
+      "stakes": "a lazy utopia",
+      "reveal": "they miss the world",
+      "relationship": "roommates",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s02e16-a",
+      "season": 2,
+      "episode": 16,
+      "title": "The One Where Joey Moves Out",
+      "plot": "Joey moves out of the shared apartment after a petty fight about independence",
+      "trigger": "move",
+      "tension": [
+        "independence",
+        "loyalty"
+      ],
+      "stakes": "a friendship",
+      "reveal": "neither wanted it",
+      "relationship": "roommates",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s02e16-b",
+      "season": 2,
+      "episode": 16,
+      "title": "The One Where Joey Moves Out",
+      "plot": "Monica tells her parents she's dating their friend Richard",
+      "trigger": "discovery",
+      "tension": [
+        "family",
+        "taboo"
+      ],
+      "stakes": "parental approval",
+      "reveal": "the father overhears",
+      "relationship": "parent-child",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s02e17-a",
+      "season": 2,
+      "episode": 17,
+      "title": "The One Where Eddie Moves In",
+      "plot": "Chandler's new roommate is odd while Chandler still misses Joey",
+      "trigger": "move",
+      "tension": [
+        "loyalty",
+        "jealousy"
+      ],
+      "stakes": "a replacement",
+      "reveal": "the new one is a nightmare",
+      "relationship": "roommates",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s02e17-b",
+      "season": 2,
+      "episode": 17,
+      "title": "The One Where Eddie Moves In",
+      "plot": "Phoebe gets a record deal but they want to change her song",
+      "trigger": "job",
+      "tension": [
+        "identity",
+        "status"
+      ],
+      "stakes": "selling out",
+      "reveal": "she refuses",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s02e18-a",
+      "season": 2,
+      "episode": 18,
+      "title": "The One Where Dr. Ramoray Dies",
+      "plot": "Joey tells a magazine he writes his own lines and the writers kill his character",
+      "trigger": "mistake",
+      "tension": [
+        "status",
+        "identity"
+      ],
+      "stakes": "a career",
+      "reveal": "bragging gets him killed off",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s02e18-b",
+      "season": 2,
+      "episode": 18,
+      "title": "The One Where Dr. Ramoray Dies",
+      "plot": "Monica obsesses about Richard's sex life with his ex",
+      "trigger": "discovery",
+      "tension": [
+        "jealousy",
+        "commitment"
+      ],
+      "stakes": "comparing to the ex",
+      "reveal": "she counts the numbers",
+      "relationship": "dating",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s02e19-a",
+      "season": 2,
+      "episode": 19,
+      "title": "The One Where Eddie Won't Go",
+      "plot": "Chandler can't evict his unhinged roommate so they move him out while he sleeps",
+      "trigger": "deadline",
+      "tension": [
+        "control",
+        "guilt"
+      ],
+      "stakes": "your own home",
+      "reveal": "they change the locks",
+      "relationship": "roommates",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s02e19-b",
+      "season": 2,
+      "episode": 19,
+      "title": "The One Where Eddie Won't Go",
+      "plot": "The girls read an empowerment book and turn on the men",
+      "trigger": "object",
+      "tension": [
+        "independence",
+        "status"
+      ],
+      "stakes": "personal power",
+      "reveal": "the guys are terrified",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s02e20-a",
+      "season": 2,
+      "episode": 20,
+      "title": "The One Where Old Yeller Dies",
+      "plot": "Phoebe learns her mother hid sad film endings from her",
+      "trigger": "discovery",
+      "tension": [
+        "family",
+        "identity"
+      ],
+      "stakes": "a protected childhood",
+      "reveal": "everything ends sadly",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s02e20-b",
+      "season": 2,
+      "episode": 20,
+      "title": "The One Where Old Yeller Dies",
+      "plot": "Richard admits he doesn't want more kids and Monica realises she does",
+      "trigger": "discovery",
+      "tension": [
+        "commitment",
+        "family"
+      ],
+      "stakes": "a future",
+      "reveal": "a dealbreaker surfaces",
+      "relationship": "dating",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s02e21-a",
+      "season": 2,
+      "episode": 21,
+      "title": "The One with the Bullies",
+      "plot": "Two bullies take Ross and Chandler's couch and they agree to fight",
+      "trigger": "challenge",
+      "tension": [
+        "status",
+        "rivalry"
+      ],
+      "stakes": "masculinity",
+      "reveal": "nobody knows how to fight",
+      "relationship": "strangers",
+      "setting": "cafe",
+      "verify": false
+    },
+    {
+      "id": "s02e21-b",
+      "season": 2,
+      "episode": 21,
+      "title": "The One with the Bullies",
+      "plot": "Monica plays the stock market by picking tickers that sound nice",
+      "trigger": "money",
+      "tension": [
+        "money",
+        "control"
+      ],
+      "stakes": "savings",
+      "reveal": "she loses big",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s02e21-c",
+      "season": 2,
+      "episode": 21,
+      "title": "The One with the Bullies",
+      "plot": "Phoebe goes to meet her father and meets her half-brother instead",
+      "trigger": "discovery",
+      "tension": [
+        "family",
+        "identity"
+      ],
+      "stakes": "family",
+      "reveal": "a sibling she never knew",
+      "relationship": "siblings",
+      "setting": "home",
+      "verify": true
+    },
+    {
+      "id": "s02e22-a",
+      "season": 2,
+      "episode": 22,
+      "title": "The One with Two Parties",
+      "plot": "The friends secretly throw two simultaneous parties to keep Rachel's divorced parents apart",
+      "trigger": "event",
+      "tension": [
+        "family",
+        "secret"
+      ],
+      "stakes": "a birthday",
+      "reveal": "they run into each other anyway",
+      "relationship": "parent-child",
+      "setting": "party",
+      "verify": false
+    },
+    {
+      "id": "s02e23-a",
+      "season": 2,
+      "episode": 23,
+      "title": "The One with the Chicken Pox",
+      "plot": "Phoebe's long-distance navy boyfriend visits but she has chicken pox",
+      "trigger": "date",
+      "tension": [
+        "attraction",
+        "control"
+      ],
+      "stakes": "a rare visit",
+      "reveal": "they scratch together",
+      "relationship": "dating",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s02e23-b",
+      "season": 2,
+      "episode": 23,
+      "title": "The One with the Chicken Pox",
+      "plot": "Monica and Richard argue about whether a new relationship can last without a future",
+      "trigger": "event",
+      "tension": [
+        "commitment",
+        "family"
+      ],
+      "stakes": "the long-term plan",
+      "reveal": "neither changes",
+      "relationship": "dating",
+      "setting": "home",
+      "verify": true
+    },
+    {
+      "id": "s02e24-a",
+      "season": 2,
+      "episode": 24,
+      "title": "The One with Barry and Mindy's Wedding",
+      "plot": "Rachel is maid of honour at her ex's wedding to her friend and must sing",
+      "trigger": "event",
+      "tension": [
+        "status",
+        "embarrassment"
+      ],
+      "stakes": "dignity",
+      "reveal": "she sings anyway",
+      "relationship": "exes",
+      "setting": "wedding",
+      "verify": false
+    },
+    {
+      "id": "s02e24-b",
+      "season": 2,
+      "episode": 24,
+      "title": "The One with Barry and Mindy's Wedding",
+      "plot": "Monica and Richard break up over kids",
+      "trigger": "event",
+      "tension": [
+        "commitment",
+        "family"
+      ],
+      "stakes": "love vs a future",
+      "reveal": "both are right",
+      "relationship": "dating",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s02e24-c",
+      "season": 2,
+      "episode": 24,
+      "title": "The One with Barry and Mindy's Wedding",
+      "plot": "Chandler's anonymous online girlfriend turns out to be Janice",
+      "trigger": "date",
+      "tension": [
+        "identity",
+        "secret"
+      ],
+      "stakes": "an online romance",
+      "reveal": "it's the ex",
+      "relationship": "strangers",
+      "setting": "cafe",
+      "verify": false
+    },
+    {
+      "id": "s03e01-a",
+      "season": 3,
+      "episode": 1,
+      "title": "The One with the Princess Leia Fantasy",
+      "plot": "Ross confesses a sexual fantasy to Rachel and the group overshares their own",
+      "trigger": "challenge",
+      "tension": [
+        "taboo",
+        "embarrassment"
+      ],
+      "stakes": "intimacy",
+      "reveal": "everyone has a weirder one",
+      "relationship": "couple",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s03e01-b",
+      "season": 3,
+      "episode": 1,
+      "title": "The One with the Princess Leia Fantasy",
+      "plot": "Monica can't sleep after the breakup with Richard",
+      "trigger": "discovery",
+      "tension": [
+        "commitment",
+        "identity"
+      ],
+      "stakes": "moving on",
+      "reveal": "grief keeps her up",
+      "relationship": "exes",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s03e01-c",
+      "season": 3,
+      "episode": 1,
+      "title": "The One with the Princess Leia Fantasy",
+      "plot": "Chandler forces Janice and Joey to become friends",
+      "trigger": "rule",
+      "tension": [
+        "loyalty",
+        "control"
+      ],
+      "stakes": "friend vs partner",
+      "reveal": "they bond too well",
+      "relationship": "friends",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s03e02-a",
+      "season": 3,
+      "episode": 2,
+      "title": "The One Where No One's Ready",
+      "plot": "Ross has 20 minutes to get everyone ready for a black-tie museum event and nobody cooperates",
+      "trigger": "deadline",
+      "tension": [
+        "control",
+        "status"
+      ],
+      "stakes": "his big night",
+      "reveal": "Joey wears all of Chandler's clothes",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s03e03-a",
+      "season": 3,
+      "episode": 3,
+      "title": "The One with the Jam",
+      "plot": "Monica copes with heartbreak by making industrial amounts of jam and plans to use a sperm bank",
+      "trigger": "discovery",
+      "tension": [
+        "commitment",
+        "independence"
+      ],
+      "stakes": "having a child alone",
+      "reveal": "Joey talks her out of it",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s03e03-b",
+      "season": 3,
+      "episode": 3,
+      "title": "The One with the Jam",
+      "plot": "Phoebe is followed by a man who stalked her twin and starts dating him",
+      "trigger": "discovery",
+      "tension": [
+        "identity",
+        "attraction"
+      ],
+      "stakes": "safety vs romance",
+      "reveal": "he still loves the twin",
+      "relationship": "strangers",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s03e04-a",
+      "season": 3,
+      "episode": 4,
+      "title": "The One with the Metaphorical Tunnel",
+      "plot": "Chandler is terrified of commitment and tries to push himself through it",
+      "trigger": "event",
+      "tension": [
+        "commitment",
+        "identity"
+      ],
+      "stakes": "a relationship",
+      "reveal": "he panics then commits",
+      "relationship": "dating",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s03e04-b",
+      "season": 3,
+      "episode": 4,
+      "title": "The One with the Metaphorical Tunnel",
+      "plot": "Ross worries about his son playing with a Barbie doll",
+      "trigger": "object",
+      "tension": [
+        "identity",
+        "family"
+      ],
+      "stakes": "fatherhood values",
+      "reveal": "it's his problem not Ben's",
+      "relationship": "parent-child",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s03e04-c",
+      "season": 3,
+      "episode": 4,
+      "title": "The One with the Metaphorical Tunnel",
+      "plot": "Phoebe poses as Joey's agent's assistant and lands him auditions",
+      "trigger": "lie",
+      "tension": [
+        "status",
+        "identity"
+      ],
+      "stakes": "a career break",
+      "reveal": "the fake agent outperforms the real one",
+      "relationship": "friends",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s03e05-a",
+      "season": 3,
+      "episode": 5,
+      "title": "The One with Frank Jr.",
+      "plot": "Phoebe tries to bond with her odd half-brother and struggles",
+      "trigger": "visitor",
+      "tension": [
+        "family",
+        "identity"
+      ],
+      "stakes": "a new family tie",
+      "reveal": "they finally connect",
+      "relationship": "siblings",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s03e05-b",
+      "season": 3,
+      "episode": 5,
+      "title": "The One with Frank Jr.",
+      "plot": "The friends make laminated lists of celebrities they're allowed to sleep with",
+      "trigger": "rule",
+      "tension": [
+        "jealousy",
+        "attraction"
+      ],
+      "stakes": "couple rules",
+      "reveal": "one of them shows up",
+      "relationship": "couple",
+      "setting": "cafe",
+      "verify": false
+    },
+    {
+      "id": "s03e06-a",
+      "season": 3,
+      "episode": 6,
+      "title": "The One with the Flashback",
+      "plot": "Flashbacks reveal near-hookups between the friends from three years earlier",
+      "trigger": "discovery",
+      "tension": [
+        "secret",
+        "attraction"
+      ],
+      "stakes": "friendship history",
+      "reveal": "almost everyone kissed someone",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s03e07-a",
+      "season": 3,
+      "episode": 7,
+      "title": "The One with the Race Car Bed",
+      "plot": "Ross meets Rachel's intimidating father at dinner",
+      "trigger": "visitor",
+      "tension": [
+        "family",
+        "status"
+      ],
+      "stakes": "approval of a partner",
+      "reveal": "the father hates him",
+      "relationship": "couple",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s03e07-b",
+      "season": 3,
+      "episode": 7,
+      "title": "The One with the Race Car Bed",
+      "plot": "Monica's new bed is delivered as a race car bed",
+      "trigger": "mistake",
+      "tension": [
+        "control",
+        "embarrassment"
+      ],
+      "stakes": "getting what you paid for",
+      "reveal": "she fights the shop",
+      "relationship": "strangers",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s03e07-c",
+      "season": 3,
+      "episode": 7,
+      "title": "The One with the Race Car Bed",
+      "plot": "Joey's acting student undercuts him at an audition",
+      "trigger": "job",
+      "tension": [
+        "rivalry",
+        "status"
+      ],
+      "stakes": "mentorship",
+      "reveal": "the pupil wins",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": true
+    },
+    {
+      "id": "s03e08-a",
+      "season": 3,
+      "episode": 8,
+      "title": "The One with the Giant Poking Device",
+      "plot": "The group builds a giant poking stick to check whether the naked neighbour is dead",
+      "trigger": "discovery",
+      "tension": [
+        "guilt",
+        "control"
+      ],
+      "stakes": "a stranger's life",
+      "reveal": "he's fine",
+      "relationship": "strangers",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s03e08-b",
+      "season": 3,
+      "episode": 8,
+      "title": "The One with the Giant Poking Device",
+      "plot": "Chandler sees Janice kissing her ex-husband and wonders whether to tell",
+      "trigger": "discovery",
+      "tension": [
+        "secret",
+        "loyalty"
+      ],
+      "stakes": "telling a friend",
+      "reveal": "Janice chooses the ex",
+      "relationship": "friends",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s03e09-a",
+      "season": 3,
+      "episode": 9,
+      "title": "The One with the Football",
+      "plot": "A Thanksgiving touch football game reignites the Geller siblings' childhood rivalry",
+      "trigger": "holiday",
+      "tension": [
+        "rivalry",
+        "family"
+      ],
+      "stakes": "the Geller Cup",
+      "reveal": "they fight over a troll trophy",
+      "relationship": "siblings",
+      "setting": "holiday",
+      "verify": false
+    },
+    {
+      "id": "s03e09-b",
+      "season": 3,
+      "episode": 9,
+      "title": "The One with the Football",
+      "plot": "Joey and Chandler compete for the same woman during the game",
+      "trigger": "challenge",
+      "tension": [
+        "rivalry",
+        "attraction"
+      ],
+      "stakes": "a date",
+      "reveal": "she leaves with neither",
+      "relationship": "strangers",
+      "setting": "holiday",
+      "verify": false
+    },
+    {
+      "id": "s03e10-a",
+      "season": 3,
+      "episode": 10,
+      "title": "The One Where Rachel Quits",
+      "plot": "Rachel quits her waitress job without a plan to chase a fashion career",
+      "trigger": "job",
+      "tension": [
+        "independence",
+        "identity"
+      ],
+      "stakes": "career change",
+      "reveal": "she lands the job",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s03e10-b",
+      "season": 3,
+      "episode": 10,
+      "title": "The One Where Rachel Quits",
+      "plot": "Ross accidentally injures a girl scout and promises to sell her cookies to make up for it",
+      "trigger": "mistake",
+      "tension": [
+        "guilt",
+        "status"
+      ],
+      "stakes": "making it right",
+      "reveal": "he becomes obsessed with selling",
+      "relationship": "strangers",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s03e10-c",
+      "season": 3,
+      "episode": 10,
+      "title": "The One Where Rachel Quits",
+      "plot": "Phoebe gets upset about unsold Christmas trees being shredded",
+      "trigger": "holiday",
+      "tension": [
+        "guilt",
+        "identity"
+      ],
+      "stakes": "unsold trees",
+      "reveal": "the friends buy them all",
+      "relationship": "friends",
+      "setting": "holiday",
+      "verify": false
+    },
+    {
+      "id": "s03e11-a",
+      "season": 3,
+      "episode": 11,
+      "title": "The One Where Chandler Can't Remember Which Sister",
+      "plot": "Drunk at a party, Chandler kisses one of Joey's sisters and doesn't know which",
+      "trigger": "mistake",
+      "tension": [
+        "guilt",
+        "loyalty"
+      ],
+      "stakes": "a friendship",
+      "reveal": "he must apologise to all seven",
+      "relationship": "siblings",
+      "setting": "party",
+      "verify": false
+    },
+    {
+      "id": "s03e12-a",
+      "season": 3,
+      "episode": 12,
+      "title": "The One with All the Jealousy",
+      "plot": "Ross becomes jealous of Rachel's male coworker and sends flowers to mark territory",
+      "trigger": "job",
+      "tension": [
+        "jealousy",
+        "control"
+      ],
+      "stakes": "a relationship",
+      "reveal": "everyone sees through it",
+      "relationship": "couple",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s03e12-b",
+      "season": 3,
+      "episode": 12,
+      "title": "The One with All the Jealousy",
+      "plot": "Monica dates a waiter who writes a poem about her that turns out to be insulting",
+      "trigger": "date",
+      "tension": [
+        "status",
+        "embarrassment"
+      ],
+      "stakes": "being seen",
+      "reveal": "the poem is about her body",
+      "relationship": "dating",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s03e12-c",
+      "season": 3,
+      "episode": 12,
+      "title": "The One with All the Jealousy",
+      "plot": "Joey fakes dancing skills for an audition and ends up teaching the class",
+      "trigger": "lie",
+      "tension": [
+        "identity",
+        "status"
+      ],
+      "stakes": "getting the part",
+      "reveal": "he wins by bluffing",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s03e13-a",
+      "season": 3,
+      "episode": 13,
+      "title": "The One Where Monica and Richard Are Just Friends",
+      "plot": "Monica and Richard try to be just friends but end up sleeping together",
+      "trigger": "date",
+      "tension": [
+        "commitment",
+        "attraction"
+      ],
+      "stakes": "a clean break",
+      "reveal": "it's still love",
+      "relationship": "exes",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s03e13-b",
+      "season": 3,
+      "episode": 13,
+      "title": "The One Where Monica and Richard Are Just Friends",
+      "plot": "Joey and Rachel swap favourite books and keep putting them in the freezer",
+      "trigger": "object",
+      "tension": [
+        "identity",
+        "loyalty"
+      ],
+      "stakes": "sharing taste",
+      "reveal": "they spoil endings for each other",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s03e14-a",
+      "season": 3,
+      "episode": 14,
+      "title": "The One with Phoebe's Ex-Partner",
+      "plot": "Phoebe's former singing partner wants her back to write commercial jingles",
+      "trigger": "job",
+      "tension": [
+        "identity",
+        "status"
+      ],
+      "stakes": "artistic integrity",
+      "reveal": "the partner sells out",
+      "relationship": "exes",
+      "setting": "cafe",
+      "verify": false
+    },
+    {
+      "id": "s03e14-b",
+      "season": 3,
+      "episode": 14,
+      "title": "The One with Phoebe's Ex-Partner",
+      "plot": "Chandler dates a woman with a prosthetic leg and Joey reveals a past with her",
+      "trigger": "date",
+      "tension": [
+        "secret",
+        "embarrassment"
+      ],
+      "stakes": "a new relationship",
+      "reveal": "Joey threw her leg in a fire",
+      "relationship": "dating",
+      "setting": "cafe",
+      "verify": false
+    },
+    {
+      "id": "s03e15-a",
+      "season": 3,
+      "episode": 15,
+      "title": "The One Where Ross and Rachel Take a Break",
+      "plot": "Ross's jealousy of Mark pushes Rachel to call a break",
+      "trigger": "discovery",
+      "tension": [
+        "jealousy",
+        "commitment"
+      ],
+      "stakes": "a relationship",
+      "reveal": "the break is used",
+      "relationship": "couple",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s03e15-b",
+      "season": 3,
+      "episode": 15,
+      "title": "The One Where Ross and Rachel Take a Break",
+      "plot": "Phoebe dates a diplomat whose interpreter is more interesting than he is",
+      "trigger": "date",
+      "tension": [
+        "attraction",
+        "identity"
+      ],
+      "stakes": "a translated romance",
+      "reveal": "she falls for the interpreter",
+      "relationship": "dating",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s03e16-a",
+      "season": 3,
+      "episode": 16,
+      "title": "The One the Morning After",
+      "plot": "Ross slept with someone during the break and Rachel finds out, with the group trapped in the room listening",
+      "trigger": "discovery",
+      "tension": [
+        "secret",
+        "guilt"
+      ],
+      "stakes": "a relationship",
+      "reveal": "everyone overhears the breakup",
+      "relationship": "couple",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s03e17-a",
+      "season": 3,
+      "episode": 17,
+      "title": "The One Without the Ski Trip",
+      "plot": "Rachel's ski trip excludes Ross and the group are stuck when they run out of petrol",
+      "trigger": "travel",
+      "tension": [
+        "loyalty",
+        "guilt"
+      ],
+      "stakes": "a fractured group",
+      "reveal": "he has to rescue them",
+      "relationship": "exes",
+      "setting": "travel",
+      "verify": false
+    },
+    {
+      "id": "s03e18-a",
+      "season": 3,
+      "episode": 18,
+      "title": "The One with the Hypnosis Tape",
+      "plot": "Chandler's quit-smoking hypnosis tape is designed for women and changes him",
+      "trigger": "object",
+      "tension": [
+        "identity",
+        "embarrassment"
+      ],
+      "stakes": "quitting",
+      "reveal": "he becomes a strong confident woman",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s03e18-b",
+      "season": 3,
+      "episode": 18,
+      "title": "The One with the Hypnosis Tape",
+      "plot": "Monica is pursued by a millionaire she isn't attracted to",
+      "trigger": "date",
+      "tension": [
+        "attraction",
+        "money"
+      ],
+      "stakes": "a rich suitor",
+      "reveal": "he flies her to Rome for pizza",
+      "relationship": "dating",
+      "setting": "travel",
+      "verify": false
+    },
+    {
+      "id": "s03e18-c",
+      "season": 3,
+      "episode": 18,
+      "title": "The One with the Hypnosis Tape",
+      "plot": "Phoebe's teenage brother announces his engagement to his much older teacher",
+      "trigger": "discovery",
+      "tension": [
+        "taboo",
+        "family"
+      ],
+      "stakes": "family approval",
+      "reveal": "they're serious",
+      "relationship": "siblings",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s03e19-a",
+      "season": 3,
+      "episode": 19,
+      "title": "The One with the Tiny T-Shirt",
+      "plot": "Ross and Rachel swap back each other's stuff after the break-up",
+      "trigger": "object",
+      "tension": [
+        "loyalty",
+        "commitment"
+      ],
+      "stakes": "closure",
+      "reveal": "the shirt and the stuff make it worse",
+      "relationship": "exes",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s03e20-a",
+      "season": 3,
+      "episode": 20,
+      "title": "The One with the Dollhouse",
+      "plot": "Monica's precious dollhouse is outshone by Phoebe's over-the-top rival dollhouse",
+      "trigger": "object",
+      "tension": [
+        "rivalry",
+        "control"
+      ],
+      "stakes": "ownership",
+      "reveal": "Phoebe's catches fire",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s03e20-b",
+      "season": 3,
+      "episode": 20,
+      "title": "The One with the Dollhouse",
+      "plot": "Joey falls for his co-star in a play who sleeps with the director",
+      "trigger": "job",
+      "tension": [
+        "attraction",
+        "jealousy"
+      ],
+      "stakes": "a showmance",
+      "reveal": "she chooses the director",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s03e21-a",
+      "season": 3,
+      "episode": 21,
+      "title": "The One with a Chick and a Duck",
+      "plot": "Joey buys a baby chick and then a duck to keep it company",
+      "trigger": "object",
+      "tension": [
+        "commitment",
+        "identity"
+      ],
+      "stakes": "pet ownership",
+      "reveal": "they become family",
+      "relationship": "roommates",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s03e21-b",
+      "season": 3,
+      "episode": 21,
+      "title": "The One with a Chick and a Duck",
+      "plot": "Monica's millionaire boyfriend proposes after the first kiss",
+      "trigger": "date",
+      "tension": [
+        "commitment",
+        "attraction"
+      ],
+      "stakes": "a fast relationship",
+      "reveal": "she isn't in love",
+      "relationship": "dating",
+      "setting": "home",
+      "verify": true
+    },
+    {
+      "id": "s03e22-a",
+      "season": 3,
+      "episode": 22,
+      "title": "The One with the Screamer",
+      "plot": "Rachel's new boyfriend is nice to her but screams at everyone else and nobody believes Ross",
+      "trigger": "discovery",
+      "tension": [
+        "secret",
+        "jealousy"
+      ],
+      "stakes": "telling the truth",
+      "reveal": "he finally screams in front of her",
+      "relationship": "exes",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s03e22-b",
+      "season": 3,
+      "episode": 22,
+      "title": "The One with the Screamer",
+      "plot": "Joey's play is so bad it closes on opening night",
+      "trigger": "job",
+      "tension": [
+        "status",
+        "embarrassment"
+      ],
+      "stakes": "a career",
+      "reveal": "it's a disaster",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s03e23-a",
+      "season": 3,
+      "episode": 23,
+      "title": "The One with Ross's Thing",
+      "plot": "Ross discovers a strange growth on his back and sees doctors and healers",
+      "trigger": "discovery",
+      "tension": [
+        "identity",
+        "embarrassment"
+      ],
+      "stakes": "health",
+      "reveal": "it's nothing",
+      "relationship": "friends",
+      "setting": "hospital",
+      "verify": false
+    },
+    {
+      "id": "s03e23-b",
+      "season": 3,
+      "episode": 23,
+      "title": "The One with Ross's Thing",
+      "plot": "Phoebe dates a fireman and a schoolteacher and can't choose",
+      "trigger": "date",
+      "tension": [
+        "commitment",
+        "attraction"
+      ],
+      "stakes": "two partners",
+      "reveal": "both end",
+      "relationship": "dating",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s03e24-a",
+      "season": 3,
+      "episode": 24,
+      "title": "The One with the Ultimate Fighting Champion",
+      "plot": "Monica's millionaire boyfriend enters cage fighting and keeps getting beaten",
+      "trigger": "challenge",
+      "tension": [
+        "commitment",
+        "control"
+      ],
+      "stakes": "safety vs ambition",
+      "reveal": "she leaves him",
+      "relationship": "dating",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s03e24-b",
+      "season": 3,
+      "episode": 24,
+      "title": "The One with the Ultimate Fighting Champion",
+      "plot": "Chandler's new boss slaps everyone's butt but his",
+      "trigger": "job",
+      "tension": [
+        "status",
+        "embarrassment"
+      ],
+      "stakes": "workplace respect",
+      "reveal": "he wants to be slapped too",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s03e25-a",
+      "season": 3,
+      "episode": 25,
+      "title": "The One at the Beach",
+      "plot": "Phoebe meets a woman who knew her mother and learns the woman is her birth mother",
+      "trigger": "discovery",
+      "tension": [
+        "family",
+        "identity"
+      ],
+      "stakes": "family origin",
+      "reveal": "her real mother",
+      "relationship": "parent-child",
+      "setting": "holiday",
+      "verify": false
+    },
+    {
+      "id": "s03e25-b",
+      "season": 3,
+      "episode": 25,
+      "title": "The One at the Beach",
+      "plot": "Rachel gets Ross's new girlfriend to shave her head on a beach weekend",
+      "trigger": "lie",
+      "tension": [
+        "jealousy",
+        "rivalry"
+      ],
+      "stakes": "winning back an ex",
+      "reveal": "Ross kisses Rachel",
+      "relationship": "exes",
+      "setting": "holiday",
+      "verify": false
+    },
+    {
+      "id": "s04e01-a",
+      "season": 4,
+      "episode": 1,
+      "title": "The One with the Jellyfish",
+      "plot": "Rachel demands Ross take responsibility for their break-up in an 18-page letter",
+      "trigger": "object",
+      "tension": [
+        "guilt",
+        "commitment"
+      ],
+      "stakes": "getting back together",
+      "reveal": "he fell asleep reading it",
+      "relationship": "exes",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s04e01-b",
+      "season": 4,
+      "episode": 1,
+      "title": "The One with the Jellyfish",
+      "plot": "Monica gets stung by a jellyfish and Chandler has to pee on her",
+      "trigger": "mistake",
+      "tension": [
+        "embarrassment",
+        "loyalty"
+      ],
+      "stakes": "a friend's pain",
+      "reveal": "it ruins their friendship for days",
+      "relationship": "friends",
+      "setting": "holiday",
+      "verify": false
+    },
+    {
+      "id": "s04e01-c",
+      "season": 4,
+      "episode": 1,
+      "title": "The One with the Jellyfish",
+      "plot": "Phoebe confronts her birth mother",
+      "trigger": "discovery",
+      "tension": [
+        "family",
+        "identity"
+      ],
+      "stakes": "a relationship",
+      "reveal": "she meets a new mother",
+      "relationship": "parent-child",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s04e02-a",
+      "season": 4,
+      "episode": 2,
+      "title": "The One with the Cat",
+      "plot": "Phoebe believes a stray cat is her dead mother",
+      "trigger": "discovery",
+      "tension": [
+        "family",
+        "identity"
+      ],
+      "stakes": "grief",
+      "reveal": "the cat belongs to someone",
+      "relationship": "friends",
+      "setting": "cafe",
+      "verify": false
+    },
+    {
+      "id": "s04e02-b",
+      "season": 4,
+      "episode": 2,
+      "title": "The One with the Cat",
+      "plot": "Monica dates Rachel's high school boyfriend",
+      "trigger": "date",
+      "tension": [
+        "loyalty",
+        "jealousy"
+      ],
+      "stakes": "a friend's past",
+      "reveal": "he hasn't changed since high school",
+      "relationship": "exes",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s04e02-c",
+      "season": 4,
+      "episode": 2,
+      "title": "The One with the Cat",
+      "plot": "Joey and Chandler sell Ross a defective entertainment unit",
+      "trigger": "job",
+      "tension": [
+        "money",
+        "guilt"
+      ],
+      "stakes": "a friend's money",
+      "reveal": "it doesn't work",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": true
+    },
+    {
+      "id": "s04e03-a",
+      "season": 4,
+      "episode": 3,
+      "title": "The One with the 'Cuffs",
+      "plot": "Chandler is handcuffed to a desk by Rachel's boss and Rachel finds him",
+      "trigger": "mistake",
+      "tension": [
+        "embarrassment",
+        "secret"
+      ],
+      "stakes": "work boundaries",
+      "reveal": "the boss is his date",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s04e03-b",
+      "season": 4,
+      "episode": 3,
+      "title": "The One with the 'Cuffs",
+      "plot": "Joey becomes a door-to-door encyclopedia salesman and buys one volume",
+      "trigger": "job",
+      "tension": [
+        "identity",
+        "money"
+      ],
+      "stakes": "self-improvement",
+      "reveal": "he only knows about V",
+      "relationship": "strangers",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s04e04-a",
+      "season": 4,
+      "episode": 4,
+      "title": "The One with the Ballroom Dancing",
+      "plot": "Joey must ballroom dance with the building superintendent to stop him evicting Monica and Rachel",
+      "trigger": "challenge",
+      "tension": [
+        "loyalty",
+        "embarrassment"
+      ],
+      "stakes": "saving the apartment",
+      "reveal": "he loves dancing",
+      "relationship": "strangers",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s04e04-b",
+      "season": 4,
+      "episode": 4,
+      "title": "The One with the Ballroom Dancing",
+      "plot": "Ross gets a new love interest who doesn't share his sense of humour",
+      "trigger": "date",
+      "tension": [
+        "attraction",
+        "identity"
+      ],
+      "stakes": "compatibility",
+      "reveal": "she's charmed anyway",
+      "relationship": "dating",
+      "setting": "home",
+      "verify": true
+    },
+    {
+      "id": "s04e05-a",
+      "season": 4,
+      "episode": 5,
+      "title": "The One with Joey's New Girlfriend",
+      "plot": "Chandler falls for his best friend's new girlfriend",
+      "trigger": "date",
+      "tension": [
+        "attraction",
+        "loyalty"
+      ],
+      "stakes": "a friendship",
+      "reveal": "he loved her first",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s04e05-b",
+      "season": 4,
+      "episode": 5,
+      "title": "The One with Joey's New Girlfriend",
+      "plot": "Rachel throws away a sentimental item and must dig it back up",
+      "trigger": "object",
+      "tension": [
+        "guilt",
+        "embarrassment"
+      ],
+      "stakes": "a friend's trust",
+      "reveal": "bins are full",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": true
+    },
+    {
+      "id": "s04e06-a",
+      "season": 4,
+      "episode": 6,
+      "title": "The One with the Dirty Girl",
+      "plot": "Ross dates a gorgeous woman whose apartment is filthy",
+      "trigger": "date",
+      "tension": [
+        "attraction",
+        "control"
+      ],
+      "stakes": "compatibility",
+      "reveal": "the mess wins",
+      "relationship": "dating",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s04e06-b",
+      "season": 4,
+      "episode": 6,
+      "title": "The One with the Dirty Girl",
+      "plot": "Chandler buys his friend's girlfriend a perfect gift and has to give it from Joey",
+      "trigger": "object",
+      "tension": [
+        "attraction",
+        "loyalty"
+      ],
+      "stakes": "a hidden crush",
+      "reveal": "she knows who it's from",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s04e06-c",
+      "season": 4,
+      "episode": 6,
+      "title": "The One with the Dirty Girl",
+      "plot": "Monica caters a funeral and asks Rachel's ex to help",
+      "trigger": "job",
+      "tension": [
+        "status",
+        "loyalty"
+      ],
+      "stakes": "a business break",
+      "reveal": "the funeral is a success",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": true
+    },
+    {
+      "id": "s04e07-a",
+      "season": 4,
+      "episode": 7,
+      "title": "The One Where Chandler Crosses the Line",
+      "plot": "Chandler kisses his best friend's girlfriend and must tell him",
+      "trigger": "mistake",
+      "tension": [
+        "guilt",
+        "loyalty"
+      ],
+      "stakes": "a friendship",
+      "reveal": "Joey is crushed",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s04e07-b",
+      "season": 4,
+      "episode": 7,
+      "title": "The One Where Chandler Crosses the Line",
+      "plot": "Ross plays his avant-garde keyboard music and nobody has the heart to tell him it's bad",
+      "trigger": "object",
+      "tension": [
+        "status",
+        "embarrassment"
+      ],
+      "stakes": "honesty vs kindness",
+      "reveal": "a stranger loves it",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s04e08-a",
+      "season": 4,
+      "episode": 8,
+      "title": "The One with Chandler in a Box",
+      "plot": "Chandler spends Thanksgiving inside a box to win back Joey",
+      "trigger": "holiday",
+      "tension": [
+        "guilt",
+        "loyalty"
+      ],
+      "stakes": "forgiveness",
+      "reveal": "Joey forgives him",
+      "relationship": "friends",
+      "setting": "holiday",
+      "verify": false
+    },
+    {
+      "id": "s04e08-b",
+      "season": 4,
+      "episode": 8,
+      "title": "The One with Chandler in a Box",
+      "plot": "Monica injures her eye and is treated by her ex's son, who's younger and attracted to her",
+      "trigger": "holiday",
+      "tension": [
+        "taboo",
+        "attraction"
+      ],
+      "stakes": "an awkward match",
+      "reveal": "it's Richard's son",
+      "relationship": "dating",
+      "setting": "holiday",
+      "verify": false
+    },
+    {
+      "id": "s04e09-a",
+      "season": 4,
+      "episode": 9,
+      "title": "The One Where They're Going to Party!",
+      "plot": "Monica takes a job at a 1950s diner with a waitress costume",
+      "trigger": "job",
+      "tension": [
+        "status",
+        "embarrassment"
+      ],
+      "stakes": "a career setback",
+      "reveal": "it's humiliating",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": true
+    },
+    {
+      "id": "s04e09-b",
+      "season": 4,
+      "episode": 9,
+      "title": "The One Where They're Going to Party!",
+      "plot": "Rachel's bosses party with Ross and Chandler and drag them into excess",
+      "trigger": "event",
+      "tension": [
+        "status",
+        "independence"
+      ],
+      "stakes": "keeping up",
+      "reveal": "they can't keep up",
+      "relationship": "coworkers",
+      "setting": "party",
+      "verify": true
+    },
+    {
+      "id": "s04e10-a",
+      "season": 4,
+      "episode": 10,
+      "title": "The One with the Girl from Poughkeepsie",
+      "plot": "Ross dates a woman from Poughkeepsie and falls asleep on the train",
+      "trigger": "date",
+      "tension": [
+        "commitment",
+        "independence"
+      ],
+      "stakes": "long distance",
+      "reveal": "he ends up miles away",
+      "relationship": "dating",
+      "setting": "travel",
+      "verify": false
+    },
+    {
+      "id": "s04e10-b",
+      "season": 4,
+      "episode": 10,
+      "title": "The One with the Girl from Poughkeepsie",
+      "plot": "Phoebe writes songs about each friend",
+      "trigger": "object",
+      "tension": [
+        "identity",
+        "embarrassment"
+      ],
+      "stakes": "being portrayed",
+      "reveal": "nobody likes theirs",
+      "relationship": "friends",
+      "setting": "cafe",
+      "verify": true
+    },
+    {
+      "id": "s04e11-a",
+      "season": 4,
+      "episode": 11,
+      "title": "The One with Phoebe's Uterus",
+      "plot": "Phoebe considers being a surrogate for her brother's babies",
+      "trigger": "discovery",
+      "tension": [
+        "family",
+        "identity"
+      ],
+      "stakes": "a life decision",
+      "reveal": "she says yes",
+      "relationship": "siblings",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s04e11-b",
+      "season": 4,
+      "episode": 11,
+      "title": "The One with Phoebe's Uterus",
+      "plot": "Monica teaches Chandler how to sexually satisfy women with a numbered system",
+      "trigger": "challenge",
+      "tension": [
+        "embarrassment",
+        "status"
+      ],
+      "stakes": "being a better partner",
+      "reveal": "he uses it on Kathy",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s04e11-c",
+      "season": 4,
+      "episode": 11,
+      "title": "The One with Phoebe's Uterus",
+      "plot": "Joey becomes a museum tour guide and can't eat with the scientists",
+      "trigger": "job",
+      "tension": [
+        "status",
+        "identity"
+      ],
+      "stakes": "workplace hierarchy",
+      "reveal": "class barrier at lunch",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s04e12-a",
+      "season": 4,
+      "episode": 12,
+      "title": "The One with the Embryos",
+      "plot": "The friends hold a trivia quiz about each other with the apartment at stake",
+      "trigger": "bet",
+      "tension": [
+        "rivalry",
+        "status"
+      ],
+      "stakes": "the better apartment",
+      "reveal": "the girls lose their home",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s04e12-b",
+      "season": 4,
+      "episode": 12,
+      "title": "The One with the Embryos",
+      "plot": "Phoebe undergoes embryo implantation and waits for the result",
+      "trigger": "deadline",
+      "tension": [
+        "family",
+        "commitment"
+      ],
+      "stakes": "a pregnancy",
+      "reveal": "it worked",
+      "relationship": "siblings",
+      "setting": "hospital",
+      "verify": false
+    },
+    {
+      "id": "s04e13-a",
+      "season": 4,
+      "episode": 13,
+      "title": "The One with Rachel's Crush",
+      "plot": "Rachel tries to get noticed by a handsome client at work",
+      "trigger": "date",
+      "tension": [
+        "attraction",
+        "status"
+      ],
+      "stakes": "a first move",
+      "reveal": "she's never subtle",
+      "relationship": "strangers",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s04e13-b",
+      "season": 4,
+      "episode": 13,
+      "title": "The One with Rachel's Crush",
+      "plot": "Chandler grows insecure about Kathy's sex scene with her co-star",
+      "trigger": "discovery",
+      "tension": [
+        "jealousy",
+        "commitment"
+      ],
+      "stakes": "trust",
+      "reveal": "they break up",
+      "relationship": "couple",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s04e14-a",
+      "season": 4,
+      "episode": 14,
+      "title": "The One with Joey's Dirty Day",
+      "plot": "Joey goes fishing, can't shower and works with Charlton Heston's dressing room",
+      "trigger": "mistake",
+      "tension": [
+        "status",
+        "embarrassment"
+      ],
+      "stakes": "a career moment",
+      "reveal": "he takes Heston's shower",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s04e14-b",
+      "season": 4,
+      "episode": 14,
+      "title": "The One with Joey's Dirty Day",
+      "plot": "The guys take Chandler to a strip club to cheer him up after his breakup",
+      "trigger": "event",
+      "tension": [
+        "commitment",
+        "embarrassment"
+      ],
+      "stakes": "getting over someone",
+      "reveal": "he cries at the club",
+      "relationship": "friends",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s04e15-a",
+      "season": 4,
+      "episode": 15,
+      "title": "The One with All the Rugby",
+      "plot": "Ross plays rugby with his girlfriend's English friends",
+      "trigger": "challenge",
+      "tension": [
+        "status",
+        "rivalry"
+      ],
+      "stakes": "impressing a girlfriend",
+      "reveal": "he gets crushed",
+      "relationship": "dating",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s04e15-b",
+      "season": 4,
+      "episode": 15,
+      "title": "The One with All the Rugby",
+      "plot": "Chandler fakes moving to Yemen to escape Janice",
+      "trigger": "lie",
+      "tension": [
+        "commitment",
+        "guilt"
+      ],
+      "stakes": "getting out of a relationship",
+      "reveal": "she sees him off at the airport",
+      "relationship": "dating",
+      "setting": "travel",
+      "verify": false
+    },
+    {
+      "id": "s04e15-c",
+      "season": 4,
+      "episode": 15,
+      "title": "The One with All the Rugby",
+      "plot": "Monica obsesses over what an apartment light switch does",
+      "trigger": "discovery",
+      "tension": [
+        "control",
+        "identity"
+      ],
+      "stakes": "curiosity",
+      "reveal": "it controls a neighbour's TV",
+      "relationship": "strangers",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s04e16-a",
+      "season": 4,
+      "episode": 16,
+      "title": "The One with the Fake Party",
+      "plot": "Rachel throws a fake party to invite her crush",
+      "trigger": "lie",
+      "tension": [
+        "attraction",
+        "secret"
+      ],
+      "stakes": "a date",
+      "reveal": "her crush leaves early",
+      "relationship": "strangers",
+      "setting": "party",
+      "verify": false
+    },
+    {
+      "id": "s04e16-b",
+      "season": 4,
+      "episode": 16,
+      "title": "The One with the Fake Party",
+      "plot": "Phoebe's pregnancy cravings make her eat meat and Joey goes vegetarian for her",
+      "trigger": "challenge",
+      "tension": [
+        "loyalty",
+        "identity"
+      ],
+      "stakes": "values",
+      "reveal": "Joey gives up meat",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s04e17-a",
+      "season": 4,
+      "episode": 17,
+      "title": "The One with the Free Porn",
+      "plot": "Joey and Chandler find free porn on their TV and refuse to turn it off",
+      "trigger": "discovery",
+      "tension": [
+        "taboo",
+        "embarrassment"
+      ],
+      "stakes": "a windfall",
+      "reveal": "it takes over their life",
+      "relationship": "roommates",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s04e17-b",
+      "season": 4,
+      "episode": 17,
+      "title": "The One with the Free Porn",
+      "plot": "Ross's new British girlfriend has to go back to London",
+      "trigger": "deadline",
+      "tension": [
+        "commitment",
+        "independence"
+      ],
+      "stakes": "long distance",
+      "reveal": "he proposes soon",
+      "relationship": "couple",
+      "setting": "travel",
+      "verify": true
+    },
+    {
+      "id": "s04e18-a",
+      "season": 4,
+      "episode": 18,
+      "title": "The One with Rachel's New Dress",
+      "plot": "Rachel's sexy reveal for her date is ruined when his parents walk in",
+      "trigger": "date",
+      "tension": [
+        "embarrassment",
+        "attraction"
+      ],
+      "stakes": "a seduction",
+      "reveal": "she's in lingerie for his parents",
+      "relationship": "dating",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s04e19-a",
+      "season": 4,
+      "episode": 19,
+      "title": "The One with All the Haste",
+      "plot": "Monica and Rachel try to win their apartment back",
+      "trigger": "bet",
+      "tension": [
+        "rivalry",
+        "status"
+      ],
+      "stakes": "the apartment",
+      "reveal": "Knicks season tickets do it",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s04e19-b",
+      "season": 4,
+      "episode": 19,
+      "title": "The One with All the Haste",
+      "plot": "Ross impulsively proposes to his girlfriend of six weeks",
+      "trigger": "event",
+      "tension": [
+        "commitment",
+        "status"
+      ],
+      "stakes": "marriage",
+      "reveal": "she says yes",
+      "relationship": "couple",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s04e20-a",
+      "season": 4,
+      "episode": 20,
+      "title": "The One with All the Wedding Dresses",
+      "plot": "Monica tries on Emily's wedding dress and the girls end up drinking beer in wedding dresses",
+      "trigger": "object",
+      "tension": [
+        "identity",
+        "commitment"
+      ],
+      "stakes": "a dream",
+      "reveal": "they all wear dresses",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s04e20-b",
+      "season": 4,
+      "episode": 20,
+      "title": "The One with All the Wedding Dresses",
+      "plot": "Chandler goes to a sleep clinic to stop Joey's snoring",
+      "trigger": "discovery",
+      "tension": [
+        "loyalty",
+        "control"
+      ],
+      "stakes": "sleep",
+      "reveal": "they fall asleep together",
+      "relationship": "roommates",
+      "setting": "home",
+      "verify": true
+    },
+    {
+      "id": "s04e21-a",
+      "season": 4,
+      "episode": 21,
+      "title": "The One with the Invitation",
+      "plot": "Rachel decides whether to go to her ex's wedding, through flashbacks of their relationship",
+      "trigger": "event",
+      "tension": [
+        "commitment",
+        "loyalty"
+      ],
+      "stakes": "closure",
+      "reveal": "she won't go",
+      "relationship": "exes",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s04e22-a",
+      "season": 4,
+      "episode": 22,
+      "title": "The One with the Worst Best Man Ever",
+      "plot": "Joey loses the wedding ring at the bachelor party",
+      "trigger": "mistake",
+      "tension": [
+        "guilt",
+        "loyalty"
+      ],
+      "stakes": "a best man's duty",
+      "reveal": "the stripper took it",
+      "relationship": "friends",
+      "setting": "party",
+      "verify": false
+    },
+    {
+      "id": "s04e22-b",
+      "season": 4,
+      "episode": 22,
+      "title": "The One with the Worst Best Man Ever",
+      "plot": "Phoebe has mood swings with the triplets in her belly",
+      "trigger": "discovery",
+      "tension": [
+        "control",
+        "family"
+      ],
+      "stakes": "pregnancy",
+      "reveal": "she becomes erratic",
+      "relationship": "siblings",
+      "setting": "home",
+      "verify": true
+    },
+    {
+      "id": "s04e23-a",
+      "season": 4,
+      "episode": 23,
+      "title": "The One with Ross's Wedding",
+      "plot": "The gang travels to London for Ross's wedding and Monica and Chandler sleep together",
+      "trigger": "travel",
+      "tension": [
+        "secret",
+        "attraction"
+      ],
+      "stakes": "a new couple",
+      "reveal": "they decide to hide it",
+      "relationship": "friends",
+      "setting": "wedding",
+      "verify": false
+    },
+    {
+      "id": "s04e23-b",
+      "season": 4,
+      "episode": 23,
+      "title": "The One with Ross's Wedding",
+      "plot": "Rachel flies to London to declare her love and Ross says the wrong name at the altar",
+      "trigger": "event",
+      "tension": [
+        "attraction",
+        "commitment"
+      ],
+      "stakes": "a wedding",
+      "reveal": "he says Rachel",
+      "relationship": "exes",
+      "setting": "wedding",
+      "verify": false
+    },
+    {
+      "id": "s05e01-a",
+      "season": 5,
+      "episode": 1,
+      "title": "The One After Ross Says Rachel",
+      "plot": "Ross tries to save his marriage after saying the wrong name at the altar",
+      "trigger": "mistake",
+      "tension": [
+        "guilt",
+        "commitment"
+      ],
+      "stakes": "a marriage",
+      "reveal": "the bride flees",
+      "relationship": "couple",
+      "setting": "wedding",
+      "verify": false
+    },
+    {
+      "id": "s05e01-b",
+      "season": 5,
+      "episode": 1,
+      "title": "The One After Ross Says Rachel",
+      "plot": "Monica and Chandler try to keep their secret fling hidden from the group",
+      "trigger": "date",
+      "tension": [
+        "secret",
+        "attraction"
+      ],
+      "stakes": "a new relationship",
+      "reveal": "they keep sneaking off",
+      "relationship": "couple",
+      "setting": "travel",
+      "verify": false
+    },
+    {
+      "id": "s05e02-a",
+      "season": 5,
+      "episode": 2,
+      "title": "The One with All the Kissing",
+      "plot": "Chandler accidentally kisses Monica goodbye in front of everyone and covers by kissing all the women",
+      "trigger": "mistake",
+      "tension": [
+        "secret",
+        "embarrassment"
+      ],
+      "stakes": "a hidden relationship",
+      "reveal": "he kisses everyone",
+      "relationship": "couple",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s05e02-b",
+      "season": 5,
+      "episode": 2,
+      "title": "The One with All the Kissing",
+      "plot": "Rachel resolves to tell Ross she loves him before Emily returns",
+      "trigger": "deadline",
+      "tension": [
+        "attraction",
+        "guilt"
+      ],
+      "stakes": "a confession",
+      "reveal": "she doesn't",
+      "relationship": "exes",
+      "setting": "home",
+      "verify": true
+    },
+    {
+      "id": "s05e03-a",
+      "season": 5,
+      "episode": 3,
+      "title": "The One Hundredth",
+      "plot": "Phoebe gives birth to her brother's triplets and wants to keep one",
+      "trigger": "event",
+      "tension": [
+        "family",
+        "commitment"
+      ],
+      "stakes": "letting go of a child",
+      "reveal": "she hands them over",
+      "relationship": "siblings",
+      "setting": "hospital",
+      "verify": false
+    },
+    {
+      "id": "s05e03-b",
+      "season": 5,
+      "episode": 3,
+      "title": "The One Hundredth",
+      "plot": "Joey gets kidney stones and goes into \"labour\" at the same time",
+      "trigger": "mistake",
+      "tension": [
+        "embarrassment",
+        "identity"
+      ],
+      "stakes": "a parallel birth",
+      "reveal": "he passes the stone",
+      "relationship": "friends",
+      "setting": "hospital",
+      "verify": false
+    },
+    {
+      "id": "s05e04-a",
+      "season": 5,
+      "episode": 4,
+      "title": "The One Where Phoebe Hates PBS",
+      "plot": "Joey tells Phoebe there is no selfless good deed and she tries to prove him wrong",
+      "trigger": "challenge",
+      "tension": [
+        "identity",
+        "status"
+      ],
+      "stakes": "moral proof",
+      "reveal": "everything good feels good",
+      "relationship": "friends",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s05e04-b",
+      "season": 5,
+      "episode": 4,
+      "title": "The One Where Phoebe Hates PBS",
+      "plot": "Emily demands Ross never sees Rachel again",
+      "trigger": "rule",
+      "tension": [
+        "jealousy",
+        "loyalty"
+      ],
+      "stakes": "a marriage vs friendship",
+      "reveal": "he agrees",
+      "relationship": "couple",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s05e05-a",
+      "season": 5,
+      "episode": 5,
+      "title": "The One with the Kips",
+      "plot": "Monica and Chandler plan a romantic getaway that goes wrong",
+      "trigger": "travel",
+      "tension": [
+        "commitment",
+        "secret"
+      ],
+      "stakes": "a first trip",
+      "reveal": "they fight all the way",
+      "relationship": "couple",
+      "setting": "travel",
+      "verify": false
+    },
+    {
+      "id": "s05e05-b",
+      "season": 5,
+      "episode": 5,
+      "title": "The One with the Kips",
+      "plot": "Rachel feels left out because she's the only one who doesn't know about the secret couple",
+      "trigger": "discovery",
+      "tension": [
+        "secret",
+        "loyalty"
+      ],
+      "stakes": "being included",
+      "reveal": "she finds out",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": true
+    },
+    {
+      "id": "s05e06-a",
+      "season": 5,
+      "episode": 6,
+      "title": "The One with the Yeti",
+      "plot": "Monica and Rachel mace a hairy neighbour they think is a yeti",
+      "trigger": "mistake",
+      "tension": [
+        "guilt",
+        "attraction"
+      ],
+      "stakes": "a new neighbour",
+      "reveal": "Rachel dates him",
+      "relationship": "strangers",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s05e06-b",
+      "season": 5,
+      "episode": 6,
+      "title": "The One with the Yeti",
+      "plot": "Ross accepts Emily's demand he stop seeing Rachel and she makes him get rid of everything",
+      "trigger": "rule",
+      "tension": [
+        "commitment",
+        "control"
+      ],
+      "stakes": "a marriage",
+      "reveal": "it ends",
+      "relationship": "couple",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s05e07-a",
+      "season": 5,
+      "episode": 7,
+      "title": "The One Where Ross Moves In",
+      "plot": "Ross moves in with Joey and Chandler after his marriage collapses",
+      "trigger": "move",
+      "tension": [
+        "identity",
+        "commitment"
+      ],
+      "stakes": "starting over",
+      "reveal": "he's a bad roommate",
+      "relationship": "roommates",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s05e07-b",
+      "season": 5,
+      "episode": 7,
+      "title": "The One Where Ross Moves In",
+      "plot": "Phoebe's boyfriend pecks on her lips like a bird",
+      "trigger": "date",
+      "tension": [
+        "attraction",
+        "embarrassment"
+      ],
+      "stakes": "kissing chemistry",
+      "reveal": "she can't take it",
+      "relationship": "dating",
+      "setting": "home",
+      "verify": true
+    },
+    {
+      "id": "s05e08-a",
+      "season": 5,
+      "episode": 8,
+      "title": "The One with All the Thanksgivings",
+      "plot": "The friends reveal their worst Thanksgivings including Monica cutting off Chandler's toe",
+      "trigger": "holiday",
+      "tension": [
+        "guilt",
+        "secret"
+      ],
+      "stakes": "old wounds",
+      "reveal": "Chandler's toe",
+      "relationship": "friends",
+      "setting": "holiday",
+      "verify": false
+    },
+    {
+      "id": "s05e09-a",
+      "season": 5,
+      "episode": 9,
+      "title": "The One with Ross's Sandwich",
+      "plot": "Ross loses it when a colleague eats his Thanksgiving leftover sandwich",
+      "trigger": "object",
+      "tension": [
+        "control",
+        "identity"
+      ],
+      "stakes": "personal property",
+      "reveal": "he's put on leave",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s05e09-b",
+      "season": 5,
+      "episode": 9,
+      "title": "The One with Ross's Sandwich",
+      "plot": "Phoebe and Rachel take a literature class and clash about preparation",
+      "trigger": "challenge",
+      "tension": [
+        "rivalry",
+        "status"
+      ],
+      "stakes": "learning",
+      "reveal": "Phoebe is better",
+      "relationship": "friends",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s05e10-a",
+      "season": 5,
+      "episode": 10,
+      "title": "The One with the Inappropriate Sister",
+      "plot": "Phoebe collects charity money at Christmas and gets cynical",
+      "trigger": "holiday",
+      "tension": [
+        "money",
+        "identity"
+      ],
+      "stakes": "doing good",
+      "reveal": "people steal from her",
+      "relationship": "strangers",
+      "setting": "holiday",
+      "verify": false
+    },
+    {
+      "id": "s05e10-b",
+      "season": 5,
+      "episode": 10,
+      "title": "The One with the Inappropriate Sister",
+      "plot": "Rachel dates a man whose closeness to his sister is too much",
+      "trigger": "date",
+      "tension": [
+        "taboo",
+        "family"
+      ],
+      "stakes": "a relationship",
+      "reveal": "she pulls out",
+      "relationship": "dating",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s05e11-a",
+      "season": 5,
+      "episode": 11,
+      "title": "The One with All the Resolutions",
+      "plot": "The friends' New Year's resolutions clash with their personalities",
+      "trigger": "rule",
+      "tension": [
+        "identity",
+        "control"
+      ],
+      "stakes": "self-improvement",
+      "reveal": "everyone fails",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s05e11-b",
+      "season": 5,
+      "episode": 11,
+      "title": "The One with All the Resolutions",
+      "plot": "Ross wears leather pants on a date and gets stuck",
+      "trigger": "object",
+      "tension": [
+        "embarrassment",
+        "status"
+      ],
+      "stakes": "a date",
+      "reveal": "baby powder and lotion paste",
+      "relationship": "dating",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s05e12-a",
+      "season": 5,
+      "episode": 12,
+      "title": "The One with Chandler's Work Laugh",
+      "plot": "Chandler fakes laughing at his boss's jokes and Monica tells him he should stop",
+      "trigger": "job",
+      "tension": [
+        "identity",
+        "status"
+      ],
+      "stakes": "career vs integrity",
+      "reveal": "he keeps laughing",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s05e12-b",
+      "season": 5,
+      "episode": 12,
+      "title": "The One with Chandler's Work Laugh",
+      "plot": "Joey takes a role and must learn a skill fast",
+      "trigger": "job",
+      "tension": [
+        "identity",
+        "status"
+      ],
+      "stakes": "a role",
+      "reveal": "he bluffs",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": true
+    },
+    {
+      "id": "s05e13-a",
+      "season": 5,
+      "episode": 13,
+      "title": "The One with Joey's Bag",
+      "plot": "Joey carries a man-bag to an audition",
+      "trigger": "object",
+      "tension": [
+        "identity",
+        "status"
+      ],
+      "stakes": "style",
+      "reveal": "he chooses the bag",
+      "relationship": "coworkers",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s05e13-b",
+      "season": 5,
+      "episode": 13,
+      "title": "The One with Joey's Bag",
+      "plot": "Phoebe meets her father at her grandfather's funeral",
+      "trigger": "discovery",
+      "tension": [
+        "family",
+        "identity"
+      ],
+      "stakes": "meeting a father",
+      "reveal": "she walks away",
+      "relationship": "parent-child",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s05e14-a",
+      "season": 5,
+      "episode": 14,
+      "title": "The One Where Everybody Finds Out",
+      "plot": "Phoebe and Chandler play chicken to make Monica and Chandler admit they're together",
+      "trigger": "challenge",
+      "tension": [
+        "secret",
+        "attraction"
+      ],
+      "stakes": "a secret relationship",
+      "reveal": "he says he loves her",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s05e14-b",
+      "season": 5,
+      "episode": 14,
+      "title": "The One Where Everybody Finds Out",
+      "plot": "Ross tries to rent the naked neighbour's apartment and has to bond with him",
+      "trigger": "move",
+      "tension": [
+        "status",
+        "embarrassment"
+      ],
+      "stakes": "a new home",
+      "reveal": "he hangs out naked",
+      "relationship": "strangers",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s05e15-a",
+      "season": 5,
+      "episode": 15,
+      "title": "The One with the Girl Who Hits Joey",
+      "plot": "Joey dates a woman who playfully punches him too hard",
+      "trigger": "date",
+      "tension": [
+        "attraction",
+        "control"
+      ],
+      "stakes": "a relationship",
+      "reveal": "she hurts him",
+      "relationship": "dating",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s05e15-b",
+      "season": 5,
+      "episode": 15,
+      "title": "The One with the Girl Who Hits Joey",
+      "plot": "Monica and Chandler have their first big fight",
+      "trigger": "discovery",
+      "tension": [
+        "commitment",
+        "identity"
+      ],
+      "stakes": "a relationship",
+      "reveal": "they make up",
+      "relationship": "couple",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s05e16-a",
+      "season": 5,
+      "episode": 16,
+      "title": "The One with the Cop",
+      "plot": "Ross tries to carry a couch up the stairs with his friends",
+      "trigger": "move",
+      "tension": [
+        "control",
+        "status"
+      ],
+      "stakes": "moving furniture",
+      "reveal": "it doesn't fit",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s05e16-b",
+      "season": 5,
+      "episode": 16,
+      "title": "The One with the Cop",
+      "plot": "Phoebe finds a police badge and pretends to be a cop",
+      "trigger": "lie",
+      "tension": [
+        "identity",
+        "status"
+      ],
+      "stakes": "power",
+      "reveal": "a real cop catches her",
+      "relationship": "strangers",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s05e17-a",
+      "season": 5,
+      "episode": 17,
+      "title": "The One with Rachel's Inadvertent Kiss",
+      "plot": "Rachel accidentally kisses her interviewer at a job interview",
+      "trigger": "mistake",
+      "tension": [
+        "embarrassment",
+        "status"
+      ],
+      "stakes": "a dream job",
+      "reveal": "she gets the job anyway",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s05e17-b",
+      "season": 5,
+      "episode": 17,
+      "title": "The One with Rachel's Inadvertent Kiss",
+      "plot": "Monica and Phoebe compete for the same job as Monica's assistant",
+      "trigger": "job",
+      "tension": [
+        "rivalry",
+        "loyalty"
+      ],
+      "stakes": "a friendship",
+      "reveal": "the friend gets hurt",
+      "relationship": "friends",
+      "setting": "work",
+      "verify": true
+    },
+    {
+      "id": "s05e17-c",
+      "season": 5,
+      "episode": 17,
+      "title": "The One with Rachel's Inadvertent Kiss",
+      "plot": "Joey becomes obsessed with someone he saw through a window",
+      "trigger": "discovery",
+      "tension": [
+        "attraction",
+        "identity"
+      ],
+      "stakes": "curiosity",
+      "reveal": "it's someone he knows",
+      "relationship": "strangers",
+      "setting": "home",
+      "verify": true
+    },
+    {
+      "id": "s05e18-a",
+      "season": 5,
+      "episode": 18,
+      "title": "The One Where Rachel Smokes",
+      "plot": "Rachel picks up smoking to fit in with her boss's smoke breaks",
+      "trigger": "job",
+      "tension": [
+        "status",
+        "identity"
+      ],
+      "stakes": "career",
+      "reveal": "she ends up sharing them",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s05e18-b",
+      "season": 5,
+      "episode": 18,
+      "title": "The One Where Rachel Smokes",
+      "plot": "Joey auditions for a role as an older man",
+      "trigger": "job",
+      "tension": [
+        "identity",
+        "status"
+      ],
+      "stakes": "a part",
+      "reveal": "he gets it",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": true
+    },
+    {
+      "id": "s05e19-a",
+      "season": 5,
+      "episode": 19,
+      "title": "The One Where Ross Can't Flirt",
+      "plot": "Ross tries to flirt with the pizza delivery woman",
+      "trigger": "date",
+      "tension": [
+        "attraction",
+        "embarrassment"
+      ],
+      "stakes": "a date",
+      "reveal": "he fails",
+      "relationship": "strangers",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s05e19-b",
+      "season": 5,
+      "episode": 19,
+      "title": "The One Where Ross Can't Flirt",
+      "plot": "Joey's grandmother comes to see him on TV",
+      "trigger": "visitor",
+      "tension": [
+        "family",
+        "status"
+      ],
+      "stakes": "making family proud",
+      "reveal": "his part is cut",
+      "relationship": "family",
+      "setting": "home",
+      "verify": true
+    },
+    {
+      "id": "s05e20-a",
+      "season": 5,
+      "episode": 20,
+      "title": "The One with the Ride-Along",
+      "plot": "The guys go on a ride-along with Phoebe's cop boyfriend",
+      "trigger": "event",
+      "tension": [
+        "status",
+        "loyalty"
+      ],
+      "stakes": "excitement",
+      "reveal": "Ross gets the rush",
+      "relationship": "friends",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s05e20-b",
+      "season": 5,
+      "episode": 20,
+      "title": "The One with the Ride-Along",
+      "plot": "Rachel and Monica find an old answering machine message that reveals a secret",
+      "trigger": "discovery",
+      "tension": [
+        "secret",
+        "commitment"
+      ],
+      "stakes": "old love",
+      "reveal": "the message is replayed",
+      "relationship": "exes",
+      "setting": "home",
+      "verify": true
+    },
+    {
+      "id": "s05e21-a",
+      "season": 5,
+      "episode": 21,
+      "title": "The One with the Ball",
+      "plot": "The guys keep a ball in the air without dropping it",
+      "trigger": "challenge",
+      "tension": [
+        "loyalty",
+        "status"
+      ],
+      "stakes": "endurance",
+      "reveal": "they never drop it",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s05e21-b",
+      "season": 5,
+      "episode": 21,
+      "title": "The One with the Ball",
+      "plot": "Phoebe's cop boyfriend shoots a bird and she reconsiders their relationship",
+      "trigger": "discovery",
+      "tension": [
+        "commitment",
+        "identity"
+      ],
+      "stakes": "a relationship",
+      "reveal": "she can't move in",
+      "relationship": "dating",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s05e22-a",
+      "season": 5,
+      "episode": 22,
+      "title": "The One with Joey's Big Break",
+      "plot": "Joey gets a movie role in Las Vegas",
+      "trigger": "job",
+      "tension": [
+        "status",
+        "identity"
+      ],
+      "stakes": "a career",
+      "reveal": "the movie collapses",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s05e22-b",
+      "season": 5,
+      "episode": 22,
+      "title": "The One with Joey's Big Break",
+      "plot": "Rachel and Phoebe argue over who owes whom for a scam",
+      "trigger": "money",
+      "tension": [
+        "money",
+        "loyalty"
+      ],
+      "stakes": "friendship",
+      "reveal": "they settle",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": true
+    },
+    {
+      "id": "s05e23-a",
+      "season": 5,
+      "episode": 23,
+      "title": "The One in Vegas",
+      "plot": "Monica and Chandler consider getting married in Vegas on a whim",
+      "trigger": "event",
+      "tension": [
+        "commitment",
+        "secret"
+      ],
+      "stakes": "a marriage",
+      "reveal": "they back out",
+      "relationship": "couple",
+      "setting": "travel",
+      "verify": false
+    },
+    {
+      "id": "s05e23-b",
+      "season": 5,
+      "episode": 23,
+      "title": "The One in Vegas",
+      "plot": "Ross and Rachel get drunk and married in Vegas",
+      "trigger": "mistake",
+      "tension": [
+        "commitment",
+        "embarrassment"
+      ],
+      "stakes": "a marriage",
+      "reveal": "neither remembers",
+      "relationship": "exes",
+      "setting": "travel",
+      "verify": false
+    },
+    {
+      "id": "s06e01-a",
+      "season": 6,
+      "episode": 1,
+      "title": "The One After Vegas",
+      "plot": "Ross and Rachel decide what to do with their drunken marriage",
+      "trigger": "mistake",
+      "tension": [
+        "commitment",
+        "embarrassment"
+      ],
+      "stakes": "a marriage",
+      "reveal": "Ross secretly doesn't annul it",
+      "relationship": "exes",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s06e01-b",
+      "season": 6,
+      "episode": 1,
+      "title": "The One After Vegas",
+      "plot": "Joey and Phoebe drive back from Vegas together",
+      "trigger": "travel",
+      "tension": [
+        "loyalty",
+        "identity"
+      ],
+      "stakes": "a long trip",
+      "reveal": "they bond",
+      "relationship": "friends",
+      "setting": "travel",
+      "verify": false
+    },
+    {
+      "id": "s06e02-a",
+      "season": 6,
+      "episode": 2,
+      "title": "The One Where Ross Hugs Rachel",
+      "plot": "Ross secretly keeps the marriage alive",
+      "trigger": "lie",
+      "tension": [
+        "secret",
+        "commitment"
+      ],
+      "stakes": "a marriage",
+      "reveal": "Rachel finds out",
+      "relationship": "exes",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s06e02-b",
+      "season": 6,
+      "episode": 2,
+      "title": "The One Where Ross Hugs Rachel",
+      "plot": "Monica and Chandler plan moving in together and must tell Rachel",
+      "trigger": "move",
+      "tension": [
+        "loyalty",
+        "commitment"
+      ],
+      "stakes": "a friendship",
+      "reveal": "Rachel is upset",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s06e03-a",
+      "season": 6,
+      "episode": 3,
+      "title": "The One with Ross's Denial",
+      "plot": "Ross denies he's still in love with Rachel",
+      "trigger": "lie",
+      "tension": [
+        "secret",
+        "attraction"
+      ],
+      "stakes": "a marriage",
+      "reveal": "everyone knows",
+      "relationship": "exes",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s06e03-b",
+      "season": 6,
+      "episode": 3,
+      "title": "The One with Ross's Denial",
+      "plot": "Joey looks for a roommate to replace Chandler",
+      "trigger": "move",
+      "tension": [
+        "loyalty",
+        "identity"
+      ],
+      "stakes": "a replacement",
+      "reveal": "he finds an attractive woman",
+      "relationship": "roommates",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s06e04-a",
+      "season": 6,
+      "episode": 4,
+      "title": "The One Where Joey Loses His Insurance",
+      "plot": "Joey's health insurance lapses just as he gets a hernia",
+      "trigger": "deadline",
+      "tension": [
+        "money",
+        "identity"
+      ],
+      "stakes": "health",
+      "reveal": "he has to get a job",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s06e04-b",
+      "season": 6,
+      "episode": 4,
+      "title": "The One Where Joey Loses His Insurance",
+      "plot": "Ross adopts a fake British accent to lecture",
+      "trigger": "lie",
+      "tension": [
+        "identity",
+        "status"
+      ],
+      "stakes": "teaching",
+      "reveal": "his students see through him",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s06e04-c",
+      "season": 6,
+      "episode": 4,
+      "title": "The One Where Joey Loses His Insurance",
+      "plot": "A psychic tells Phoebe she'll die in a week",
+      "trigger": "discovery",
+      "tension": [
+        "identity",
+        "family"
+      ],
+      "stakes": "death",
+      "reveal": "she doesn't",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s06e05-a",
+      "season": 6,
+      "episode": 5,
+      "title": "The One with Joey's Porsche",
+      "plot": "Joey pretends to own a Porsche",
+      "trigger": "lie",
+      "tension": [
+        "status",
+        "identity"
+      ],
+      "stakes": "social status",
+      "reveal": "someone calls his bluff",
+      "relationship": "strangers",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s06e05-b",
+      "season": 6,
+      "episode": 5,
+      "title": "The One with Joey's Porsche",
+      "plot": "Ross and Rachel finalise their divorce",
+      "trigger": "discovery",
+      "tension": [
+        "commitment",
+        "guilt"
+      ],
+      "stakes": "a marriage",
+      "reveal": "it's done",
+      "relationship": "exes",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s06e06-a",
+      "season": 6,
+      "episode": 6,
+      "title": "The One on the Last Night",
+      "plot": "Monica and Rachel spend their last night together as roommates",
+      "trigger": "move",
+      "tension": [
+        "loyalty",
+        "commitment"
+      ],
+      "stakes": "a friendship",
+      "reveal": "they fight then cry",
+      "relationship": "roommates",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s06e06-b",
+      "season": 6,
+      "episode": 6,
+      "title": "The One on the Last Night",
+      "plot": "Joey can't afford to pay Chandler back what he owes",
+      "trigger": "money",
+      "tension": [
+        "money",
+        "loyalty"
+      ],
+      "stakes": "a debt",
+      "reveal": "Chandler forgives it",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s06e07-a",
+      "season": 6,
+      "episode": 7,
+      "title": "The One Where Phoebe Runs",
+      "plot": "Rachel is embarrassed by Phoebe's wild running style",
+      "trigger": "challenge",
+      "tension": [
+        "status",
+        "embarrassment"
+      ],
+      "stakes": "being seen",
+      "reveal": "Rachel runs like Phoebe too",
+      "relationship": "friends",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s06e07-b",
+      "season": 6,
+      "episode": 7,
+      "title": "The One Where Phoebe Runs",
+      "plot": "Joey's new roommate is a woman and Joey falls for her",
+      "trigger": "move",
+      "tension": [
+        "attraction",
+        "commitment"
+      ],
+      "stakes": "a roommate",
+      "reveal": "he likes her",
+      "relationship": "roommates",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s06e08-a",
+      "season": 6,
+      "episode": 8,
+      "title": "The One with Ross's Teeth",
+      "plot": "Ross whitens his teeth too much before a date",
+      "trigger": "mistake",
+      "tension": [
+        "status",
+        "embarrassment"
+      ],
+      "stakes": "a date",
+      "reveal": "teeth glow in blacklight",
+      "relationship": "dating",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s06e08-b",
+      "season": 6,
+      "episode": 8,
+      "title": "The One with Ross's Teeth",
+      "plot": "Joey falls for his roommate and tries to hide it",
+      "trigger": "date",
+      "tension": [
+        "attraction",
+        "secret"
+      ],
+      "stakes": "a roommate",
+      "reveal": "she finds out",
+      "relationship": "roommates",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s06e09-a",
+      "season": 6,
+      "episode": 9,
+      "title": "The One Where Ross Got High",
+      "plot": "At Thanksgiving, secrets come out about Ross and why the parents don't like Chandler",
+      "trigger": "holiday",
+      "tension": [
+        "secret",
+        "family"
+      ],
+      "stakes": "family approval",
+      "reveal": "Ross got high in college",
+      "relationship": "family",
+      "setting": "holiday",
+      "verify": false
+    },
+    {
+      "id": "s06e09-b",
+      "season": 6,
+      "episode": 9,
+      "title": "The One Where Ross Got High",
+      "plot": "Rachel makes a dessert with beef in it and nobody tells her",
+      "trigger": "mistake",
+      "tension": [
+        "loyalty",
+        "embarrassment"
+      ],
+      "stakes": "a dinner",
+      "reveal": "Joey eats it all",
+      "relationship": "friends",
+      "setting": "holiday",
+      "verify": false
+    },
+    {
+      "id": "s06e10-a",
+      "season": 6,
+      "episode": 10,
+      "title": "The One with the Routine",
+      "plot": "Monica and Ross revive their childhood dance routine to get on New Year's TV",
+      "trigger": "challenge",
+      "tension": [
+        "status",
+        "family"
+      ],
+      "stakes": "TV fame",
+      "reveal": "they nail it",
+      "relationship": "siblings",
+      "setting": "party",
+      "verify": false
+    },
+    {
+      "id": "s06e10-b",
+      "season": 6,
+      "episode": 10,
+      "title": "The One with the Routine",
+      "plot": "Joey tries to kiss his roommate at midnight",
+      "trigger": "deadline",
+      "tension": [
+        "attraction",
+        "secret"
+      ],
+      "stakes": "a first kiss",
+      "reveal": "he gets her",
+      "relationship": "roommates",
+      "setting": "party",
+      "verify": false
+    },
+    {
+      "id": "s06e11-a",
+      "season": 6,
+      "episode": 11,
+      "title": "The One with the Apothecary Table",
+      "plot": "Rachel lies about her mass-produced furniture to Phoebe, who hates chain stores",
+      "trigger": "lie",
+      "tension": [
+        "identity",
+        "secret"
+      ],
+      "stakes": "a friend's values",
+      "reveal": "Phoebe finds out",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s06e11-b",
+      "season": 6,
+      "episode": 11,
+      "title": "The One with the Apothecary Table",
+      "plot": "Joey and Janine double date with Monica and Chandler, and Janine dislikes them",
+      "trigger": "date",
+      "tension": [
+        "loyalty",
+        "commitment"
+      ],
+      "stakes": "friends vs partner",
+      "reveal": "he chooses his friends",
+      "relationship": "couple",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s06e12-a",
+      "season": 6,
+      "episode": 12,
+      "title": "The One with the Joke",
+      "plot": "Ross and Chandler fight over who wrote a joke published in a magazine",
+      "trigger": "discovery",
+      "tension": [
+        "rivalry",
+        "status"
+      ],
+      "stakes": "credit",
+      "reveal": "they both want it",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s06e12-b",
+      "season": 6,
+      "episode": 12,
+      "title": "The One with the Joke",
+      "plot": "Monica takes a job as a waitress in a themed diner",
+      "trigger": "job",
+      "tension": [
+        "status",
+        "embarrassment"
+      ],
+      "stakes": "career",
+      "reveal": "she wears a wig",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": true
+    },
+    {
+      "id": "s06e13-a",
+      "season": 6,
+      "episode": 13,
+      "title": "The One with Rachel's Sister",
+      "plot": "Rachel's spoiled sister dates Ross to spite Rachel",
+      "trigger": "visitor",
+      "tension": [
+        "jealousy",
+        "family"
+      ],
+      "stakes": "a sister",
+      "reveal": "it backfires",
+      "relationship": "siblings",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s06e14-a",
+      "season": 6,
+      "episode": 14,
+      "title": "The One Where Chandler Can't Cry",
+      "plot": "Chandler can't cry and the friends try to make him",
+      "trigger": "discovery",
+      "tension": [
+        "identity",
+        "status"
+      ],
+      "stakes": "emotions",
+      "reveal": "he cries over nothing",
+      "relationship": "couple",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s06e14-b",
+      "season": 6,
+      "episode": 14,
+      "title": "The One Where Chandler Can't Cry",
+      "plot": "Phoebe discovers her twin is a porn star using her name",
+      "trigger": "discovery",
+      "tension": [
+        "identity",
+        "embarrassment"
+      ],
+      "stakes": "a reputation",
+      "reveal": "fans recognise her",
+      "relationship": "siblings",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s06e15-a",
+      "season": 6,
+      "episode": 15,
+      "title": "The One That Could Have Been",
+      "plot": "The friends imagine how their lives would be if key decisions had gone differently",
+      "trigger": "discovery",
+      "tension": [
+        "identity",
+        "commitment"
+      ],
+      "stakes": "alternate lives",
+      "reveal": "they still end up near each other",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s06e17-a",
+      "season": 6,
+      "episode": 17,
+      "title": "The One with Unagi",
+      "plot": "Ross teaches self-defense based on his \"unagi\" theory",
+      "trigger": "challenge",
+      "tension": [
+        "status",
+        "control"
+      ],
+      "stakes": "being ready",
+      "reveal": "he gets ambushed",
+      "relationship": "friends",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s06e17-b",
+      "season": 6,
+      "episode": 17,
+      "title": "The One with Unagi",
+      "plot": "Chandler and Monica make homemade gifts",
+      "trigger": "holiday",
+      "tension": [
+        "loyalty",
+        "identity"
+      ],
+      "stakes": "thoughtfulness",
+      "reveal": "they try to outdo each other",
+      "relationship": "couple",
+      "setting": "holiday",
+      "verify": false
+    },
+    {
+      "id": "s06e17-c",
+      "season": 6,
+      "episode": 17,
+      "title": "The One with Unagi",
+      "plot": "Joey takes part in a medical study and hires a twin to double his money",
+      "trigger": "lie",
+      "tension": [
+        "money",
+        "identity"
+      ],
+      "stakes": "money",
+      "reveal": "the twin isn't a twin",
+      "relationship": "strangers",
+      "setting": "hospital",
+      "verify": false
+    },
+    {
+      "id": "s06e18-a",
+      "season": 6,
+      "episode": 18,
+      "title": "The One Where Ross Dates a Student",
+      "plot": "Ross dates one of his students and must hide it",
+      "trigger": "date",
+      "tension": [
+        "taboo",
+        "secret"
+      ],
+      "stakes": "a career",
+      "reveal": "they get caught",
+      "relationship": "dating",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s06e19-a",
+      "season": 6,
+      "episode": 19,
+      "title": "The One with Joey's Fridge",
+      "plot": "Joey's fridge breaks and his roommate won't pay for half",
+      "trigger": "object",
+      "tension": [
+        "money",
+        "loyalty"
+      ],
+      "stakes": "a shared purchase",
+      "reveal": "the roommate is set up",
+      "relationship": "roommates",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s06e19-b",
+      "season": 6,
+      "episode": 19,
+      "title": "The One with Joey's Fridge",
+      "plot": "Ross's girlfriend wants to go on spring break with students",
+      "trigger": "travel",
+      "tension": [
+        "commitment",
+        "jealousy"
+      ],
+      "stakes": "trust",
+      "reveal": "he goes along",
+      "relationship": "couple",
+      "setting": "travel",
+      "verify": false
+    },
+    {
+      "id": "s06e20-a",
+      "season": 6,
+      "episode": 20,
+      "title": "The One with Mac and C.H.E.E.S.E.",
+      "plot": "Joey auditions for a robot show and the robot is the star",
+      "trigger": "job",
+      "tension": [
+        "status",
+        "identity"
+      ],
+      "stakes": "a role",
+      "reveal": "the robot gets top billing",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s06e20-b",
+      "season": 6,
+      "episode": 20,
+      "title": "The One with Mac and C.H.E.E.S.E.",
+      "plot": "Chandler admits he hates Monica's massages",
+      "trigger": "discovery",
+      "tension": [
+        "commitment",
+        "secret"
+      ],
+      "stakes": "honesty in a relationship",
+      "reveal": "she's the worst",
+      "relationship": "couple",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s06e21-a",
+      "season": 6,
+      "episode": 21,
+      "title": "The One Where Ross Meets Elizabeth's Dad",
+      "plot": "Ross meets his girlfriend's intimidating father",
+      "trigger": "visitor",
+      "tension": [
+        "family",
+        "status"
+      ],
+      "stakes": "approval",
+      "reveal": "the dad is scary",
+      "relationship": "dating",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s06e22-a",
+      "season": 6,
+      "episode": 22,
+      "title": "The One Where Paul's the Man",
+      "plot": "Ross and his girlfriend's father run into each other in her apartment",
+      "trigger": "discovery",
+      "tension": [
+        "secret",
+        "embarrassment"
+      ],
+      "stakes": "face-saving",
+      "reveal": "they both are caught",
+      "relationship": "dating",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s06e23-a",
+      "season": 6,
+      "episode": 23,
+      "title": "The One with the Ring",
+      "plot": "Chandler secretly buys an engagement ring and gets Phoebe to help",
+      "trigger": "object",
+      "tension": [
+        "secret",
+        "commitment"
+      ],
+      "stakes": "a proposal",
+      "reveal": "she picks a ring",
+      "relationship": "friends",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s06e24-a",
+      "season": 6,
+      "episode": 24,
+      "title": "The One with the Proposal",
+      "plot": "Chandler's proposal plans unravel when Monica's ex declares his love for her",
+      "trigger": "event",
+      "tension": [
+        "commitment",
+        "jealousy"
+      ],
+      "stakes": "a proposal",
+      "reveal": "she proposes first",
+      "relationship": "couple",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s07e01-a",
+      "season": 7,
+      "episode": 1,
+      "title": "The One with Monica's Thunder",
+      "plot": "Rachel kisses Ross on the night of Monica's engagement and steals her moment",
+      "trigger": "event",
+      "tension": [
+        "jealousy",
+        "loyalty"
+      ],
+      "stakes": "a big announcement",
+      "reveal": "Monica feels upstaged",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s07e01-b",
+      "season": 7,
+      "episode": 1,
+      "title": "The One with Monica's Thunder",
+      "plot": "Chandler is anxious about sexual performance on the engagement night",
+      "trigger": "event",
+      "tension": [
+        "commitment",
+        "embarrassment"
+      ],
+      "stakes": "a milestone",
+      "reveal": "he can't",
+      "relationship": "couple",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s07e02-a",
+      "season": 7,
+      "episode": 2,
+      "title": "The One with Rachel's Book",
+      "plot": "Joey finds Rachel's erotic novel and teases her",
+      "trigger": "discovery",
+      "tension": [
+        "embarrassment",
+        "taboo"
+      ],
+      "stakes": "privacy",
+      "reveal": "she gets revenge",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s07e02-b",
+      "season": 7,
+      "episode": 2,
+      "title": "The One with Rachel's Book",
+      "plot": "Monica learns her parents spent her wedding fund and Chandler reveals his own savings",
+      "trigger": "discovery",
+      "tension": [
+        "money",
+        "family"
+      ],
+      "stakes": "a dream wedding",
+      "reveal": "Chandler has money",
+      "relationship": "couple",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s07e03-a",
+      "season": 7,
+      "episode": 3,
+      "title": "The One with Phoebe's Cookies",
+      "plot": "Monica tries to recreate Phoebe's grandmother's famous cookie recipe",
+      "trigger": "challenge",
+      "tension": [
+        "family",
+        "status"
+      ],
+      "stakes": "a legacy recipe",
+      "reveal": "it's from the back of a pack",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s07e03-b",
+      "season": 7,
+      "episode": 3,
+      "title": "The One with Phoebe's Cookies",
+      "plot": "Rachel teaches Joey to sail",
+      "trigger": "challenge",
+      "tension": [
+        "status",
+        "identity"
+      ],
+      "stakes": "a skill",
+      "reveal": "he refuses to listen",
+      "relationship": "friends",
+      "setting": "travel",
+      "verify": false
+    },
+    {
+      "id": "s07e04-a",
+      "season": 7,
+      "episode": 4,
+      "title": "The One with Rachel's Assistant",
+      "plot": "Rachel hires an attractive but unqualified assistant",
+      "trigger": "job",
+      "tension": [
+        "attraction",
+        "guilt"
+      ],
+      "stakes": "professional ethics",
+      "reveal": "she dates him",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s07e04-b",
+      "season": 7,
+      "episode": 4,
+      "title": "The One with Rachel's Assistant",
+      "plot": "Monica is offended by Phoebe's fanciful wedding opinions",
+      "trigger": "event",
+      "tension": [
+        "control",
+        "loyalty"
+      ],
+      "stakes": "wedding planning",
+      "reveal": "Phoebe tests her",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": true
+    },
+    {
+      "id": "s07e05-a",
+      "season": 7,
+      "episode": 5,
+      "title": "The One with the Engagement Picture",
+      "plot": "Chandler can't take a natural photo for the engagement announcement",
+      "trigger": "challenge",
+      "tension": [
+        "identity",
+        "embarrassment"
+      ],
+      "stakes": "a wedding photo",
+      "reveal": "he always smiles weirdly",
+      "relationship": "couple",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s07e05-b",
+      "season": 7,
+      "episode": 5,
+      "title": "The One with the Engagement Picture",
+      "plot": "Joey and Ross compete for a friend's sister",
+      "trigger": "date",
+      "tension": [
+        "rivalry",
+        "attraction"
+      ],
+      "stakes": "a woman",
+      "reveal": "neither wins",
+      "relationship": "friends",
+      "setting": "public",
+      "verify": true
+    },
+    {
+      "id": "s07e06-a",
+      "season": 7,
+      "episode": 6,
+      "title": "The One with the Nap Partners",
+      "plot": "Joey and Ross nap together and enjoy it, then hide it",
+      "trigger": "discovery",
+      "tension": [
+        "secret",
+        "embarrassment"
+      ],
+      "stakes": "male friendship",
+      "reveal": "they get caught",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s07e06-b",
+      "season": 7,
+      "episode": 6,
+      "title": "The One with the Nap Partners",
+      "plot": "Rachel and Phoebe compete to be Monica's maid of honour",
+      "trigger": "challenge",
+      "tension": [
+        "rivalry",
+        "loyalty"
+      ],
+      "stakes": "a role",
+      "reveal": "they argue",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s07e07-a",
+      "season": 7,
+      "episode": 7,
+      "title": "The One with Ross's Library Book",
+      "plot": "Ross finds that his dissertation is in a library make-out spot",
+      "trigger": "discovery",
+      "tension": [
+        "status",
+        "embarrassment"
+      ],
+      "stakes": "legacy",
+      "reveal": "people use it as a bed",
+      "relationship": "strangers",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s07e07-b",
+      "season": 7,
+      "episode": 7,
+      "title": "The One with Ross's Library Book",
+      "plot": "Chandler and Monica fight about a woman Joey slept with",
+      "trigger": "date",
+      "tension": [
+        "loyalty",
+        "guilt"
+      ],
+      "stakes": "friendship",
+      "reveal": "Chandler is mad",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": true
+    },
+    {
+      "id": "s07e08-a",
+      "season": 7,
+      "episode": 8,
+      "title": "The One Where Chandler Doesn't Like Dogs",
+      "plot": "Chandler admits he doesn't like dogs when Phoebe brings one",
+      "trigger": "discovery",
+      "tension": [
+        "identity",
+        "secret"
+      ],
+      "stakes": "being honest",
+      "reveal": "he's mocked",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s07e08-b",
+      "season": 7,
+      "episode": 8,
+      "title": "The One Where Chandler Doesn't Like Dogs",
+      "plot": "The friends play a game of hide and seek",
+      "trigger": "challenge",
+      "tension": [
+        "rivalry",
+        "loyalty"
+      ],
+      "stakes": "a game",
+      "reveal": "someone takes it too far",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": true
+    },
+    {
+      "id": "s07e09-a",
+      "season": 7,
+      "episode": 9,
+      "title": "The One with All the Candy",
+      "plot": "Monica bakes candy for neighbours and they mob her",
+      "trigger": "event",
+      "tension": [
+        "status",
+        "control"
+      ],
+      "stakes": "being liked",
+      "reveal": "she becomes a candy dealer",
+      "relationship": "strangers",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s07e09-b",
+      "season": 7,
+      "episode": 9,
+      "title": "The One with All the Candy",
+      "plot": "Ross teaches Phoebe to ride a bike",
+      "trigger": "challenge",
+      "tension": [
+        "identity",
+        "loyalty"
+      ],
+      "stakes": "a skill",
+      "reveal": "she was never taught",
+      "relationship": "friends",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s07e10-a",
+      "season": 7,
+      "episode": 10,
+      "title": "The One with the Holiday Armadillo",
+      "plot": "Ross dresses as an armadillo to teach his son about Hanukkah",
+      "trigger": "holiday",
+      "tension": [
+        "family",
+        "identity"
+      ],
+      "stakes": "tradition",
+      "reveal": "Santa competes",
+      "relationship": "parent-child",
+      "setting": "holiday",
+      "verify": false
+    },
+    {
+      "id": "s07e11-a",
+      "season": 7,
+      "episode": 11,
+      "title": "The One with All the Cheesecakes",
+      "plot": "Chandler and Rachel steal a neighbour's cheesecake and get obsessed",
+      "trigger": "object",
+      "tension": [
+        "guilt",
+        "secret"
+      ],
+      "stakes": "temptation",
+      "reveal": "they eat it off the floor",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s07e11-b",
+      "season": 7,
+      "episode": 11,
+      "title": "The One with All the Cheesecakes",
+      "plot": "Monica feels left out when she discovers Joey has a secret dinner",
+      "trigger": "discovery",
+      "tension": [
+        "loyalty",
+        "jealousy"
+      ],
+      "stakes": "friendship",
+      "reveal": "he has other friends",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s07e11-c",
+      "season": 7,
+      "episode": 11,
+      "title": "The One with All the Cheesecakes",
+      "plot": "Phoebe's ex David returns and she debates leaving her boyfriend",
+      "trigger": "date",
+      "tension": [
+        "commitment",
+        "attraction"
+      ],
+      "stakes": "a relationship",
+      "reveal": "she chooses",
+      "relationship": "dating",
+      "setting": "home",
+      "verify": true
+    },
+    {
+      "id": "s07e12-a",
+      "season": 7,
+      "episode": 12,
+      "title": "The One Where They're Up All Night",
+      "plot": "Ross and Joey are stuck on the roof all night",
+      "trigger": "mistake",
+      "tension": [
+        "loyalty",
+        "control"
+      ],
+      "stakes": "a bad night",
+      "reveal": "they almost get home",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s07e12-b",
+      "season": 7,
+      "episode": 12,
+      "title": "The One Where They're Up All Night",
+      "plot": "Phoebe fights with a smoke detector",
+      "trigger": "object",
+      "tension": [
+        "control",
+        "identity"
+      ],
+      "stakes": "sleep",
+      "reveal": "she breaks it",
+      "relationship": "strangers",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s07e13-a",
+      "season": 7,
+      "episode": 13,
+      "title": "The One Where Rosita Dies",
+      "plot": "Rachel breaks Joey's recliner and blames him",
+      "trigger": "mistake",
+      "tension": [
+        "guilt",
+        "secret"
+      ],
+      "stakes": "friendship",
+      "reveal": "she confesses",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s07e13-b",
+      "season": 7,
+      "episode": 13,
+      "title": "The One Where Rosita Dies",
+      "plot": "Phoebe's telemarketing call reaches a despairing stranger and she keeps him on the line to lift him",
+      "trigger": "job",
+      "tension": [
+        "guilt",
+        "identity"
+      ],
+      "stakes": "a stranger's wellbeing",
+      "reveal": "they become friends",
+      "relationship": "strangers",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s07e14-a",
+      "season": 7,
+      "episode": 14,
+      "title": "The One Where They All Turn Thirty",
+      "plot": "The friends reflect on turning 30 through flashbacks",
+      "trigger": "event",
+      "tension": [
+        "identity",
+        "commitment"
+      ],
+      "stakes": "aging",
+      "reveal": "everyone panics",
+      "relationship": "friends",
+      "setting": "party",
+      "verify": false
+    },
+    {
+      "id": "s07e15-a",
+      "season": 7,
+      "episode": 15,
+      "title": "The One with Joey's New Brain",
+      "plot": "Joey's soap character gets a new brain and comes back",
+      "trigger": "job",
+      "tension": [
+        "status",
+        "identity"
+      ],
+      "stakes": "a career",
+      "reveal": "he gets the part",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s07e15-b",
+      "season": 7,
+      "episode": 15,
+      "title": "The One with Joey's New Brain",
+      "plot": "Phoebe's song is used in a jingle without credit",
+      "trigger": "discovery",
+      "tension": [
+        "status",
+        "money"
+      ],
+      "stakes": "credit",
+      "reveal": "she sues",
+      "relationship": "strangers",
+      "setting": "work",
+      "verify": true
+    },
+    {
+      "id": "s07e16-a",
+      "season": 7,
+      "episode": 16,
+      "title": "The One with the Truth About London",
+      "plot": "Monica learns she was originally looking for Joey, not Chandler, in London",
+      "trigger": "discovery",
+      "tension": [
+        "secret",
+        "commitment"
+      ],
+      "stakes": "their origin story",
+      "reveal": "it doesn't matter",
+      "relationship": "couple",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s07e16-b",
+      "season": 7,
+      "episode": 16,
+      "title": "The One with the Truth About London",
+      "plot": "Joey becomes a minister to officiate the wedding",
+      "trigger": "job",
+      "tension": [
+        "status",
+        "identity"
+      ],
+      "stakes": "a role",
+      "reveal": "he takes it seriously",
+      "relationship": "friends",
+      "setting": "wedding",
+      "verify": false
+    },
+    {
+      "id": "s07e17-a",
+      "season": 7,
+      "episode": 17,
+      "title": "The One with the Cheap Wedding Dress",
+      "plot": "Monica fights another bride over a discounted wedding dress",
+      "trigger": "object",
+      "tension": [
+        "rivalry",
+        "status"
+      ],
+      "stakes": "the dress",
+      "reveal": "she gets it",
+      "relationship": "strangers",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s07e17-b",
+      "season": 7,
+      "episode": 17,
+      "title": "The One with the Cheap Wedding Dress",
+      "plot": "Joey and Ross compete for women",
+      "trigger": "date",
+      "tension": [
+        "rivalry",
+        "attraction"
+      ],
+      "stakes": "winning",
+      "reveal": "neither wins",
+      "relationship": "friends",
+      "setting": "public",
+      "verify": true
+    },
+    {
+      "id": "s07e18-a",
+      "season": 7,
+      "episode": 18,
+      "title": "The One with Joey's Award",
+      "plot": "Joey loses at the soap awards and gets an award anyway",
+      "trigger": "job",
+      "tension": [
+        "status",
+        "identity"
+      ],
+      "stakes": "recognition",
+      "reveal": "he steals the award",
+      "relationship": "coworkers",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s07e19-a",
+      "season": 7,
+      "episode": 19,
+      "title": "The One with Ross and Monica's Cousin",
+      "plot": "Ross is attracted to his cousin",
+      "trigger": "visitor",
+      "tension": [
+        "taboo",
+        "attraction"
+      ],
+      "stakes": "family boundaries",
+      "reveal": "he tries to kiss her",
+      "relationship": "family",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s07e20-a",
+      "season": 7,
+      "episode": 20,
+      "title": "The One with Rachel's Big Kiss",
+      "plot": "Rachel recounts a college kiss with a sorority sister who denies it happened",
+      "trigger": "discovery",
+      "tension": [
+        "secret",
+        "attraction"
+      ],
+      "stakes": "a friendship",
+      "reveal": "she remembers it",
+      "relationship": "friends",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s07e21-a",
+      "season": 7,
+      "episode": 21,
+      "title": "The One with the Vows",
+      "plot": "Monica and Chandler write their wedding vows and struggle",
+      "trigger": "deadline",
+      "tension": [
+        "commitment",
+        "identity"
+      ],
+      "stakes": "a wedding",
+      "reveal": "they find words",
+      "relationship": "couple",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s07e22-a",
+      "season": 7,
+      "episode": 22,
+      "title": "The One with Chandler's Dad",
+      "plot": "Chandler goes to Vegas to invite his estranged father to the wedding",
+      "trigger": "event",
+      "tension": [
+        "family",
+        "identity"
+      ],
+      "stakes": "reconciliation",
+      "reveal": "he invites him",
+      "relationship": "parent-child",
+      "setting": "travel",
+      "verify": false
+    },
+    {
+      "id": "s07e23-a",
+      "season": 7,
+      "episode": 23,
+      "title": "The One with Monica and Chandler's Wedding",
+      "plot": "Chandler gets cold feet and disappears before the wedding",
+      "trigger": "event",
+      "tension": [
+        "commitment",
+        "guilt"
+      ],
+      "stakes": "a wedding",
+      "reveal": "he comes back",
+      "relationship": "couple",
+      "setting": "wedding",
+      "verify": false
+    },
+    {
+      "id": "s07e23-b",
+      "season": 7,
+      "episode": 23,
+      "title": "The One with Monica and Chandler's Wedding",
+      "plot": "A positive pregnancy test is found and everyone guesses who it's for",
+      "trigger": "discovery",
+      "tension": [
+        "secret",
+        "family"
+      ],
+      "stakes": "a pregnancy",
+      "reveal": "it's Rachel",
+      "relationship": "friends",
+      "setting": "wedding",
+      "verify": false
+    },
+    {
+      "id": "s08e01-a",
+      "season": 8,
+      "episode": 1,
+      "title": "The One After \"I Do\"",
+      "plot": "At the wedding reception, the group tries to figure out who's pregnant",
+      "trigger": "discovery",
+      "tension": [
+        "secret",
+        "family"
+      ],
+      "stakes": "a pregnancy",
+      "reveal": "it's Rachel",
+      "relationship": "friends",
+      "setting": "wedding",
+      "verify": false
+    },
+    {
+      "id": "s08e02-a",
+      "season": 8,
+      "episode": 2,
+      "title": "The One with the Red Sweater",
+      "plot": "The friends figure out who the father of Rachel's baby is",
+      "trigger": "discovery",
+      "tension": [
+        "secret",
+        "family"
+      ],
+      "stakes": "paternity",
+      "reveal": "it's Ross",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s08e03-a",
+      "season": 8,
+      "episode": 3,
+      "title": "The One Where Rachel Tells...",
+      "plot": "Rachel tells Ross he's the father",
+      "trigger": "discovery",
+      "tension": [
+        "family",
+        "commitment"
+      ],
+      "stakes": "fatherhood",
+      "reveal": "he freaks out",
+      "relationship": "exes",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s08e03-b",
+      "season": 8,
+      "episode": 3,
+      "title": "The One Where Rachel Tells...",
+      "plot": "Monica and Chandler compete with a rival honeymoon couple",
+      "trigger": "travel",
+      "tension": [
+        "rivalry",
+        "status"
+      ],
+      "stakes": "a perfect honeymoon",
+      "reveal": "they lose everything",
+      "relationship": "couple",
+      "setting": "travel",
+      "verify": false
+    },
+    {
+      "id": "s08e04-a",
+      "season": 8,
+      "episode": 4,
+      "title": "The One with the Videotape",
+      "plot": "Ross and Rachel argue over who started their one-night stand and Ross has a tape",
+      "trigger": "discovery",
+      "tension": [
+        "secret",
+        "embarrassment"
+      ],
+      "stakes": "the truth",
+      "reveal": "Rachel started it",
+      "relationship": "exes",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s08e05-a",
+      "season": 8,
+      "episode": 5,
+      "title": "The One with Rachel's Date",
+      "plot": "Rachel goes on a date while pregnant and Ross is jealous",
+      "trigger": "date",
+      "tension": [
+        "jealousy",
+        "commitment"
+      ],
+      "stakes": "a new life",
+      "reveal": "she's honest",
+      "relationship": "exes",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s08e05-b",
+      "season": 8,
+      "episode": 5,
+      "title": "The One with Rachel's Date",
+      "plot": "Chandler worries about being a grownup and buying a house",
+      "trigger": "discovery",
+      "tension": [
+        "identity",
+        "commitment"
+      ],
+      "stakes": "adulthood",
+      "reveal": "he panics",
+      "relationship": "couple",
+      "setting": "home",
+      "verify": true
+    },
+    {
+      "id": "s08e06-a",
+      "season": 8,
+      "episode": 6,
+      "title": "The One with the Halloween Party",
+      "plot": "Chandler and Ross arm wrestle at a Halloween party",
+      "trigger": "challenge",
+      "tension": [
+        "rivalry",
+        "status"
+      ],
+      "stakes": "masculinity",
+      "reveal": "neither gives in",
+      "relationship": "friends",
+      "setting": "party",
+      "verify": false
+    },
+    {
+      "id": "s08e06-b",
+      "season": 8,
+      "episode": 6,
+      "title": "The One with the Halloween Party",
+      "plot": "Phoebe meets her twin's fiancé who believes the twin's lies",
+      "trigger": "discovery",
+      "tension": [
+        "secret",
+        "family"
+      ],
+      "stakes": "a sister's life",
+      "reveal": "she tells the fiancé",
+      "relationship": "siblings",
+      "setting": "party",
+      "verify": false
+    },
+    {
+      "id": "s08e07-a",
+      "season": 8,
+      "episode": 7,
+      "title": "The One with the Stain",
+      "plot": "Monica becomes paranoid that the cleaning lady is stealing clothes",
+      "trigger": "discovery",
+      "tension": [
+        "control",
+        "secret"
+      ],
+      "stakes": "trust",
+      "reveal": "the lady is stealing",
+      "relationship": "strangers",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s08e07-b",
+      "season": 8,
+      "episode": 7,
+      "title": "The One with the Stain",
+      "plot": "Ross and Rachel decide to live together for the baby",
+      "trigger": "move",
+      "tension": [
+        "commitment",
+        "family"
+      ],
+      "stakes": "parenting",
+      "reveal": "they move in",
+      "relationship": "exes",
+      "setting": "home",
+      "verify": true
+    },
+    {
+      "id": "s08e08-a",
+      "season": 8,
+      "episode": 8,
+      "title": "The One with the Stripper",
+      "plot": "Monica hires a stripper for Chandler who never had a bachelor party",
+      "trigger": "event",
+      "tension": [
+        "commitment",
+        "embarrassment"
+      ],
+      "stakes": "a missed rite",
+      "reveal": "the stripper is a scam",
+      "relationship": "couple",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s08e09-a",
+      "season": 8,
+      "episode": 9,
+      "title": "The One with the Rumor",
+      "plot": "A Thanksgiving guest reveals he and Ross started a club to spread a rumour about Rachel in high school",
+      "trigger": "holiday",
+      "tension": [
+        "secret",
+        "guilt"
+      ],
+      "stakes": "reputation",
+      "reveal": "Ross started the rumour",
+      "relationship": "friends",
+      "setting": "holiday",
+      "verify": false
+    },
+    {
+      "id": "s08e10-a",
+      "season": 8,
+      "episode": 10,
+      "title": "The One with Monica's Boots",
+      "plot": "Monica buys expensive boots that hurt and refuses to admit it",
+      "trigger": "object",
+      "tension": [
+        "money",
+        "control"
+      ],
+      "stakes": "pride",
+      "reveal": "she can't walk",
+      "relationship": "couple",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s08e11-a",
+      "season": 8,
+      "episode": 11,
+      "title": "The One with Ross's Step Forward",
+      "plot": "Ross's girlfriend wants to send a joint holiday card and he panics",
+      "trigger": "holiday",
+      "tension": [
+        "commitment",
+        "identity"
+      ],
+      "stakes": "a relationship",
+      "reveal": "she wants more",
+      "relationship": "couple",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s08e12-a",
+      "season": 8,
+      "episode": 12,
+      "title": "The One Where Joey Dates Rachel",
+      "plot": "Joey takes Rachel on a date to cheer her up and develops feelings",
+      "trigger": "date",
+      "tension": [
+        "attraction",
+        "loyalty"
+      ],
+      "stakes": "a friendship",
+      "reveal": "he falls for her",
+      "relationship": "friends",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s08e13-a",
+      "season": 8,
+      "episode": 13,
+      "title": "The One Where Chandler Takes a Bath",
+      "plot": "Chandler discovers the joy of baths",
+      "trigger": "object",
+      "tension": [
+        "identity",
+        "embarrassment"
+      ],
+      "stakes": "masculinity",
+      "reveal": "he loves them",
+      "relationship": "couple",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s08e13-b",
+      "season": 8,
+      "episode": 13,
+      "title": "The One Where Chandler Takes a Bath",
+      "plot": "Joey struggles to hide his crush on Rachel",
+      "trigger": "discovery",
+      "tension": [
+        "attraction",
+        "guilt"
+      ],
+      "stakes": "a friendship",
+      "reveal": "Ross finds out",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s08e14-a",
+      "season": 8,
+      "episode": 14,
+      "title": "The One with the Secret Closet",
+      "plot": "Chandler finds out Monica has a secret messy closet",
+      "trigger": "discovery",
+      "tension": [
+        "secret",
+        "control"
+      ],
+      "stakes": "marriage trust",
+      "reveal": "she's messy",
+      "relationship": "couple",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s08e14-b",
+      "season": 8,
+      "episode": 14,
+      "title": "The One with the Secret Closet",
+      "plot": "Joey tells Ross about his crush on Rachel",
+      "trigger": "discovery",
+      "tension": [
+        "loyalty",
+        "guilt"
+      ],
+      "stakes": "a friendship",
+      "reveal": "Ross is hurt",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s08e15-a",
+      "season": 8,
+      "episode": 15,
+      "title": "The One with the Birthing Video",
+      "plot": "Phoebe gives Monica and Chandler a birthing video instead of porn",
+      "trigger": "mistake",
+      "tension": [
+        "embarrassment",
+        "taboo"
+      ],
+      "stakes": "a gift",
+      "reveal": "they watch it",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s08e16-a",
+      "season": 8,
+      "episode": 16,
+      "title": "The One Where Joey Tells Rachel",
+      "plot": "Joey confesses his feelings for Rachel and she doesn't feel the same",
+      "trigger": "discovery",
+      "tension": [
+        "attraction",
+        "loyalty"
+      ],
+      "stakes": "a friendship",
+      "reveal": "she loves him as a friend",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s08e17-a",
+      "season": 8,
+      "episode": 17,
+      "title": "The One with the Tea Leaves",
+      "plot": "Ross tries to get his shirt back from his ex Mona",
+      "trigger": "object",
+      "tension": [
+        "commitment",
+        "identity"
+      ],
+      "stakes": "closure",
+      "reveal": "he breaks into her house",
+      "relationship": "exes",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s08e17-b",
+      "season": 8,
+      "episode": 17,
+      "title": "The One with the Tea Leaves",
+      "plot": "Phoebe's tea leaves predict she'll meet someone",
+      "trigger": "discovery",
+      "tension": [
+        "identity",
+        "attraction"
+      ],
+      "stakes": "fate",
+      "reveal": "she meets someone",
+      "relationship": "strangers",
+      "setting": "cafe",
+      "verify": true
+    },
+    {
+      "id": "s08e18-a",
+      "season": 8,
+      "episode": 18,
+      "title": "The One in Massapequa",
+      "plot": "Ross and Rachel pretend to be married at his parents' anniversary",
+      "trigger": "lie",
+      "tension": [
+        "family",
+        "secret"
+      ],
+      "stakes": "approval",
+      "reveal": "they confess",
+      "relationship": "exes",
+      "setting": "party",
+      "verify": false
+    },
+    {
+      "id": "s08e18-b",
+      "season": 8,
+      "episode": 18,
+      "title": "The One in Massapequa",
+      "plot": "Monica writes a better toast than Ross for her parents",
+      "trigger": "event",
+      "tension": [
+        "rivalry",
+        "family"
+      ],
+      "stakes": "approval",
+      "reveal": "her toast is stolen",
+      "relationship": "siblings",
+      "setting": "party",
+      "verify": true
+    },
+    {
+      "id": "s08e19-a",
+      "season": 8,
+      "episode": 19,
+      "title": "The One with Joey's Interview",
+      "plot": "Joey gives an interview and reveals secrets about his friends",
+      "trigger": "job",
+      "tension": [
+        "status",
+        "secret"
+      ],
+      "stakes": "fame",
+      "reveal": "they're embarrassed",
+      "relationship": "friends",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s08e20-a",
+      "season": 8,
+      "episode": 20,
+      "title": "The One with the Baby Shower",
+      "plot": "Rachel panics at her baby shower about her lack of preparation",
+      "trigger": "event",
+      "tension": [
+        "identity",
+        "family"
+      ],
+      "stakes": "parenthood",
+      "reveal": "she isn't ready",
+      "relationship": "friends",
+      "setting": "party",
+      "verify": false
+    },
+    {
+      "id": "s08e20-b",
+      "season": 8,
+      "episode": 20,
+      "title": "The One with the Baby Shower",
+      "plot": "Joey hosts a game show pilot and the friends help him prepare",
+      "trigger": "job",
+      "tension": [
+        "status",
+        "identity"
+      ],
+      "stakes": "a career",
+      "reveal": "he struggles",
+      "relationship": "friends",
+      "setting": "work",
+      "verify": true
+    },
+    {
+      "id": "s08e21-a",
+      "season": 8,
+      "episode": 21,
+      "title": "The One with the Cooking Class",
+      "plot": "Joey takes a cooking class to impress",
+      "trigger": "challenge",
+      "tension": [
+        "identity",
+        "status"
+      ],
+      "stakes": "a skill",
+      "reveal": "he fails",
+      "relationship": "strangers",
+      "setting": "work",
+      "verify": true
+    },
+    {
+      "id": "s08e22-a",
+      "season": 8,
+      "episode": 22,
+      "title": "The One Where Rachel Is Late",
+      "plot": "Rachel is overdue and everyone tries to speed up labour",
+      "trigger": "deadline",
+      "tension": [
+        "control",
+        "family"
+      ],
+      "stakes": "a birth",
+      "reveal": "nothing works",
+      "relationship": "exes",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s08e23-a",
+      "season": 8,
+      "episode": 23,
+      "title": "The One Where Rachel Has a Baby",
+      "plot": "Rachel watches other women give birth before her in the shared room",
+      "trigger": "event",
+      "tension": [
+        "rivalry",
+        "family"
+      ],
+      "stakes": "a birth",
+      "reveal": "she gives birth last",
+      "relationship": "strangers",
+      "setting": "hospital",
+      "verify": false
+    },
+    {
+      "id": "s08e23-b",
+      "season": 8,
+      "episode": 23,
+      "title": "The One Where Rachel Has a Baby",
+      "plot": "Monica and Chandler try to conceive at the hospital",
+      "trigger": "deadline",
+      "tension": [
+        "commitment",
+        "family"
+      ],
+      "stakes": "having a baby",
+      "reveal": "they get caught",
+      "relationship": "couple",
+      "setting": "hospital",
+      "verify": false
+    },
+    {
+      "id": "s09e01-a",
+      "season": 9,
+      "episode": 1,
+      "title": "The One Where No One Proposes",
+      "plot": "Rachel thinks Joey proposed after he picks up a fallen ring and says yes",
+      "trigger": "mistake",
+      "tension": [
+        "commitment",
+        "loyalty"
+      ],
+      "stakes": "a friendship",
+      "reveal": "it was Ross's mum's ring",
+      "relationship": "friends",
+      "setting": "hospital",
+      "verify": false
+    },
+    {
+      "id": "s09e01-b",
+      "season": 9,
+      "episode": 1,
+      "title": "The One Where No One Proposes",
+      "plot": "Monica and Chandler start trying for a baby",
+      "trigger": "discovery",
+      "tension": [
+        "commitment",
+        "family"
+      ],
+      "stakes": "parenthood",
+      "reveal": "they plan it",
+      "relationship": "couple",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s09e02-a",
+      "season": 9,
+      "episode": 2,
+      "title": "The One Where Emma Cries",
+      "plot": "Chandler accidentally accepts a job in Tulsa",
+      "trigger": "mistake",
+      "tension": [
+        "commitment",
+        "guilt"
+      ],
+      "stakes": "a marriage",
+      "reveal": "he moves part-time",
+      "relationship": "couple",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s09e02-b",
+      "season": 9,
+      "episode": 2,
+      "title": "The One Where Emma Cries",
+      "plot": "Ross and Joey's friendship is strained after the proposal mix-up",
+      "trigger": "discovery",
+      "tension": [
+        "loyalty",
+        "jealousy"
+      ],
+      "stakes": "a friendship",
+      "reveal": "they fight",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s09e03-a",
+      "season": 9,
+      "episode": 3,
+      "title": "The One with the Pediatrician",
+      "plot": "Rachel wants Emma to see Ross's childhood pediatrician",
+      "trigger": "discovery",
+      "tension": [
+        "identity",
+        "status"
+      ],
+      "stakes": "maturity",
+      "reveal": "Ross switches doctors",
+      "relationship": "exes",
+      "setting": "hospital",
+      "verify": false
+    },
+    {
+      "id": "s09e03-b",
+      "season": 9,
+      "episode": 3,
+      "title": "The One with the Pediatrician",
+      "plot": "Joey sets Phoebe up with a fake date and she picks a random stranger to play the part",
+      "trigger": "lie",
+      "tension": [
+        "attraction",
+        "identity"
+      ],
+      "stakes": "a date",
+      "reveal": "the stranger becomes her love",
+      "relationship": "strangers",
+      "setting": "public",
+      "verify": true
+    },
+    {
+      "id": "s09e04-a",
+      "season": 9,
+      "episode": 4,
+      "title": "The One with the Sharks",
+      "plot": "Monica thinks Chandler is aroused by shark videos",
+      "trigger": "discovery",
+      "tension": [
+        "taboo",
+        "embarrassment"
+      ],
+      "stakes": "marriage trust",
+      "reveal": "he isn't",
+      "relationship": "couple",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s09e04-b",
+      "season": 9,
+      "episode": 4,
+      "title": "The One with the Sharks",
+      "plot": "Phoebe meets her new boyfriend's parents",
+      "trigger": "visitor",
+      "tension": [
+        "family",
+        "status"
+      ],
+      "stakes": "approval",
+      "reveal": "they dislike her",
+      "relationship": "dating",
+      "setting": "home",
+      "verify": true
+    },
+    {
+      "id": "s09e05-a",
+      "season": 9,
+      "episode": 5,
+      "title": "The One with Phoebe's Birthday Dinner",
+      "plot": "Phoebe's birthday dinner keeps getting delayed by everyone's dramas",
+      "trigger": "event",
+      "tension": [
+        "loyalty",
+        "guilt"
+      ],
+      "stakes": "a birthday",
+      "reveal": "everyone shows up late",
+      "relationship": "friends",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s09e05-b",
+      "season": 9,
+      "episode": 5,
+      "title": "The One with Phoebe's Birthday Dinner",
+      "plot": "Ross and Rachel lock themselves out with their baby inside",
+      "trigger": "mistake",
+      "tension": [
+        "guilt",
+        "family"
+      ],
+      "stakes": "a baby",
+      "reveal": "they break in",
+      "relationship": "exes",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s09e06-a",
+      "season": 9,
+      "episode": 6,
+      "title": "The One with the Male Nanny",
+      "plot": "Ross is uncomfortable with Emma's male nanny",
+      "trigger": "job",
+      "tension": [
+        "identity",
+        "status"
+      ],
+      "stakes": "masculinity",
+      "reveal": "the nanny is too sensitive",
+      "relationship": "strangers",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s09e06-b",
+      "season": 9,
+      "episode": 6,
+      "title": "The One with the Male Nanny",
+      "plot": "Monica's coworker becomes too friendly with Chandler",
+      "trigger": "job",
+      "tension": [
+        "jealousy",
+        "loyalty"
+      ],
+      "stakes": "a marriage",
+      "reveal": "he isn't",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": true
+    },
+    {
+      "id": "s09e07-a",
+      "season": 9,
+      "episode": 7,
+      "title": "The One with Ross's Inappropriate Song",
+      "plot": "Ross discovers singing \"Baby Got Back\" makes Emma laugh",
+      "trigger": "discovery",
+      "tension": [
+        "identity",
+        "embarrassment"
+      ],
+      "stakes": "fatherhood",
+      "reveal": "it works",
+      "relationship": "parent-child",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s09e07-b",
+      "season": 9,
+      "episode": 7,
+      "title": "The One with Ross's Inappropriate Song",
+      "plot": "Joey writes a reference letter for Monica and Chandler's adoption",
+      "trigger": "job",
+      "tension": [
+        "loyalty",
+        "status"
+      ],
+      "stakes": "an adoption",
+      "reveal": "it's a disaster",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s09e08-a",
+      "season": 9,
+      "episode": 8,
+      "title": "The One with Rachel's Other Sister",
+      "plot": "Rachel's selfish sister comes for Thanksgiving and insults everyone",
+      "trigger": "holiday",
+      "tension": [
+        "family",
+        "jealousy"
+      ],
+      "stakes": "a holiday",
+      "reveal": "she's a mess",
+      "relationship": "siblings",
+      "setting": "holiday",
+      "verify": false
+    },
+    {
+      "id": "s09e08-b",
+      "season": 9,
+      "episode": 8,
+      "title": "The One with Rachel's Other Sister",
+      "plot": "Monica obsesses over using her good wedding china",
+      "trigger": "holiday",
+      "tension": [
+        "control",
+        "family"
+      ],
+      "stakes": "a dinner",
+      "reveal": "it breaks",
+      "relationship": "couple",
+      "setting": "holiday",
+      "verify": false
+    },
+    {
+      "id": "s09e09-a",
+      "season": 9,
+      "episode": 9,
+      "title": "The One with Rachel's Phone Number",
+      "plot": "Rachel impulsively gives her number to a guy at a bar",
+      "trigger": "date",
+      "tension": [
+        "attraction",
+        "identity"
+      ],
+      "stakes": "confidence",
+      "reveal": "it backfires",
+      "relationship": "strangers",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s09e09-b",
+      "season": 9,
+      "episode": 9,
+      "title": "The One with Rachel's Phone Number",
+      "plot": "Chandler fakes watching Joey's soap",
+      "trigger": "lie",
+      "tension": [
+        "loyalty",
+        "guilt"
+      ],
+      "stakes": "a friendship",
+      "reveal": "Joey finds out",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": true
+    },
+    {
+      "id": "s09e10-a",
+      "season": 9,
+      "episode": 10,
+      "title": "The One with Christmas in Tulsa",
+      "plot": "Chandler quits his job to come home for Christmas",
+      "trigger": "holiday",
+      "tension": [
+        "commitment",
+        "identity"
+      ],
+      "stakes": "a career",
+      "reveal": "he quits",
+      "relationship": "couple",
+      "setting": "holiday",
+      "verify": false
+    },
+    {
+      "id": "s09e11-a",
+      "season": 9,
+      "episode": 11,
+      "title": "The One Where Rachel Goes Back to Work",
+      "plot": "Rachel returns to work and finds her replacement wants her job",
+      "trigger": "job",
+      "tension": [
+        "rivalry",
+        "status"
+      ],
+      "stakes": "a career",
+      "reveal": "she fights",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s09e12-a",
+      "season": 9,
+      "episode": 12,
+      "title": "The One with Phoebe's Rats",
+      "plot": "Phoebe tries to rehome a litter of rats",
+      "trigger": "object",
+      "tension": [
+        "guilt",
+        "identity"
+      ],
+      "stakes": "animals",
+      "reveal": "they multiply",
+      "relationship": "strangers",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s09e12-b",
+      "season": 9,
+      "episode": 12,
+      "title": "The One with Phoebe's Rats",
+      "plot": "Monica hires a caterer who's her rival",
+      "trigger": "job",
+      "tension": [
+        "rivalry",
+        "status"
+      ],
+      "stakes": "her craft",
+      "reveal": "the rival wins",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": true
+    },
+    {
+      "id": "s09e13-a",
+      "season": 9,
+      "episode": 13,
+      "title": "The One Where Monica Sings",
+      "plot": "Monica is cheered at karaoke for her outfit, not her voice",
+      "trigger": "event",
+      "tension": [
+        "status",
+        "embarrassment"
+      ],
+      "stakes": "self-image",
+      "reveal": "she doesn't care",
+      "relationship": "strangers",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s09e13-b",
+      "season": 9,
+      "episode": 13,
+      "title": "The One Where Monica Sings",
+      "plot": "Phoebe and Mike discuss their future and disagree",
+      "trigger": "discovery",
+      "tension": [
+        "commitment",
+        "identity"
+      ],
+      "stakes": "a relationship",
+      "reveal": "they break up",
+      "relationship": "couple",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s09e14-a",
+      "season": 9,
+      "episode": 14,
+      "title": "The One with the Blind Dates",
+      "plot": "Joey and Phoebe set Ross and Rachel up on bad blind dates to push them together",
+      "trigger": "lie",
+      "tension": [
+        "attraction",
+        "loyalty"
+      ],
+      "stakes": "a reunion",
+      "reveal": "it doesn't work",
+      "relationship": "friends",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s09e15-a",
+      "season": 9,
+      "episode": 15,
+      "title": "The One with the Mugging",
+      "plot": "Phoebe realises she once mugged Ross as a teenager",
+      "trigger": "discovery",
+      "tension": [
+        "guilt",
+        "identity"
+      ],
+      "stakes": "a friendship",
+      "reveal": "she returns the comic",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s09e15-b",
+      "season": 9,
+      "episode": 15,
+      "title": "The One with the Mugging",
+      "plot": "Joey auditions for a Broadway play",
+      "trigger": "job",
+      "tension": [
+        "status",
+        "identity"
+      ],
+      "stakes": "a career",
+      "reveal": "he tries",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": true
+    },
+    {
+      "id": "s09e16-a",
+      "season": 9,
+      "episode": 16,
+      "title": "The One with the Boob Job",
+      "plot": "Chandler thinks Monica secretly had a boob job",
+      "trigger": "discovery",
+      "tension": [
+        "secret",
+        "commitment"
+      ],
+      "stakes": "marriage trust",
+      "reveal": "she didn't",
+      "relationship": "couple",
+      "setting": "home",
+      "verify": true
+    },
+    {
+      "id": "s09e17-a",
+      "season": 9,
+      "episode": 17,
+      "title": "The One with the Memorial Service",
+      "plot": "Ross and Chandler post fake news about each other on the alumni website",
+      "trigger": "lie",
+      "tension": [
+        "rivalry",
+        "status"
+      ],
+      "stakes": "reputation",
+      "reveal": "Ross fakes his death",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s09e18-a",
+      "season": 9,
+      "episode": 18,
+      "title": "The One with the Lottery",
+      "plot": "The friends pool money for the lottery and fight over winning",
+      "trigger": "money",
+      "tension": [
+        "money",
+        "loyalty"
+      ],
+      "stakes": "a jackpot",
+      "reveal": "they win nothing",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s09e19-a",
+      "season": 9,
+      "episode": 19,
+      "title": "The One with Rachel's Dream",
+      "plot": "Rachel has a romantic dream about Joey",
+      "trigger": "discovery",
+      "tension": [
+        "attraction",
+        "loyalty"
+      ],
+      "stakes": "a friendship",
+      "reveal": "he kisses her",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s09e20-a",
+      "season": 9,
+      "episode": 20,
+      "title": "The One with the Soap Opera Party",
+      "plot": "Joey lies about a party to keep his friends away",
+      "trigger": "lie",
+      "tension": [
+        "loyalty",
+        "status"
+      ],
+      "stakes": "a party",
+      "reveal": "they crash it",
+      "relationship": "friends",
+      "setting": "party",
+      "verify": false
+    },
+    {
+      "id": "s09e21-a",
+      "season": 9,
+      "episode": 21,
+      "title": "The One with the Fertility Test",
+      "plot": "Monica and Chandler get fertility tests",
+      "trigger": "discovery",
+      "tension": [
+        "commitment",
+        "family"
+      ],
+      "stakes": "having children",
+      "reveal": "they can't",
+      "relationship": "couple",
+      "setting": "hospital",
+      "verify": false
+    },
+    {
+      "id": "s09e22-a",
+      "season": 9,
+      "episode": 22,
+      "title": "The One with the Donor",
+      "plot": "Monica and Chandler interview sperm donors",
+      "trigger": "job",
+      "tension": [
+        "commitment",
+        "family"
+      ],
+      "stakes": "having children",
+      "reveal": "they adopt",
+      "relationship": "couple",
+      "setting": "hospital",
+      "verify": false
+    },
+    {
+      "id": "s09e23-a",
+      "season": 9,
+      "episode": 23,
+      "title": "The One in Barbados",
+      "plot": "At a paleontology conference in Barbados, Joey and Rachel's attraction grows",
+      "trigger": "travel",
+      "tension": [
+        "attraction",
+        "loyalty"
+      ],
+      "stakes": "a friendship",
+      "reveal": "they kiss",
+      "relationship": "friends",
+      "setting": "travel",
+      "verify": false
+    },
+    {
+      "id": "s09e23-b",
+      "season": 9,
+      "episode": 23,
+      "title": "The One in Barbados",
+      "plot": "Monica's hair grows wild in the humidity",
+      "trigger": "travel",
+      "tension": [
+        "identity",
+        "embarrassment"
+      ],
+      "stakes": "appearance",
+      "reveal": "it's huge",
+      "relationship": "friends",
+      "setting": "travel",
+      "verify": false
+    },
+    {
+      "id": "s10e01-a",
+      "season": 10,
+      "episode": 1,
+      "title": "The One After Joey and Rachel Kiss",
+      "plot": "Joey and Rachel's kiss affects the group",
+      "trigger": "discovery",
+      "tension": [
+        "attraction",
+        "loyalty"
+      ],
+      "stakes": "friendship",
+      "reveal": "they try a relationship",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s10e02-a",
+      "season": 10,
+      "episode": 2,
+      "title": "The One Where Ross Is Fine",
+      "plot": "Ross claims he's fine with Joey and Rachel, then gets drunk at a double date",
+      "trigger": "lie",
+      "tension": [
+        "jealousy",
+        "loyalty"
+      ],
+      "stakes": "friendship",
+      "reveal": "he isn't fine",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s10e03-a",
+      "season": 10,
+      "episode": 3,
+      "title": "The One with Ross's Tan",
+      "plot": "Ross gets a spray tan wrong",
+      "trigger": "mistake",
+      "tension": [
+        "status",
+        "embarrassment"
+      ],
+      "stakes": "appearance",
+      "reveal": "he's lopsided",
+      "relationship": "strangers",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s10e03-b",
+      "season": 10,
+      "episode": 3,
+      "title": "The One with Ross's Tan",
+      "plot": "Joey and Rachel can't get physical",
+      "trigger": "date",
+      "tension": [
+        "attraction",
+        "identity"
+      ],
+      "stakes": "a relationship",
+      "reveal": "they stay friends",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s10e04-a",
+      "season": 10,
+      "episode": 4,
+      "title": "The One with the Cake",
+      "plot": "The gang celebrates Emma's first birthday and the cake is wrong",
+      "trigger": "event",
+      "tension": [
+        "family",
+        "embarrassment"
+      ],
+      "stakes": "a birthday",
+      "reveal": "it's the wrong shape",
+      "relationship": "parent-child",
+      "setting": "party",
+      "verify": false
+    },
+    {
+      "id": "s10e05-a",
+      "season": 10,
+      "episode": 5,
+      "title": "The One Where Rachel's Sister Babysits",
+      "plot": "Rachel's sister pierces Emma's ears without permission",
+      "trigger": "mistake",
+      "tension": [
+        "family",
+        "control"
+      ],
+      "stakes": "a child",
+      "reveal": "it's done",
+      "relationship": "siblings",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s10e05-b",
+      "season": 10,
+      "episode": 5,
+      "title": "The One Where Rachel's Sister Babysits",
+      "plot": "Phoebe and Mike donate their wedding money to charity",
+      "trigger": "money",
+      "tension": [
+        "money",
+        "commitment"
+      ],
+      "stakes": "a wedding",
+      "reveal": "they change their mind",
+      "relationship": "couple",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s10e06-a",
+      "season": 10,
+      "episode": 6,
+      "title": "The One with Ross's Grant",
+      "plot": "Ross's grant reviewer is his girlfriend's ex",
+      "trigger": "job",
+      "tension": [
+        "jealousy",
+        "status"
+      ],
+      "stakes": "funding",
+      "reveal": "the ex sabotages",
+      "relationship": "exes",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s10e07-a",
+      "season": 10,
+      "episode": 7,
+      "title": "The One with the Home Study",
+      "plot": "Monica and Chandler have an adoption home study",
+      "trigger": "event",
+      "tension": [
+        "status",
+        "commitment"
+      ],
+      "stakes": "an adoption",
+      "reveal": "Joey knows the inspector",
+      "relationship": "couple",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s10e08-a",
+      "season": 10,
+      "episode": 8,
+      "title": "The One with the Late Thanksgiving",
+      "plot": "The friends come late to Thanksgiving because they enter Emma in a baby pageant",
+      "trigger": "holiday",
+      "tension": [
+        "loyalty",
+        "guilt"
+      ],
+      "stakes": "a holiday",
+      "reveal": "Monica locks them out",
+      "relationship": "friends",
+      "setting": "holiday",
+      "verify": false
+    },
+    {
+      "id": "s10e09-a",
+      "season": 10,
+      "episode": 9,
+      "title": "The One with the Birth Mother",
+      "plot": "Monica and Chandler meet a birth mother who mistakes them for others",
+      "trigger": "visitor",
+      "tension": [
+        "commitment",
+        "family"
+      ],
+      "stakes": "adoption",
+      "reveal": "they lie",
+      "relationship": "couple",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s10e10-a",
+      "season": 10,
+      "episode": 10,
+      "title": "The One Where Chandler Gets Caught",
+      "plot": "The friends think Chandler is cheating when he's house hunting",
+      "trigger": "discovery",
+      "tension": [
+        "secret",
+        "loyalty"
+      ],
+      "stakes": "a marriage",
+      "reveal": "it's a surprise",
+      "relationship": "friends",
+      "setting": "public",
+      "verify": false
+    },
+    {
+      "id": "s10e11-a",
+      "season": 10,
+      "episode": 11,
+      "title": "The One Where the Stripper Cries",
+      "plot": "The guys reminisce about their college days",
+      "trigger": "discovery",
+      "tension": [
+        "identity",
+        "secret"
+      ],
+      "stakes": "nostalgia",
+      "reveal": "Ross kissed Rachel at a party",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": true
+    },
+    {
+      "id": "s10e12-a",
+      "season": 10,
+      "episode": 12,
+      "title": "The One with Phoebe's Wedding",
+      "plot": "Monica becomes a drill sergeant planner at Phoebe's wedding",
+      "trigger": "event",
+      "tension": [
+        "control",
+        "loyalty"
+      ],
+      "stakes": "a wedding",
+      "reveal": "it snows",
+      "relationship": "friends",
+      "setting": "wedding",
+      "verify": false
+    },
+    {
+      "id": "s10e13-a",
+      "season": 10,
+      "episode": 13,
+      "title": "The One Where Joey Speaks French",
+      "plot": "Phoebe tries to teach Joey French for an audition and he can't",
+      "trigger": "challenge",
+      "tension": [
+        "identity",
+        "status"
+      ],
+      "stakes": "a role",
+      "reveal": "he fails",
+      "relationship": "friends",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s10e14-a",
+      "season": 10,
+      "episode": 14,
+      "title": "The One with Princess Consuela",
+      "plot": "Phoebe changes her name to something absurd",
+      "trigger": "rule",
+      "tension": [
+        "identity",
+        "commitment"
+      ],
+      "stakes": "a new name",
+      "reveal": "it's absurd",
+      "relationship": "couple",
+      "setting": "home",
+      "verify": false
+    },
+    {
+      "id": "s10e14-b",
+      "season": 10,
+      "episode": 14,
+      "title": "The One with Princess Consuela",
+      "plot": "Rachel's job interview is overheard by her boss",
+      "trigger": "job",
+      "tension": [
+        "secret",
+        "status"
+      ],
+      "stakes": "a career",
+      "reveal": "she's fired",
+      "relationship": "coworkers",
+      "setting": "work",
+      "verify": false
+    },
+    {
+      "id": "s10e15-a",
+      "season": 10,
+      "episode": 15,
+      "title": "The One Where Estelle Dies",
+      "plot": "Phoebe hides Estelle's death from Joey",
+      "trigger": "lie",
+      "tension": [
+        "secret",
+        "guilt"
+      ],
+      "stakes": "grief",
+      "reveal": "Joey finds out",
+      "relationship": "friends",
+      "setting": "home",
+      "verify": true
+    },
+    {
+      "id": "s10e16-a",
+      "season": 10,
+      "episode": 16,
+      "title": "The One with Rachel's Going Away Party",
+      "plot": "Rachel says goodbye to everyone except Ross",
+      "trigger": "event",
+      "tension": [
+        "commitment",
+        "guilt"
+      ],
+      "stakes": "a goodbye",
+      "reveal": "he's hurt",
+      "relationship": "exes",
+      "setting": "party",
+      "verify": false
+    },
+    {
+      "id": "s10e17-a",
+      "season": 10,
+      "episode": 17,
+      "title": "The Last One",
+      "plot": "Ross races to the airport to stop Rachel moving to Paris",
+      "trigger": "deadline",
+      "tension": [
+        "commitment",
+        "attraction"
+      ],
+      "stakes": "a relationship",
+      "reveal": "she gets off the plane",
+      "relationship": "exes",
+      "setting": "travel",
+      "verify": false
+    },
+    {
+      "id": "s10e17-b",
+      "season": 10,
+      "episode": 17,
+      "title": "The Last One",
+      "plot": "Monica and Chandler adopt twins and prepare to move",
+      "trigger": "event",
+      "tension": [
+        "family",
+        "commitment"
+      ],
+      "stakes": "parenthood",
+      "reveal": "it's twins",
+      "relationship": "couple",
+      "setting": "hospital",
+      "verify": false
+    }
+  ]
+}

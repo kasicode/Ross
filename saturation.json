@@ -1,0 +1,4142 @@
+{
+  "version": 1,
+  "method": "Each engine is compared with all 1,085 formats on shared tensions (2 pts each), relationship (1) and trigger (1); formats scoring 4+ count as close. weight = 1/sqrt(1+close) for selection.",
+  "levels": {
+    "crowded": 153,
+    "open": 23,
+    "light": 108,
+    "saturated": 133
+  },
+  "tension_gap": {
+    "commitment": {
+      "friends_share": 0.102,
+      "formats_share": 0.035,
+      "ratio": 0.34
+    },
+    "guilt": {
+      "friends_share": 0.058,
+      "formats_share": 0.013,
+      "ratio": 0.22
+    },
+    "loyalty": {
+      "friends_share": 0.091,
+      "formats_share": 0.055,
+      "ratio": 0.6
+    },
+    "family": {
+      "friends_share": 0.082,
+      "formats_share": 0.05,
+      "ratio": 0.61
+    },
+    "identity": {
+      "friends_share": 0.14,
+      "formats_share": 0.112,
+      "ratio": 0.8
+    },
+    "jealousy": {
+      "friends_share": 0.034,
+      "formats_share": 0.009,
+      "ratio": 0.26
+    },
+    "secret": {
+      "friends_share": 0.078,
+      "formats_share": 0.054,
+      "ratio": 0.69
+    },
+    "taboo": {
+      "friends_share": 0.018,
+      "formats_share": 0.004,
+      "ratio": 0.22
+    },
+    "embarrassment": {
+      "friends_share": 0.078,
+      "formats_share": 0.066,
+      "ratio": 0.85
+    },
+    "attraction": {
+      "friends_share": 0.078,
+      "formats_share": 0.074,
+      "ratio": 0.95
+    },
+    "independence": {
+      "friends_share": 0.014,
+      "formats_share": 0.014,
+      "ratio": 1.0
+    },
+    "money": {
+      "friends_share": 0.024,
+      "formats_share": 0.045,
+      "ratio": 1.88
+    },
+    "control": {
+      "friends_share": 0.043,
+      "formats_share": 0.071,
+      "ratio": 1.65
+    },
+    "status": {
+      "friends_share": 0.12,
+      "formats_share": 0.229,
+      "ratio": 1.91
+    },
+    "rivalry": {
+      "friends_share": 0.041,
+      "formats_share": 0.17,
+      "ratio": 4.15
+    }
+  },
+  "relationship_share": {
+    "friends": {
+      "friends": 0.353,
+      "dating": 0.098,
+      "exes": 0.094,
+      "parent-child": 0.036,
+      "coworkers": 0.096,
+      "strangers": 0.108,
+      "family": 0.017,
+      "siblings": 0.043,
+      "roommates": 0.034,
+      "couple": 0.122
+    },
+    "formats": {
+      "strangers": 0.715,
+      "friends": 0.047,
+      "couple": 0.038,
+      "family": 0.063,
+      "exes": 0.021,
+      "coworkers": 0.081,
+      "siblings": 0.008,
+      "parent-child": 0.019,
+      "dating": 0.001,
+      "roommates": 0.006
+    }
+  },
+  "engines": {
+    "s01e01-a": {
+      "close_formats": 9,
+      "level": "crowded",
+      "weight": 0.316,
+      "examples": [
+        "Nineteen to Twenty S2",
+        "Nineteen to Twenty",
+        "Breaking Amish: Brave New World"
+      ]
+    },
+    "s01e01-b": {
+      "close_formats": 9,
+      "level": "crowded",
+      "weight": 0.316,
+      "examples": [
+        "How to Get Lucky",
+        "First Dates S11",
+        "First Dates Mexico"
+      ]
+    },
+    "s01e02-a": {
+      "close_formats": 11,
+      "level": "crowded",
+      "weight": 0.289,
+      "examples": [
+        "I Married a Princess",
+        "I Know My Kid's a Star",
+        "Hogan Knows Best"
+      ]
+    },
+    "s01e02-b": {
+      "close_formats": 0,
+      "level": "open",
+      "weight": 1.0,
+      "examples": []
+    },
+    "s01e02-c": {
+      "close_formats": 13,
+      "level": "crowded",
+      "weight": 0.267,
+      "examples": [
+        "I Know My Kid's a Star",
+        "Growing Up Gotti",
+        "Extreme Makeover: Home Edition"
+      ]
+    },
+    "s01e03-a": {
+      "close_formats": 7,
+      "level": "crowded",
+      "weight": 0.354,
+      "examples": [
+        "Zombieverse: New Blood",
+        "Utopia 2",
+        "I Survived a Zombie Apocalypse"
+      ]
+    },
+    "s01e03-b": {
+      "close_formats": 1,
+      "level": "light",
+      "weight": 0.707,
+      "examples": [
+        "De Dyre Piger"
+      ]
+    },
+    "s01e03-c": {
+      "close_formats": 7,
+      "level": "crowded",
+      "weight": 0.354,
+      "examples": [
+        "Zombieverse: New Blood",
+        "Utopia 2",
+        "I Survived a Zombie Apocalypse"
+      ]
+    },
+    "s01e04-a": {
+      "close_formats": 4,
+      "level": "light",
+      "weight": 0.447,
+      "examples": [
+        "Olivia Atwood's Bad Boyfriends",
+        "Eating With My Ex",
+        "Cheat: Unfinished Business"
+      ]
+    },
+    "s01e04-b": {
+      "close_formats": 125,
+      "level": "saturated",
+      "weight": 0.089,
+      "examples": [
+        "World Stunt Awards",
+        "Welcome To The LA",
+        "Millennium"
+      ]
+    },
+    "s01e05-a": {
+      "close_formats": 14,
+      "level": "crowded",
+      "weight": 0.258,
+      "examples": [
+        "The Nevermets",
+        "Heart Signal S5",
+        "Heart Signal S4"
+      ]
+    },
+    "s01e05-b": {
+      "close_formats": 4,
+      "level": "light",
+      "weight": 0.447,
+      "examples": [
+        "Olivia Atwood's Bad Boyfriends",
+        "Eating With My Ex",
+        "Cheat: Unfinished Business"
+      ]
+    },
+    "s01e05-c": {
+      "close_formats": 0,
+      "level": "open",
+      "weight": 1.0,
+      "examples": []
+    },
+    "s01e06-a": {
+      "close_formats": 152,
+      "level": "saturated",
+      "weight": 0.081,
+      "examples": [
+        "The Intern",
+        "Jamie's Kitchen",
+        "Half Pint Brawlers"
+      ]
+    },
+    "s01e06-b": {
+      "close_formats": 7,
+      "level": "crowded",
+      "weight": 0.354,
+      "examples": [
+        "Change Days S2",
+        "Transit Love (EXchange) S4",
+        "The Ultimatum: South Africa"
+      ]
+    },
+    "s01e07-a": {
+      "close_formats": 21,
+      "level": "saturated",
+      "weight": 0.213,
+      "examples": [
+        "How to Get Lucky",
+        "First Dates S11",
+        "First Dates Mexico"
+      ]
+    },
+    "s01e07-b": {
+      "close_formats": 53,
+      "level": "saturated",
+      "weight": 0.136,
+      "examples": [
+        "The Real Housewives van het Zuiden",
+        "The Real Housewives of Rotterdam",
+        "The Real Housewives of Cheshire"
+      ]
+    },
+    "s01e08-a": {
+      "close_formats": 13,
+      "level": "crowded",
+      "weight": 0.267,
+      "examples": [
+        "Hogan Knows Best",
+        "Family Plots",
+        "Extreme Makeover: Home Edition"
+      ]
+    },
+    "s01e08-b": {
+      "close_formats": 10,
+      "level": "crowded",
+      "weight": 0.302,
+      "examples": [
+        "Adorableness (TV series)",
+        "Nul Stjerner",
+        "Michella & Louisa Werken Mee"
+      ]
+    },
+    "s01e09-a": {
+      "close_formats": 3,
+      "level": "light",
+      "weight": 0.5,
+      "examples": [
+        "Thanks a Million",
+        "Battle of the Ex Besties",
+        "Bands Reunited"
+      ]
+    },
+    "s01e09-b": {
+      "close_formats": 69,
+      "level": "saturated",
+      "weight": 0.12,
+      "examples": [
+        "Nation's Dumbest (Scandinavia)",
+        "Nation's Dumbest (Fox)",
+        "Nation's Dumbest"
+      ]
+    },
+    "s01e10-a": {
+      "close_formats": 3,
+      "level": "light",
+      "weight": 0.5,
+      "examples": [
+        "Jersey Shore (TV series)",
+        "Geordie Shore",
+        "Floribama Shore"
+      ]
+    },
+    "s01e10-b": {
+      "close_formats": 1,
+      "level": "light",
+      "weight": 0.707,
+      "examples": [
+        "Bug Juice"
+      ]
+    },
+    "s01e11-a": {
+      "close_formats": 10,
+      "level": "crowded",
+      "weight": 0.302,
+      "examples": [
+        "SOS Piet",
+        "Hi-Jinks",
+        "Totally Outrageous – Vacations"
+      ]
+    },
+    "s01e11-b": {
+      "close_formats": 44,
+      "level": "saturated",
+      "weight": 0.149,
+      "examples": [
+        "The Golden Bachelorette",
+        "The Golden Bachelor",
+        "The Bachelorette S22"
+      ]
+    },
+    "s01e12-a": {
+      "close_formats": 29,
+      "level": "saturated",
+      "weight": 0.183,
+      "examples": [
+        "Førstemann",
+        "Wie is de Mol?",
+        "Wie Is De Mol? (Belgium)"
+      ]
+    },
+    "s01e12-b": {
+      "close_formats": 7,
+      "level": "crowded",
+      "weight": 0.354,
+      "examples": [
+        "My Family Mystery",
+        "An American Family",
+        "Secret Little Assistant"
+      ]
+    },
+    "s01e12-c": {
+      "close_formats": 203,
+      "level": "saturated",
+      "weight": 0.07,
+      "examples": [
+        "The Real Housewives van het Zuiden",
+        "The Real Housewives of Rotterdam",
+        "The Real Housewives of Cheshire"
+      ]
+    },
+    "s01e13-a": {
+      "close_formats": 11,
+      "level": "crowded",
+      "weight": 0.289,
+      "examples": [
+        "Foul Play",
+        "The Quiz with Balls",
+        "The House of Hide & Seek"
+      ]
+    },
+    "s01e13-b": {
+      "close_formats": 8,
+      "level": "crowded",
+      "weight": 0.333,
+      "examples": [
+        "Secret Little Assistant",
+        "My Mum, Your Dad",
+        "My Mum Your Dad (Australia)"
+      ]
+    },
+    "s01e13-c": {
+      "close_formats": 66,
+      "level": "saturated",
+      "weight": 0.122,
+      "examples": [
+        "You Don't Know Jack",
+        "Welcome Get Lost (Netflix Japan)",
+        "Vild Med Dans"
+      ]
+    },
+    "s01e14-a": {
+      "close_formats": 3,
+      "level": "light",
+      "weight": 0.5,
+      "examples": [
+        "The Newlywed Game",
+        "Love at Third Sight",
+        "Help, Mijn Man is Klusser NL"
+      ]
+    },
+    "s01e14-b": {
+      "close_formats": 8,
+      "level": "crowded",
+      "weight": 0.333,
+      "examples": [
+        "What's My 20?",
+        "Ticket to the Tribes",
+        "Nineteen to Twenty S2"
+      ]
+    },
+    "s01e15-a": {
+      "close_formats": 55,
+      "level": "saturated",
+      "weight": 0.134,
+      "examples": [
+        "Puzzle Time",
+        "Plankgas",
+        "Ninja Warrior (International)"
+      ]
+    },
+    "s01e15-b": {
+      "close_formats": 16,
+      "level": "crowded",
+      "weight": 0.243,
+      "examples": [
+        "American Restoration",
+        "The Intern",
+        "Selling the City"
+      ]
+    },
+    "s01e15-c": {
+      "close_formats": 9,
+      "level": "crowded",
+      "weight": 0.316,
+      "examples": [
+        "Dated and Related (Brazil)",
+        "Dated and Related",
+        "Totally Outrageous – Vacations"
+      ]
+    },
+    "s01e16-a": {
+      "close_formats": 5,
+      "level": "light",
+      "weight": 0.408,
+      "examples": [
+        "House of Carters",
+        "Welcome in de Familie",
+        "My Sibling's Romance"
+      ]
+    },
+    "s01e16-b": {
+      "close_formats": 11,
+      "level": "crowded",
+      "weight": 0.289,
+      "examples": [
+        "I Married a Princess",
+        "I Know My Kid's a Star",
+        "Hogan Knows Best"
+      ]
+    },
+    "s01e17-a": {
+      "close_formats": 16,
+      "level": "crowded",
+      "weight": 0.243,
+      "examples": [
+        "The Insider",
+        "The Anonymous",
+        "Boys will be Girls"
+      ]
+    },
+    "s01e18-a": {
+      "close_formats": 27,
+      "level": "saturated",
+      "weight": 0.189,
+      "examples": [
+        "Win the Mall",
+        "The Chase",
+        "Squid Game: The Challenge S2"
+      ]
+    },
+    "s01e18-b": {
+      "close_formats": 112,
+      "level": "saturated",
+      "weight": 0.094,
+      "examples": [
+        "Welcome To The LA",
+        "The Intern",
+        "Open Keuken met Sandra Bekkari"
+      ]
+    },
+    "s01e19-a": {
+      "close_formats": 7,
+      "level": "crowded",
+      "weight": 0.354,
+      "examples": [
+        "Love Con Revenge",
+        "Kees van der Spek: Oplichters Aangepakt!",
+        "Kees van der Spek Ontmaskert"
+      ]
+    },
+    "s01e20-a": {
+      "close_formats": 27,
+      "level": "saturated",
+      "weight": 0.189,
+      "examples": [
+        "Wie is de Mol?",
+        "Wie Is De Mol? (Belgium)",
+        "Werewolves (Reality Format)"
+      ]
+    },
+    "s01e20-b": {
+      "close_formats": 4,
+      "level": "light",
+      "weight": 0.447,
+      "examples": [
+        "Stranded on Honeymoon Island",
+        "Sneaky Links: Dating After Dark",
+        "Gestrand op Honeymoon Island"
+      ]
+    },
+    "s01e21-a": {
+      "close_formats": 67,
+      "level": "saturated",
+      "weight": 0.121,
+      "examples": [
+        "Voyeur Nation",
+        "The X Zone",
+        "The A-Z of the Unexplained"
+      ]
+    },
+    "s01e21-b": {
+      "close_formats": 4,
+      "level": "light",
+      "weight": 0.447,
+      "examples": [
+        "Olivia Atwood's Bad Boyfriends",
+        "Eating With My Ex",
+        "Cheat: Unfinished Business"
+      ]
+    },
+    "s01e22-a": {
+      "close_formats": 4,
+      "level": "light",
+      "weight": 0.447,
+      "examples": [
+        "Nude TV",
+        "Virgin Island",
+        "Sexy Spots"
+      ]
+    },
+    "s01e22-b": {
+      "close_formats": 59,
+      "level": "saturated",
+      "weight": 0.129,
+      "examples": [
+        "Vanderpump Rules S12",
+        "VIP News",
+        "The Secret Lives of Mormon Wives"
+      ]
+    },
+    "s01e23-a": {
+      "close_formats": 13,
+      "level": "crowded",
+      "weight": 0.267,
+      "examples": [
+        "SommerSummarum",
+        "Reality Queens of the Jungle: Family Edition",
+        "Family Feud (International)"
+      ]
+    },
+    "s01e23-b": {
+      "close_formats": 5,
+      "level": "light",
+      "weight": 0.408,
+      "examples": [
+        "Rêve d'un soir",
+        "Millennium",
+        "Louisa & Rosanna: Onze Transgender Liefde"
+      ]
+    },
+    "s01e24-a": {
+      "close_formats": 15,
+      "level": "crowded",
+      "weight": 0.25,
+      "examples": [
+        "Spy Date",
+        "Ex-treme Dating",
+        "The Nevermets"
+      ]
+    },
+    "s02e01-a": {
+      "close_formats": 12,
+      "level": "crowded",
+      "weight": 0.277,
+      "examples": [
+        "Temptation Island: Love or Leave",
+        "Temptation Island VIPS",
+        "Temptation Island US S6"
+      ]
+    },
+    "s02e01-b": {
+      "close_formats": 5,
+      "level": "light",
+      "weight": 0.408,
+      "examples": [
+        "Impractical Jokers",
+        "How Far Is Tattoo Far?",
+        "Infinite Challenge"
+      ]
+    },
+    "s02e01-c": {
+      "close_formats": 0,
+      "level": "open",
+      "weight": 1.0,
+      "examples": []
+    },
+    "s02e02-a": {
+      "close_formats": 0,
+      "level": "open",
+      "weight": 1.0,
+      "examples": []
+    },
+    "s02e02-b": {
+      "close_formats": 239,
+      "level": "saturated",
+      "weight": 0.065,
+      "examples": [
+        "Vanderpump Rules S12",
+        "The Golden Ticket",
+        "The Apprentice S19"
+      ]
+    },
+    "s02e02-c": {
+      "close_formats": 0,
+      "level": "open",
+      "weight": 1.0,
+      "examples": []
+    },
+    "s02e03-a": {
+      "close_formats": 62,
+      "level": "saturated",
+      "weight": 0.126,
+      "examples": [
+        "Una Sola Debole Voce 2",
+        "Rebooting (International)",
+        "Wild Reckoning with Bear Grylls"
+      ]
+    },
+    "s02e03-b": {
+      "close_formats": 2,
+      "level": "light",
+      "weight": 0.577,
+      "examples": [
+        "Louisa & Rosanna: Onze Transgender Liefde",
+        "Black Love (TV series)"
+      ]
+    },
+    "s02e04-a": {
+      "close_formats": 18,
+      "level": "crowded",
+      "weight": 0.229,
+      "examples": [
+        "Voyeur Nation",
+        "The X Zone",
+        "The A-Z of the Unexplained"
+      ]
+    },
+    "s02e05-a": {
+      "close_formats": 15,
+      "level": "crowded",
+      "weight": 0.25,
+      "examples": [
+        "The Weakest Link (Revival)",
+        "The Weakest Link",
+        "The Trust: A Game of Greed S2"
+      ]
+    },
+    "s02e05-b": {
+      "close_formats": 34,
+      "level": "saturated",
+      "weight": 0.169,
+      "examples": [
+        "The Boyfriend",
+        "Soundtrack of Love",
+        "Sexy Beasts"
+      ]
+    },
+    "s02e06-a": {
+      "close_formats": 7,
+      "level": "crowded",
+      "weight": 0.354,
+      "examples": [
+        "Love Con Revenge",
+        "Kees van der Spek: Oplichters Aangepakt!",
+        "Kees van der Spek Ontmaskert"
+      ]
+    },
+    "s02e06-b": {
+      "close_formats": 239,
+      "level": "saturated",
+      "weight": 0.065,
+      "examples": [
+        "Vanderpump Rules S12",
+        "The Golden Ticket",
+        "The Apprentice S19"
+      ]
+    },
+    "s02e07-a": {
+      "close_formats": 42,
+      "level": "saturated",
+      "weight": 0.152,
+      "examples": [
+        "Puzzle Time",
+        "Plankgas",
+        "Ninja Warrior (International)"
+      ]
+    },
+    "s02e07-b": {
+      "close_formats": 14,
+      "level": "crowded",
+      "weight": 0.258,
+      "examples": [
+        "The Nevermets",
+        "Spy Date",
+        "I Wanna Marry Harry"
+      ]
+    },
+    "s02e08-a": {
+      "close_formats": 2,
+      "level": "light",
+      "weight": 0.577,
+      "examples": [
+        "The Assembly (Singapore / Canada)",
+        "A-Talks (Le Facteur A)"
+      ]
+    },
+    "s02e08-b": {
+      "close_formats": 16,
+      "level": "crowded",
+      "weight": 0.243,
+      "examples": [
+        "American Restoration",
+        "The Intern",
+        "Selling the City"
+      ]
+    },
+    "s02e09-a": {
+      "close_formats": 35,
+      "level": "saturated",
+      "weight": 0.167,
+      "examples": [
+        "Who Do You Think You Are?",
+        "Tous les goûts sont dans la nature",
+        "The Bardsley Bunch"
+      ]
+    },
+    "s02e09-b": {
+      "close_formats": 0,
+      "level": "open",
+      "weight": 1.0,
+      "examples": []
+    },
+    "s02e10-a": {
+      "close_formats": 0,
+      "level": "open",
+      "weight": 1.0,
+      "examples": []
+    },
+    "s02e11-a": {
+      "close_formats": 2,
+      "level": "light",
+      "weight": 0.577,
+      "examples": [
+        "Welcome in de Familie",
+        "House of Carters"
+      ]
+    },
+    "s02e11-b": {
+      "close_formats": 7,
+      "level": "crowded",
+      "weight": 0.354,
+      "examples": [
+        "Single Mom Candice",
+        "Pubers op Wielen",
+        "Old Enough! (Mongolia)"
+      ]
+    },
+    "s02e12-a": {
+      "close_formats": 44,
+      "level": "saturated",
+      "weight": 0.149,
+      "examples": [
+        "The $100,000 Pyramid",
+        "Password",
+        "Girls Aloud: Off the Record"
+      ]
+    },
+    "s02e12-b": {
+      "close_formats": 34,
+      "level": "saturated",
+      "weight": 0.169,
+      "examples": [
+        "Voyeur Nation",
+        "The X Zone",
+        "The Insider"
+      ]
+    },
+    "s02e13-a": {
+      "close_formats": 49,
+      "level": "saturated",
+      "weight": 0.141,
+      "examples": [
+        "The Golden Bachelorette",
+        "The Golden Bachelor",
+        "The Crystal Maze (Revival)"
+      ]
+    },
+    "s02e13-b": {
+      "close_formats": 7,
+      "level": "crowded",
+      "weight": 0.354,
+      "examples": [
+        "Love Con Revenge",
+        "Kees van der Spek: Oplichters Aangepakt!",
+        "Kees van der Spek Ontmaskert"
+      ]
+    },
+    "s02e14-a": {
+      "close_formats": 15,
+      "level": "crowded",
+      "weight": 0.25,
+      "examples": [
+        "Spy Date",
+        "Ex-treme Dating",
+        "The Nevermets"
+      ]
+    },
+    "s02e14-b": {
+      "close_formats": 5,
+      "level": "light",
+      "weight": 0.408,
+      "examples": [
+        "Impractical Jokers",
+        "How Far Is Tattoo Far?",
+        "Infinite Challenge"
+      ]
+    },
+    "s02e15-a": {
+      "close_formats": 16,
+      "level": "crowded",
+      "weight": 0.243,
+      "examples": [
+        "The Boyfriend",
+        "Soundtrack of Love",
+        "Sexy Beasts"
+      ]
+    },
+    "s02e15-b": {
+      "close_formats": 1,
+      "level": "light",
+      "weight": 0.707,
+      "examples": [
+        "MILF Manor"
+      ]
+    },
+    "s02e15-c": {
+      "close_formats": 8,
+      "level": "crowded",
+      "weight": 0.333,
+      "examples": [
+        "What's My 20?",
+        "Ticket to the Tribes",
+        "Nineteen to Twenty S2"
+      ]
+    },
+    "s02e16-a": {
+      "close_formats": 7,
+      "level": "crowded",
+      "weight": 0.354,
+      "examples": [
+        "Bug Juice",
+        "Jersey Shore (TV series)",
+        "Geordie Shore"
+      ]
+    },
+    "s02e16-b": {
+      "close_formats": 2,
+      "level": "light",
+      "weight": 0.577,
+      "examples": [
+        "MILF Manor",
+        "Growing Up Gotti"
+      ]
+    },
+    "s02e17-a": {
+      "close_formats": 4,
+      "level": "light",
+      "weight": 0.447,
+      "examples": [
+        "Jersey Shore (TV series)",
+        "Geordie Shore",
+        "Floribama Shore"
+      ]
+    },
+    "s02e17-b": {
+      "close_formats": 152,
+      "level": "saturated",
+      "weight": 0.081,
+      "examples": [
+        "The Intern",
+        "Jamie's Kitchen",
+        "Half Pint Brawlers"
+      ]
+    },
+    "s02e18-a": {
+      "close_formats": 113,
+      "level": "saturated",
+      "weight": 0.094,
+      "examples": [
+        "World Stunt Awards",
+        "The Intern",
+        "Jamie's Kitchen"
+      ]
+    },
+    "s02e18-b": {
+      "close_formats": 6,
+      "level": "crowded",
+      "weight": 0.378,
+      "examples": [
+        "Transit Love (EXchange) S4",
+        "The Ultimatum: South Africa",
+        "The Ultimatum: Queer Love S2"
+      ]
+    },
+    "s02e19-a": {
+      "close_formats": 2,
+      "level": "light",
+      "weight": 0.577,
+      "examples": [
+        "Real Wrecks",
+        "Animal Precinct"
+      ]
+    },
+    "s02e19-b": {
+      "close_formats": 3,
+      "level": "light",
+      "weight": 0.5,
+      "examples": [
+        "BossBabes",
+        "Ibiza",
+        "Exxxtreme"
+      ]
+    },
+    "s02e20-a": {
+      "close_formats": 36,
+      "level": "saturated",
+      "weight": 0.164,
+      "examples": [
+        "Who Do You Think You Are?",
+        "Tous les goûts sont dans la nature",
+        "The Bardsley Bunch"
+      ]
+    },
+    "s02e20-b": {
+      "close_formats": 5,
+      "level": "light",
+      "weight": 0.408,
+      "examples": [
+        "Love Stories",
+        "Tommy and Georgia: I Do",
+        "Say Yes to the Dress"
+      ]
+    },
+    "s02e21-a": {
+      "close_formats": 358,
+      "level": "saturated",
+      "weight": 0.053,
+      "examples": [
+        "Yum Factor",
+        "X Factor Danmark",
+        "Wisdom of the Crowd (Global)"
+      ]
+    },
+    "s02e21-b": {
+      "close_formats": 16,
+      "level": "crowded",
+      "weight": 0.243,
+      "examples": [
+        "What's the Big Deal?",
+        "The Wall (International)",
+        "The Wall"
+      ]
+    },
+    "s02e21-c": {
+      "close_formats": 35,
+      "level": "saturated",
+      "weight": 0.167,
+      "examples": [
+        "Born From The Same Stranger",
+        "Who Do You Think You Are?",
+        "Tous les goûts sont dans la nature"
+      ]
+    },
+    "s02e22-a": {
+      "close_formats": 10,
+      "level": "crowded",
+      "weight": 0.302,
+      "examples": [
+        "Secret Little Assistant",
+        "My Mum, Your Dad",
+        "My Mum Your Dad (Australia)"
+      ]
+    },
+    "s02e23-a": {
+      "close_formats": 3,
+      "level": "light",
+      "weight": 0.5,
+      "examples": [
+        "Love Vacation",
+        "Sneaky Links: Dating After Dark",
+        "Chains of Love (TV series)"
+      ]
+    },
+    "s02e23-b": {
+      "close_formats": 5,
+      "level": "light",
+      "weight": 0.408,
+      "examples": [
+        "Tommy and Georgia: I Do",
+        "Say Yes to the Dress",
+        "Love Stories"
+      ]
+    },
+    "s02e24-a": {
+      "close_formats": 66,
+      "level": "saturated",
+      "weight": 0.122,
+      "examples": [
+        "Roast on the Coast",
+        "Mittermeier and Friends",
+        "You Don't Know Jack"
+      ]
+    },
+    "s02e24-b": {
+      "close_formats": 5,
+      "level": "light",
+      "weight": 0.408,
+      "examples": [
+        "Tommy and Georgia: I Do",
+        "Say Yes to the Dress",
+        "Love Stories"
+      ]
+    },
+    "s02e24-c": {
+      "close_formats": 34,
+      "level": "saturated",
+      "weight": 0.169,
+      "examples": [
+        "Voyeur Nation",
+        "The X Zone",
+        "The Insider"
+      ]
+    },
+    "s03e01-a": {
+      "close_formats": 2,
+      "level": "light",
+      "weight": 0.577,
+      "examples": [
+        "The Newlywed Game",
+        "Help, Mijn Man is Klusser NL"
+      ]
+    },
+    "s03e01-b": {
+      "close_formats": 4,
+      "level": "light",
+      "weight": 0.447,
+      "examples": [
+        "Louisa & Rosanna: Onze Transgender Liefde",
+        "Black Love (TV series)",
+        "Olivia Atwood's Bad Boyfriends"
+      ]
+    },
+    "s03e01-c": {
+      "close_formats": 9,
+      "level": "crowded",
+      "weight": 0.316,
+      "examples": [
+        "Handcuffed: Last Pair Standing (International)",
+        "Handcuffed: Last Pair Standing",
+        "Zombieverse: New Blood"
+      ]
+    },
+    "s03e02-a": {
+      "close_formats": 40,
+      "level": "saturated",
+      "weight": 0.156,
+      "examples": [
+        "Loïc, een restaurant in 100 dagen",
+        "Deadline (2007 TV series)",
+        "American Hot Rod"
+      ]
+    },
+    "s03e03-a": {
+      "close_formats": 0,
+      "level": "open",
+      "weight": 1.0,
+      "examples": []
+    },
+    "s03e03-b": {
+      "close_formats": 70,
+      "level": "saturated",
+      "weight": 0.119,
+      "examples": [
+        "The Boyfriend",
+        "Soundtrack of Love",
+        "Sexy Beasts"
+      ]
+    },
+    "s03e04-a": {
+      "close_formats": 2,
+      "level": "light",
+      "weight": 0.577,
+      "examples": [
+        "Louisa & Rosanna: Onze Transgender Liefde",
+        "Black Love (TV series)"
+      ]
+    },
+    "s03e04-b": {
+      "close_formats": 34,
+      "level": "saturated",
+      "weight": 0.169,
+      "examples": [
+        "Toy Hospital",
+        "The Repair Shop: On the Road",
+        "The Repair Shop"
+      ]
+    },
+    "s03e04-c": {
+      "close_formats": 111,
+      "level": "saturated",
+      "weight": 0.094,
+      "examples": [
+        "Welcome To The LA",
+        "The Faker",
+        "The Circle US S7"
+      ]
+    },
+    "s03e05-a": {
+      "close_formats": 34,
+      "level": "saturated",
+      "weight": 0.169,
+      "examples": [
+        "Spise med Price",
+        "Born From The Same Stranger",
+        "Worlds Apart"
+      ]
+    },
+    "s03e05-b": {
+      "close_formats": 15,
+      "level": "crowded",
+      "weight": 0.25,
+      "examples": [
+        "Temptation Island: Love or Leave",
+        "Temptation Island VIPS",
+        "Temptation Island US S6"
+      ]
+    },
+    "s03e06-a": {
+      "close_formats": 15,
+      "level": "crowded",
+      "weight": 0.25,
+      "examples": [
+        "Spy Date",
+        "Ex-treme Dating",
+        "The Nevermets"
+      ]
+    },
+    "s03e07-a": {
+      "close_formats": 11,
+      "level": "crowded",
+      "weight": 0.289,
+      "examples": [
+        "I Married a Princess",
+        "Extreme Makeover: Home Edition",
+        "Being Bobby Brown"
+      ]
+    },
+    "s03e07-b": {
+      "close_formats": 29,
+      "level": "saturated",
+      "weight": 0.183,
+      "examples": [
+        "Destroyed in Seconds",
+        "America's Worst Driver",
+        "The Naughty Naughty Hypno Show"
+      ]
+    },
+    "s03e07-c": {
+      "close_formats": 239,
+      "level": "saturated",
+      "weight": 0.065,
+      "examples": [
+        "Vanderpump Rules S12",
+        "The Golden Ticket",
+        "The Apprentice S19"
+      ]
+    },
+    "s03e08-a": {
+      "close_formats": 16,
+      "level": "crowded",
+      "weight": 0.243,
+      "examples": [
+        "Real Wrecks",
+        "Vilde Vidunderlige Danmark",
+        "Una Sola Debole Voce 2"
+      ]
+    },
+    "s03e08-b": {
+      "close_formats": 29,
+      "level": "saturated",
+      "weight": 0.183,
+      "examples": [
+        "Førstemann",
+        "Wie is de Mol?",
+        "Wie Is De Mol? (Belgium)"
+      ]
+    },
+    "s03e09-a": {
+      "close_formats": 11,
+      "level": "crowded",
+      "weight": 0.289,
+      "examples": [
+        "Braxton Family Values",
+        "SommerSummarum",
+        "Reality Queens of the Jungle: Family Edition"
+      ]
+    },
+    "s03e09-b": {
+      "close_formats": 246,
+      "level": "saturated",
+      "weight": 0.064,
+      "examples": [
+        "The Golden Bachelorette",
+        "The Golden Bachelor",
+        "The Bachelorette S22"
+      ]
+    },
+    "s03e10-a": {
+      "close_formats": 15,
+      "level": "crowded",
+      "weight": 0.25,
+      "examples": [
+        "What's My 20?",
+        "Ticket to the Tribes",
+        "The Intern"
+      ]
+    },
+    "s03e10-b": {
+      "close_formats": 13,
+      "level": "crowded",
+      "weight": 0.267,
+      "examples": [
+        "The Assembly (Singapore / Canada)",
+        "A-Talks (Le Facteur A)",
+        "Real Wrecks"
+      ]
+    },
+    "s03e10-c": {
+      "close_formats": 7,
+      "level": "crowded",
+      "weight": 0.354,
+      "examples": [
+        "Wild Reckoning with Bear Grylls",
+        "Una Sola Debole Voce 2",
+        "Rebooting (International)"
+      ]
+    },
+    "s03e11-a": {
+      "close_formats": 3,
+      "level": "light",
+      "weight": 0.5,
+      "examples": [
+        "Thanks a Million",
+        "Battle of the Ex Besties",
+        "Bands Reunited"
+      ]
+    },
+    "s03e12-a": {
+      "close_formats": 2,
+      "level": "light",
+      "weight": 0.577,
+      "examples": [
+        "Match My Ex (International)",
+        "Match My Ex"
+      ]
+    },
+    "s03e12-b": {
+      "close_formats": 66,
+      "level": "saturated",
+      "weight": 0.122,
+      "examples": [
+        "You Don't Know Jack",
+        "Welcome Get Lost (Netflix Japan)",
+        "Vild Med Dans"
+      ]
+    },
+    "s03e12-c": {
+      "close_formats": 111,
+      "level": "saturated",
+      "weight": 0.094,
+      "examples": [
+        "World Stunt Awards",
+        "The Intern",
+        "The Faker"
+      ]
+    },
+    "s03e13-a": {
+      "close_formats": 45,
+      "level": "saturated",
+      "weight": 0.147,
+      "examples": [
+        "Love at Third Sight",
+        "Winter Vol Liefde",
+        "The Later Daters"
+      ]
+    },
+    "s03e13-b": {
+      "close_formats": 10,
+      "level": "crowded",
+      "weight": 0.302,
+      "examples": [
+        "Three Idiots in Kenya",
+        "Sergio & Axel: van de Kaart",
+        "De Grannies van Amsterdam"
+      ]
+    },
+    "s03e14-a": {
+      "close_formats": 111,
+      "level": "saturated",
+      "weight": 0.094,
+      "examples": [
+        "The Intern",
+        "Open Keuken met Sandra Bekkari",
+        "Let's Roll with Tony Greenhand"
+      ]
+    },
+    "s03e14-b": {
+      "close_formats": 12,
+      "level": "crowded",
+      "weight": 0.277,
+      "examples": [
+        "SPY TV",
+        "Punk'd",
+        "Nobody's Fool"
+      ]
+    },
+    "s03e15-a": {
+      "close_formats": 14,
+      "level": "crowded",
+      "weight": 0.258,
+      "examples": [
+        "The Ultimatum: South Africa",
+        "The Ultimatum: Queer Love S2",
+        "The Ultimatum: Marry or Move On"
+      ]
+    },
+    "s03e15-b": {
+      "close_formats": 17,
+      "level": "crowded",
+      "weight": 0.236,
+      "examples": [
+        "The Boyfriend",
+        "Soundtrack of Love",
+        "Sexy Beasts"
+      ]
+    },
+    "s03e16-a": {
+      "close_formats": 9,
+      "level": "crowded",
+      "weight": 0.316,
+      "examples": [
+        "Cheaters (American TV series)",
+        "Love Con Revenge",
+        "Crime Perfeito"
+      ]
+    },
+    "s03e17-a": {
+      "close_formats": 3,
+      "level": "light",
+      "weight": 0.5,
+      "examples": [
+        "Battle of the Ex Besties",
+        "Bands Reunited",
+        "Thanks a Million"
+      ]
+    },
+    "s03e18-a": {
+      "close_formats": 10,
+      "level": "crowded",
+      "weight": 0.302,
+      "examples": [
+        "Nul Stjerner",
+        "Geer & Goor: Zoeken een hobby!",
+        "Michella & Louisa Werken Mee"
+      ]
+    },
+    "s03e18-b": {
+      "close_formats": 4,
+      "level": "light",
+      "weight": 0.447,
+      "examples": [
+        "Are You the One?",
+        "Too Hot to Handle S6",
+        "Sneaky Links: Dating After Dark"
+      ]
+    },
+    "s03e18-c": {
+      "close_formats": 3,
+      "level": "light",
+      "weight": 0.5,
+      "examples": [
+        "MILF Manor",
+        "Braxton Family Values",
+        "Born From The Same Stranger"
+      ]
+    },
+    "s03e19-a": {
+      "close_formats": 0,
+      "level": "open",
+      "weight": 1.0,
+      "examples": []
+    },
+    "s03e20-a": {
+      "close_formats": 20,
+      "level": "crowded",
+      "weight": 0.218,
+      "examples": [
+        "VS School: The Ultimate Hide and Seek",
+        "The Hunt (Channel 4)",
+        "Star v Food: Survival"
+      ]
+    },
+    "s03e20-b": {
+      "close_formats": 12,
+      "level": "crowded",
+      "weight": 0.277,
+      "examples": [
+        "Temptation Island: Love or Leave",
+        "Temptation Island VIPS",
+        "Temptation Island US S6"
+      ]
+    },
+    "s03e21-a": {
+      "close_formats": 2,
+      "level": "light",
+      "weight": 0.577,
+      "examples": [
+        "Louisa & Rosanna: Onze Transgender Liefde",
+        "Black Love (TV series)"
+      ]
+    },
+    "s03e21-b": {
+      "close_formats": 40,
+      "level": "saturated",
+      "weight": 0.156,
+      "examples": [
+        "Sneaky Links: Dating After Dark",
+        "Winter Vol Liefde",
+        "The Later Daters"
+      ]
+    },
+    "s03e22-a": {
+      "close_formats": 1,
+      "level": "light",
+      "weight": 0.707,
+      "examples": [
+        "Ex-treme Dating"
+      ]
+    },
+    "s03e22-b": {
+      "close_formats": 114,
+      "level": "saturated",
+      "weight": 0.093,
+      "examples": [
+        "Welcome Get Lost (Netflix Japan)",
+        "Verdens Verste Publikum",
+        "Roast on the Coast"
+      ]
+    },
+    "s03e23-a": {
+      "close_formats": 12,
+      "level": "crowded",
+      "weight": 0.277,
+      "examples": [
+        "Nul Stjerner",
+        "Geer & Goor: Zoeken een hobby!",
+        "Adorableness (TV series)"
+      ]
+    },
+    "s03e23-b": {
+      "close_formats": 40,
+      "level": "saturated",
+      "weight": 0.156,
+      "examples": [
+        "Sneaky Links: Dating After Dark",
+        "Winter Vol Liefde",
+        "The Later Daters"
+      ]
+    },
+    "s03e24-a": {
+      "close_formats": 3,
+      "level": "light",
+      "weight": 0.5,
+      "examples": [
+        "Stranded on Honeymoon Island",
+        "Gestrand op Honeymoon Island",
+        "Blind Gekocht S7"
+      ]
+    },
+    "s03e24-b": {
+      "close_formats": 114,
+      "level": "saturated",
+      "weight": 0.093,
+      "examples": [
+        "Welcome Get Lost (Netflix Japan)",
+        "Verdens Verste Publikum",
+        "Roast on the Coast"
+      ]
+    },
+    "s03e25-a": {
+      "close_formats": 35,
+      "level": "saturated",
+      "weight": 0.167,
+      "examples": [
+        "Who Do You Think You Are?",
+        "Tous les goûts sont dans la nature",
+        "The Bardsley Bunch"
+      ]
+    },
+    "s03e25-b": {
+      "close_formats": 0,
+      "level": "open",
+      "weight": 1.0,
+      "examples": []
+    },
+    "s04e01-a": {
+      "close_formats": 4,
+      "level": "light",
+      "weight": 0.447,
+      "examples": [
+        "Olivia Atwood's Bad Boyfriends",
+        "Eating With My Ex",
+        "Cheat: Unfinished Business"
+      ]
+    },
+    "s04e01-b": {
+      "close_formats": 5,
+      "level": "light",
+      "weight": 0.408,
+      "examples": [
+        "Impractical Jokers",
+        "How Far Is Tattoo Far?",
+        "Infinite Challenge"
+      ]
+    },
+    "s04e01-c": {
+      "close_formats": 35,
+      "level": "saturated",
+      "weight": 0.167,
+      "examples": [
+        "Who Do You Think You Are?",
+        "Tous les goûts sont dans la nature",
+        "The Bardsley Bunch"
+      ]
+    },
+    "s04e02-a": {
+      "close_formats": 36,
+      "level": "saturated",
+      "weight": 0.164,
+      "examples": [
+        "Who Do You Think You Are?",
+        "Tous les goûts sont dans la nature",
+        "The Bardsley Bunch"
+      ]
+    },
+    "s04e02-b": {
+      "close_formats": 2,
+      "level": "light",
+      "weight": 0.577,
+      "examples": [
+        "Match My Ex (International)",
+        "Match My Ex"
+      ]
+    },
+    "s04e02-c": {
+      "close_formats": 0,
+      "level": "open",
+      "weight": 1.0,
+      "examples": []
+    },
+    "s04e03-a": {
+      "close_formats": 14,
+      "level": "crowded",
+      "weight": 0.258,
+      "examples": [
+        "SPY TV",
+        "Punk'd",
+        "Nobody's Fool"
+      ]
+    },
+    "s04e03-b": {
+      "close_formats": 14,
+      "level": "crowded",
+      "weight": 0.258,
+      "examples": [
+        "Det batter med Frode",
+        "Rich House, Poor House",
+        "Open Keuken met Sandra Bekkari"
+      ]
+    },
+    "s04e04-a": {
+      "close_formats": 91,
+      "level": "saturated",
+      "weight": 0.104,
+      "examples": [
+        "Infinite Challenge",
+        "Impractical Jokers",
+        "Changing Rooms"
+      ]
+    },
+    "s04e04-b": {
+      "close_formats": 17,
+      "level": "crowded",
+      "weight": 0.236,
+      "examples": [
+        "The Boyfriend",
+        "Soundtrack of Love",
+        "Sexy Beasts"
+      ]
+    },
+    "s04e05-a": {
+      "close_formats": 3,
+      "level": "light",
+      "weight": 0.5,
+      "examples": [
+        "Jersey Shore (TV series)",
+        "Geordie Shore",
+        "Floribama Shore"
+      ]
+    },
+    "s04e05-b": {
+      "close_formats": 0,
+      "level": "open",
+      "weight": 1.0,
+      "examples": []
+    },
+    "s04e06-a": {
+      "close_formats": 3,
+      "level": "light",
+      "weight": 0.5,
+      "examples": [
+        "Love Vacation",
+        "Sneaky Links: Dating After Dark",
+        "Chains of Love (TV series)"
+      ]
+    },
+    "s04e06-b": {
+      "close_formats": 3,
+      "level": "light",
+      "weight": 0.5,
+      "examples": [
+        "Jersey Shore (TV series)",
+        "Geordie Shore",
+        "Floribama Shore"
+      ]
+    },
+    "s04e06-c": {
+      "close_formats": 56,
+      "level": "saturated",
+      "weight": 0.132,
+      "examples": [
+        "Take Us Home: Leeds United",
+        "Fame Asylum",
+        "Girls Aloud: Off the Record"
+      ]
+    },
+    "s04e07-a": {
+      "close_formats": 3,
+      "level": "light",
+      "weight": 0.5,
+      "examples": [
+        "Thanks a Million",
+        "Battle of the Ex Besties",
+        "Bands Reunited"
+      ]
+    },
+    "s04e07-b": {
+      "close_formats": 66,
+      "level": "saturated",
+      "weight": 0.122,
+      "examples": [
+        "You Don't Know Jack",
+        "Welcome Get Lost (Netflix Japan)",
+        "Vild Med Dans"
+      ]
+    },
+    "s04e08-a": {
+      "close_formats": 3,
+      "level": "light",
+      "weight": 0.5,
+      "examples": [
+        "Thanks a Million",
+        "Battle of the Ex Besties",
+        "Bands Reunited"
+      ]
+    },
+    "s04e08-b": {
+      "close_formats": 4,
+      "level": "light",
+      "weight": 0.447,
+      "examples": [
+        "Virgin Island",
+        "Sexy Spots",
+        "Nude TV"
+      ]
+    },
+    "s04e09-a": {
+      "close_formats": 114,
+      "level": "saturated",
+      "weight": 0.093,
+      "examples": [
+        "Welcome Get Lost (Netflix Japan)",
+        "Verdens Verste Publikum",
+        "Roast on the Coast"
+      ]
+    },
+    "s04e09-b": {
+      "close_formats": 8,
+      "level": "crowded",
+      "weight": 0.333,
+      "examples": [
+        "World Stunt Awards",
+        "Roast on the Coast",
+        "Mittermeier and Friends"
+      ]
+    },
+    "s04e10-a": {
+      "close_formats": 1,
+      "level": "light",
+      "weight": 0.707,
+      "examples": [
+        "Sneaky Links: Dating After Dark"
+      ]
+    },
+    "s04e10-b": {
+      "close_formats": 10,
+      "level": "crowded",
+      "weight": 0.302,
+      "examples": [
+        "Nul Stjerner",
+        "Geer & Goor: Zoeken een hobby!",
+        "Michella & Louisa Werken Mee"
+      ]
+    },
+    "s04e11-a": {
+      "close_formats": 35,
+      "level": "saturated",
+      "weight": 0.167,
+      "examples": [
+        "Born From The Same Stranger",
+        "Who Do You Think You Are?",
+        "Tous les goûts sont dans la nature"
+      ]
+    },
+    "s04e11-b": {
+      "close_formats": 70,
+      "level": "saturated",
+      "weight": 0.119,
+      "examples": [
+        "You Don't Know Jack",
+        "Welcome Get Lost (Netflix Japan)",
+        "Vild Med Dans"
+      ]
+    },
+    "s04e11-c": {
+      "close_formats": 152,
+      "level": "saturated",
+      "weight": 0.081,
+      "examples": [
+        "The Intern",
+        "Jamie's Kitchen",
+        "Half Pint Brawlers"
+      ]
+    },
+    "s04e12-a": {
+      "close_formats": 203,
+      "level": "saturated",
+      "weight": 0.07,
+      "examples": [
+        "The Real Housewives van het Zuiden",
+        "The Real Housewives of Rotterdam",
+        "The Real Housewives of Cheshire"
+      ]
+    },
+    "s04e12-b": {
+      "close_formats": 5,
+      "level": "light",
+      "weight": 0.408,
+      "examples": [
+        "Tommy and Georgia: I Do",
+        "Say Yes to the Dress",
+        "Love Stories"
+      ]
+    },
+    "s04e13-a": {
+      "close_formats": 113,
+      "level": "saturated",
+      "weight": 0.094,
+      "examples": [
+        "Daten in het Dorp: Texel S2",
+        "Daten in het Dorp (Format Export)",
+        "Daten in het Dorp"
+      ]
+    },
+    "s04e13-b": {
+      "close_formats": 14,
+      "level": "crowded",
+      "weight": 0.258,
+      "examples": [
+        "The Ultimatum: South Africa",
+        "The Ultimatum: Queer Love S2",
+        "The Ultimatum: Marry or Move On"
+      ]
+    },
+    "s04e14-a": {
+      "close_formats": 66,
+      "level": "saturated",
+      "weight": 0.122,
+      "examples": [
+        "Natholdet",
+        "Foul-Ups, Bleeps & Blunders",
+        "Welcome Get Lost (Netflix Japan)"
+      ]
+    },
+    "s04e14-b": {
+      "close_formats": 2,
+      "level": "light",
+      "weight": 0.577,
+      "examples": [
+        "The Newlywed Game",
+        "Help, Mijn Man is Klusser NL"
+      ]
+    },
+    "s04e15-a": {
+      "close_formats": 203,
+      "level": "saturated",
+      "weight": 0.07,
+      "examples": [
+        "Yum Factor",
+        "X Factor Danmark",
+        "Wisdom of the Crowd (Global)"
+      ]
+    },
+    "s04e15-b": {
+      "close_formats": 4,
+      "level": "light",
+      "weight": 0.447,
+      "examples": [
+        "Olivia Atwood's Bad Boyfriends",
+        "Eating With My Ex",
+        "Cheat: Unfinished Business"
+      ]
+    },
+    "s04e15-c": {
+      "close_formats": 68,
+      "level": "saturated",
+      "weight": 0.12,
+      "examples": [
+        "Vilde Vidunderlige Danmark",
+        "Oasi",
+        "How Safe...?"
+      ]
+    },
+    "s04e16-a": {
+      "close_formats": 73,
+      "level": "saturated",
+      "weight": 0.116,
+      "examples": [
+        "I Wanna Marry Harry",
+        "Find The Catfish",
+        "FGirl Island"
+      ]
+    },
+    "s04e16-b": {
+      "close_formats": 16,
+      "level": "crowded",
+      "weight": 0.243,
+      "examples": [
+        "Three Idiots in Kenya",
+        "Sergio & Axel: van de Kaart",
+        "De Grannies van Amsterdam"
+      ]
+    },
+    "s04e17-a": {
+      "close_formats": 0,
+      "level": "open",
+      "weight": 1.0,
+      "examples": []
+    },
+    "s04e17-b": {
+      "close_formats": 0,
+      "level": "open",
+      "weight": 1.0,
+      "examples": []
+    },
+    "s04e18-a": {
+      "close_formats": 9,
+      "level": "crowded",
+      "weight": 0.316,
+      "examples": [
+        "How to Get Lucky",
+        "First Dates S11",
+        "First Dates Mexico"
+      ]
+    },
+    "s04e19-a": {
+      "close_formats": 203,
+      "level": "saturated",
+      "weight": 0.07,
+      "examples": [
+        "The Real Housewives van het Zuiden",
+        "The Real Housewives of Rotterdam",
+        "The Real Housewives of Cheshire"
+      ]
+    },
+    "s04e19-b": {
+      "close_formats": 5,
+      "level": "light",
+      "weight": 0.408,
+      "examples": [
+        "'Til Death Do Us Part: Carmen and Dave",
+        "Ice Loves Coco",
+        "Britney and Kevin: Chaotic"
+      ]
+    },
+    "s04e20-a": {
+      "close_formats": 2,
+      "level": "light",
+      "weight": 0.577,
+      "examples": [
+        "Louisa & Rosanna: Onze Transgender Liefde",
+        "Black Love (TV series)"
+      ]
+    },
+    "s04e20-b": {
+      "close_formats": 7,
+      "level": "crowded",
+      "weight": 0.354,
+      "examples": [
+        "Zombieverse: New Blood",
+        "Utopia 2",
+        "I Survived a Zombie Apocalypse"
+      ]
+    },
+    "s04e21-a": {
+      "close_formats": 0,
+      "level": "open",
+      "weight": 1.0,
+      "examples": []
+    },
+    "s04e22-a": {
+      "close_formats": 3,
+      "level": "light",
+      "weight": 0.5,
+      "examples": [
+        "Thanks a Million",
+        "Battle of the Ex Besties",
+        "Bands Reunited"
+      ]
+    },
+    "s04e22-b": {
+      "close_formats": 17,
+      "level": "crowded",
+      "weight": 0.236,
+      "examples": [
+        "Chrisley Knows Best",
+        "Who Wants to Marry My Son?",
+        "Who Wants to Marry My Mom?"
+      ]
+    },
+    "s04e23-a": {
+      "close_formats": 14,
+      "level": "crowded",
+      "weight": 0.258,
+      "examples": [
+        "The Nevermets",
+        "Spy Date",
+        "I Wanna Marry Harry"
+      ]
+    },
+    "s04e23-b": {
+      "close_formats": 40,
+      "level": "saturated",
+      "weight": 0.156,
+      "examples": [
+        "Love at Third Sight",
+        "Winter Vol Liefde",
+        "Tien om te Zien: Het Vlot"
+      ]
+    },
+    "s05e01-a": {
+      "close_formats": 4,
+      "level": "light",
+      "weight": 0.447,
+      "examples": [
+        "Cheat: Unfinished Business",
+        "Blue Therapy",
+        "Olivia Atwood's Bad Boyfriends"
+      ]
+    },
+    "s05e01-b": {
+      "close_formats": 21,
+      "level": "saturated",
+      "weight": 0.213,
+      "examples": [
+        "The Nevermets",
+        "Heart Signal S5",
+        "Heart Signal S4"
+      ]
+    },
+    "s05e02-a": {
+      "close_formats": 12,
+      "level": "crowded",
+      "weight": 0.277,
+      "examples": [
+        "SPY TV",
+        "Punk'd",
+        "Nobody's Fool"
+      ]
+    },
+    "s05e02-b": {
+      "close_formats": 0,
+      "level": "open",
+      "weight": 1.0,
+      "examples": []
+    },
+    "s05e03-a": {
+      "close_formats": 5,
+      "level": "light",
+      "weight": 0.408,
+      "examples": [
+        "Tommy and Georgia: I Do",
+        "Say Yes to the Dress",
+        "Love Stories"
+      ]
+    },
+    "s05e03-b": {
+      "close_formats": 10,
+      "level": "crowded",
+      "weight": 0.302,
+      "examples": [
+        "Nul Stjerner",
+        "Geer & Goor: Zoeken een hobby!",
+        "Michella & Louisa Werken Mee"
+      ]
+    },
+    "s05e04-a": {
+      "close_formats": 114,
+      "level": "saturated",
+      "weight": 0.093,
+      "examples": [
+        "Welcome To The LA",
+        "The Piano S2",
+        "The Piano"
+      ]
+    },
+    "s05e04-b": {
+      "close_formats": 3,
+      "level": "light",
+      "weight": 0.5,
+      "examples": [
+        "The Ultimatum: South Africa",
+        "The Ultimatum: Queer Love S2",
+        "The Ultimatum: Marry or Move On"
+      ]
+    },
+    "s05e05-a": {
+      "close_formats": 7,
+      "level": "crowded",
+      "weight": 0.354,
+      "examples": [
+        "True Love",
+        "Love Never Lies: South Africa",
+        "Love Never Lies: Poland"
+      ]
+    },
+    "s05e05-b": {
+      "close_formats": 29,
+      "level": "saturated",
+      "weight": 0.183,
+      "examples": [
+        "Førstemann",
+        "Wie is de Mol?",
+        "Wie Is De Mol? (Belgium)"
+      ]
+    },
+    "s05e06-a": {
+      "close_formats": 1,
+      "level": "light",
+      "weight": 0.707,
+      "examples": [
+        "Real Wrecks"
+      ]
+    },
+    "s05e06-b": {
+      "close_formats": 6,
+      "level": "crowded",
+      "weight": 0.378,
+      "examples": [
+        "Blind Gekocht S7",
+        "Stranded on Honeymoon Island",
+        "Gestrand op Honeymoon Island"
+      ]
+    },
+    "s05e07-a": {
+      "close_formats": 3,
+      "level": "light",
+      "weight": 0.5,
+      "examples": [
+        "Louisa & Rosanna: Onze Transgender Liefde",
+        "College Hill (TV series)",
+        "Black Love (TV series)"
+      ]
+    },
+    "s05e07-b": {
+      "close_formats": 9,
+      "level": "crowded",
+      "weight": 0.316,
+      "examples": [
+        "How to Get Lucky",
+        "First Dates S11",
+        "First Dates Mexico"
+      ]
+    },
+    "s05e08-a": {
+      "close_formats": 7,
+      "level": "crowded",
+      "weight": 0.354,
+      "examples": [
+        "Love Con Revenge",
+        "Kees van der Spek: Oplichters Aangepakt!",
+        "Kees van der Spek Ontmaskert"
+      ]
+    },
+    "s05e09-a": {
+      "close_formats": 18,
+      "level": "crowded",
+      "weight": 0.229,
+      "examples": [
+        "Edwardian Farm",
+        "Vilde Vidunderlige Danmark",
+        "Shaolin Heroes (Original Denmark)"
+      ]
+    },
+    "s05e09-b": {
+      "close_formats": 207,
+      "level": "saturated",
+      "weight": 0.069,
+      "examples": [
+        "LEGO Masters: Out of the Box",
+        "America's Best Dance Crew",
+        "Yum Factor"
+      ]
+    },
+    "s05e10-a": {
+      "close_formats": 3,
+      "level": "light",
+      "weight": 0.5,
+      "examples": [
+        "Det batter med Frode",
+        "Rich House, Poor House",
+        "American Restoration"
+      ]
+    },
+    "s05e10-b": {
+      "close_formats": 1,
+      "level": "light",
+      "weight": 0.707,
+      "examples": [
+        "MILF Manor"
+      ]
+    },
+    "s05e11-a": {
+      "close_formats": 19,
+      "level": "crowded",
+      "weight": 0.224,
+      "examples": [
+        "Formel E-livet",
+        "Vilde Vidunderlige Danmark",
+        "Sidemen Inside S3"
+      ]
+    },
+    "s05e11-b": {
+      "close_formats": 66,
+      "level": "saturated",
+      "weight": 0.122,
+      "examples": [
+        "You Don't Know Jack",
+        "Welcome Get Lost (Netflix Japan)",
+        "Vild Med Dans"
+      ]
+    },
+    "s05e12-a": {
+      "close_formats": 152,
+      "level": "saturated",
+      "weight": 0.081,
+      "examples": [
+        "The Intern",
+        "Jamie's Kitchen",
+        "Half Pint Brawlers"
+      ]
+    },
+    "s05e12-b": {
+      "close_formats": 152,
+      "level": "saturated",
+      "weight": 0.081,
+      "examples": [
+        "The Intern",
+        "Jamie's Kitchen",
+        "Half Pint Brawlers"
+      ]
+    },
+    "s05e13-a": {
+      "close_formats": 112,
+      "level": "saturated",
+      "weight": 0.094,
+      "examples": [
+        "World Stunt Awards",
+        "The Intern",
+        "Jamie's Kitchen"
+      ]
+    },
+    "s05e13-b": {
+      "close_formats": 35,
+      "level": "saturated",
+      "weight": 0.167,
+      "examples": [
+        "Who Do You Think You Are?",
+        "Tous les goûts sont dans la nature",
+        "The Bardsley Bunch"
+      ]
+    },
+    "s05e14-a": {
+      "close_formats": 14,
+      "level": "crowded",
+      "weight": 0.258,
+      "examples": [
+        "The Nevermets",
+        "Spy Date",
+        "I Wanna Marry Harry"
+      ]
+    },
+    "s05e14-b": {
+      "close_formats": 78,
+      "level": "saturated",
+      "weight": 0.113,
+      "examples": [
+        "You Don't Know Jack",
+        "Vild Med Dans",
+        "Useless Celebrity History"
+      ]
+    },
+    "s05e15-a": {
+      "close_formats": 3,
+      "level": "light",
+      "weight": 0.5,
+      "examples": [
+        "Love Vacation",
+        "Sneaky Links: Dating After Dark",
+        "Chains of Love (TV series)"
+      ]
+    },
+    "s05e15-b": {
+      "close_formats": 8,
+      "level": "crowded",
+      "weight": 0.333,
+      "examples": [
+        "Louisa & Rosanna: Onze Transgender Liefde",
+        "Black Love (TV series)",
+        "Polyamorie: Liefde in Overvloed"
+      ]
+    },
+    "s05e16-a": {
+      "close_formats": 41,
+      "level": "saturated",
+      "weight": 0.154,
+      "examples": [
+        "Restaurant: Impossible",
+        "Puzzle Time",
+        "Plankgas"
+      ]
+    },
+    "s05e16-b": {
+      "close_formats": 124,
+      "level": "saturated",
+      "weight": 0.089,
+      "examples": [
+        "The Faker",
+        "The Circle US S7",
+        "The Circle UK S7"
+      ]
+    },
+    "s05e17-a": {
+      "close_formats": 66,
+      "level": "saturated",
+      "weight": 0.122,
+      "examples": [
+        "Natholdet",
+        "Foul-Ups, Bleeps & Blunders",
+        "Welcome Get Lost (Netflix Japan)"
+      ]
+    },
+    "s05e17-b": {
+      "close_formats": 36,
+      "level": "saturated",
+      "weight": 0.164,
+      "examples": [
+        "World's Wildest Race",
+        "The Crystal Maze (Revival)",
+        "The Amazing Race: Asia S8"
+      ]
+    },
+    "s05e17-c": {
+      "close_formats": 70,
+      "level": "saturated",
+      "weight": 0.119,
+      "examples": [
+        "The Boyfriend",
+        "Soundtrack of Love",
+        "Sexy Beasts"
+      ]
+    },
+    "s05e18-a": {
+      "close_formats": 152,
+      "level": "saturated",
+      "weight": 0.081,
+      "examples": [
+        "The Intern",
+        "Jamie's Kitchen",
+        "Half Pint Brawlers"
+      ]
+    },
+    "s05e18-b": {
+      "close_formats": 152,
+      "level": "saturated",
+      "weight": 0.081,
+      "examples": [
+        "The Intern",
+        "Jamie's Kitchen",
+        "Half Pint Brawlers"
+      ]
+    },
+    "s05e19-a": {
+      "close_formats": 108,
+      "level": "saturated",
+      "weight": 0.096,
+      "examples": [
+        "How to Get Lucky",
+        "First Dates S11",
+        "First Dates Mexico"
+      ]
+    },
+    "s05e19-b": {
+      "close_formats": 15,
+      "level": "crowded",
+      "weight": 0.25,
+      "examples": [
+        "Extreme Makeover: Home Edition",
+        "Backyard Blitz",
+        "Hogan Knows Best"
+      ]
+    },
+    "s05e20-a": {
+      "close_formats": 21,
+      "level": "saturated",
+      "weight": 0.213,
+      "examples": [
+        "Members Only: Palm Beach",
+        "Echt Meisjes: The Reunion",
+        "Fraternity Life"
+      ]
+    },
+    "s05e20-b": {
+      "close_formats": 7,
+      "level": "crowded",
+      "weight": 0.354,
+      "examples": [
+        "True Love",
+        "Olivia Atwood's Bad Boyfriends",
+        "Love Never Lies: South Africa"
+      ]
+    },
+    "s05e21-a": {
+      "close_formats": 16,
+      "level": "crowded",
+      "weight": 0.243,
+      "examples": [
+        "The $100,000 Pyramid",
+        "Password",
+        "Members Only: Palm Beach"
+      ]
+    },
+    "s05e21-b": {
+      "close_formats": 2,
+      "level": "light",
+      "weight": 0.577,
+      "examples": [
+        "Louisa & Rosanna: Onze Transgender Liefde",
+        "Black Love (TV series)"
+      ]
+    },
+    "s05e22-a": {
+      "close_formats": 152,
+      "level": "saturated",
+      "weight": 0.081,
+      "examples": [
+        "The Intern",
+        "Jamie's Kitchen",
+        "Half Pint Brawlers"
+      ]
+    },
+    "s05e22-b": {
+      "close_formats": 15,
+      "level": "crowded",
+      "weight": 0.25,
+      "examples": [
+        "The Weakest Link (Revival)",
+        "The Weakest Link",
+        "The Trust: A Game of Greed S2"
+      ]
+    },
+    "s05e23-a": {
+      "close_formats": 6,
+      "level": "crowded",
+      "weight": 0.378,
+      "examples": [
+        "True Love",
+        "Love Never Lies: South Africa",
+        "Love Never Lies: Poland"
+      ]
+    },
+    "s05e23-b": {
+      "close_formats": 2,
+      "level": "light",
+      "weight": 0.577,
+      "examples": [
+        "The Newlywed Game",
+        "Help, Mijn Man is Klusser NL"
+      ]
+    },
+    "s06e01-a": {
+      "close_formats": 2,
+      "level": "light",
+      "weight": 0.577,
+      "examples": [
+        "The Newlywed Game",
+        "Help, Mijn Man is Klusser NL"
+      ]
+    },
+    "s06e01-b": {
+      "close_formats": 17,
+      "level": "crowded",
+      "weight": 0.236,
+      "examples": [
+        "Three Idiots in Kenya",
+        "Sergio & Axel: van de Kaart",
+        "3 op Reis"
+      ]
+    },
+    "s06e02-a": {
+      "close_formats": 4,
+      "level": "light",
+      "weight": 0.447,
+      "examples": [
+        "True Love",
+        "Love Never Lies: South Africa",
+        "Love Never Lies: Poland"
+      ]
+    },
+    "s06e02-b": {
+      "close_formats": 2,
+      "level": "light",
+      "weight": 0.577,
+      "examples": [
+        "Fraternity Life",
+        "Bug Juice"
+      ]
+    },
+    "s06e03-a": {
+      "close_formats": 14,
+      "level": "crowded",
+      "weight": 0.258,
+      "examples": [
+        "I Wanna Marry Harry",
+        "Find The Catfish",
+        "FGirl Island"
+      ]
+    },
+    "s06e03-b": {
+      "close_formats": 13,
+      "level": "crowded",
+      "weight": 0.267,
+      "examples": [
+        "College Hill (TV series)",
+        "Three Idiots in Kenya",
+        "Sergio & Axel: van de Kaart"
+      ]
+    },
+    "s06e04-a": {
+      "close_formats": 3,
+      "level": "light",
+      "weight": 0.5,
+      "examples": [
+        "Rich House, Poor House",
+        "Det batter med Frode",
+        "American Restoration"
+      ]
+    },
+    "s06e04-b": {
+      "close_formats": 111,
+      "level": "saturated",
+      "weight": 0.094,
+      "examples": [
+        "World Stunt Awards",
+        "The Intern",
+        "The Faker"
+      ]
+    },
+    "s06e04-c": {
+      "close_formats": 36,
+      "level": "saturated",
+      "weight": 0.164,
+      "examples": [
+        "Who Do You Think You Are?",
+        "Tous les goûts sont dans la nature",
+        "The Bardsley Bunch"
+      ]
+    },
+    "s06e05-a": {
+      "close_formats": 124,
+      "level": "saturated",
+      "weight": 0.089,
+      "examples": [
+        "The Faker",
+        "The Circle US S7",
+        "The Circle UK S7"
+      ]
+    },
+    "s06e05-b": {
+      "close_formats": 5,
+      "level": "light",
+      "weight": 0.408,
+      "examples": [
+        "Olivia Atwood's Bad Boyfriends",
+        "Eating With My Ex",
+        "Cheat: Unfinished Business"
+      ]
+    },
+    "s06e06-a": {
+      "close_formats": 4,
+      "level": "light",
+      "weight": 0.447,
+      "examples": [
+        "Jersey Shore (TV series)",
+        "Geordie Shore",
+        "Floribama Shore"
+      ]
+    },
+    "s06e06-b": {
+      "close_formats": 15,
+      "level": "crowded",
+      "weight": 0.25,
+      "examples": [
+        "The Weakest Link (Revival)",
+        "The Weakest Link",
+        "The Trust: A Game of Greed S2"
+      ]
+    },
+    "s06e07-a": {
+      "close_formats": 70,
+      "level": "saturated",
+      "weight": 0.119,
+      "examples": [
+        "You Don't Know Jack",
+        "Welcome Get Lost (Netflix Japan)",
+        "Vild Med Dans"
+      ]
+    },
+    "s06e07-b": {
+      "close_formats": 44,
+      "level": "saturated",
+      "weight": 0.149,
+      "examples": [
+        "Winter Vol Liefde",
+        "Tien om te Zien: Het Vlot",
+        "The Later Daters"
+      ]
+    },
+    "s06e08-a": {
+      "close_formats": 66,
+      "level": "saturated",
+      "weight": 0.122,
+      "examples": [
+        "Nation's Dumbest (Scandinavia)",
+        "Nation's Dumbest (Fox)",
+        "Nation's Dumbest"
+      ]
+    },
+    "s06e08-b": {
+      "close_formats": 14,
+      "level": "crowded",
+      "weight": 0.258,
+      "examples": [
+        "The Nevermets",
+        "Heart Signal S5",
+        "Heart Signal S4"
+      ]
+    },
+    "s06e09-a": {
+      "close_formats": 8,
+      "level": "crowded",
+      "weight": 0.333,
+      "examples": [
+        "My Family Mystery",
+        "An American Family",
+        "Secret Little Assistant"
+      ]
+    },
+    "s06e09-b": {
+      "close_formats": 5,
+      "level": "light",
+      "weight": 0.408,
+      "examples": [
+        "Impractical Jokers",
+        "How Far Is Tattoo Far?",
+        "Infinite Challenge"
+      ]
+    },
+    "s06e10-a": {
+      "close_formats": 11,
+      "level": "crowded",
+      "weight": 0.289,
+      "examples": [
+        "I Know My Kid's a Star",
+        "Dancing with the Stars: Juniors",
+        "I Married a Princess"
+      ]
+    },
+    "s06e10-b": {
+      "close_formats": 14,
+      "level": "crowded",
+      "weight": 0.258,
+      "examples": [
+        "The Nevermets",
+        "Spy Date",
+        "I Wanna Marry Harry"
+      ]
+    },
+    "s06e11-a": {
+      "close_formats": 16,
+      "level": "crowded",
+      "weight": 0.243,
+      "examples": [
+        "The Insider",
+        "The Anonymous",
+        "Boys will be Girls"
+      ]
+    },
+    "s06e11-b": {
+      "close_formats": 2,
+      "level": "light",
+      "weight": 0.577,
+      "examples": [
+        "From Alaska with Love",
+        "Change Days S2"
+      ]
+    },
+    "s06e12-a": {
+      "close_formats": 206,
+      "level": "saturated",
+      "weight": 0.07,
+      "examples": [
+        "The Real Housewives van het Zuiden",
+        "The Real Housewives of Rotterdam",
+        "The Real Housewives of Cheshire"
+      ]
+    },
+    "s06e12-b": {
+      "close_formats": 114,
+      "level": "saturated",
+      "weight": 0.093,
+      "examples": [
+        "Welcome Get Lost (Netflix Japan)",
+        "Verdens Verste Publikum",
+        "Roast on the Coast"
+      ]
+    },
+    "s06e13-a": {
+      "close_formats": 0,
+      "level": "open",
+      "weight": 1.0,
+      "examples": []
+    },
+    "s06e14-a": {
+      "close_formats": 117,
+      "level": "saturated",
+      "weight": 0.092,
+      "examples": [
+        "Ze Zeggen Dat",
+        "Yolanthe",
+        "Velvet Soup"
+      ]
+    },
+    "s06e14-b": {
+      "close_formats": 11,
+      "level": "crowded",
+      "weight": 0.289,
+      "examples": [
+        "Adorableness (TV series)",
+        "Nul Stjerner",
+        "Michella & Louisa Werken Mee"
+      ]
+    },
+    "s06e15-a": {
+      "close_formats": 4,
+      "level": "light",
+      "weight": 0.447,
+      "examples": [
+        "Louisa & Rosanna: Onze Transgender Liefde",
+        "Black Love (TV series)",
+        "De Grannies van Amsterdam"
+      ]
+    },
+    "s06e17-a": {
+      "close_formats": 42,
+      "level": "saturated",
+      "weight": 0.152,
+      "examples": [
+        "Puzzle Time",
+        "Plankgas",
+        "Ninja Warrior (International)"
+      ]
+    },
+    "s06e17-b": {
+      "close_formats": 10,
+      "level": "crowded",
+      "weight": 0.302,
+      "examples": [
+        "Three Idiots in Kenya",
+        "Sergio & Axel: van de Kaart",
+        "Hver Gang Vi Møtes"
+      ]
+    },
+    "s06e17-c": {
+      "close_formats": 16,
+      "level": "crowded",
+      "weight": 0.243,
+      "examples": [
+        "Det batter med Frode",
+        "The Mole US S2",
+        "The Insider"
+      ]
+    },
+    "s06e18-a": {
+      "close_formats": 1,
+      "level": "light",
+      "weight": 0.707,
+      "examples": [
+        "Murder House Flip"
+      ]
+    },
+    "s06e19-a": {
+      "close_formats": 15,
+      "level": "crowded",
+      "weight": 0.25,
+      "examples": [
+        "Pandora's Box (Nederland)",
+        "Pandora's Box (Hungary)",
+        "Pandora's Box (France)"
+      ]
+    },
+    "s06e19-b": {
+      "close_formats": 9,
+      "level": "crowded",
+      "weight": 0.316,
+      "examples": [
+        "The Ultimatum: South Africa",
+        "The Ultimatum: Queer Love S2",
+        "The Ultimatum: Marry or Move On"
+      ]
+    },
+    "s06e20-a": {
+      "close_formats": 152,
+      "level": "saturated",
+      "weight": 0.081,
+      "examples": [
+        "The Intern",
+        "Jamie's Kitchen",
+        "Half Pint Brawlers"
+      ]
+    },
+    "s06e20-b": {
+      "close_formats": 13,
+      "level": "crowded",
+      "weight": 0.267,
+      "examples": [
+        "True Love",
+        "Love Never Lies: South Africa",
+        "Love Never Lies: Poland"
+      ]
+    },
+    "s06e21-a": {
+      "close_formats": 11,
+      "level": "crowded",
+      "weight": 0.289,
+      "examples": [
+        "Extreme Makeover: Home Edition",
+        "Backyard Blitz",
+        "I Married a Princess"
+      ]
+    },
+    "s06e22-a": {
+      "close_formats": 12,
+      "level": "crowded",
+      "weight": 0.277,
+      "examples": [
+        "SPY TV",
+        "Punk'd",
+        "Nobody's Fool"
+      ]
+    },
+    "s06e23-a": {
+      "close_formats": 4,
+      "level": "light",
+      "weight": 0.447,
+      "examples": [
+        "True Love",
+        "Love Never Lies: South Africa",
+        "Love Never Lies: Poland"
+      ]
+    },
+    "s06e24-a": {
+      "close_formats": 8,
+      "level": "crowded",
+      "weight": 0.333,
+      "examples": [
+        "The Ultimatum: South Africa",
+        "The Ultimatum: Queer Love S2",
+        "The Ultimatum: Marry or Move On"
+      ]
+    },
+    "s07e01-a": {
+      "close_formats": 2,
+      "level": "light",
+      "weight": 0.577,
+      "examples": [
+        "Members Only: Palm Beach",
+        "Echt Meisjes: The Reunion"
+      ]
+    },
+    "s07e01-b": {
+      "close_formats": 4,
+      "level": "light",
+      "weight": 0.447,
+      "examples": [
+        "The Newlywed Game",
+        "Help, Mijn Man is Klusser NL",
+        "Tommy and Georgia: I Do"
+      ]
+    },
+    "s07e02-a": {
+      "close_formats": 0,
+      "level": "open",
+      "weight": 1.0,
+      "examples": []
+    },
+    "s07e02-b": {
+      "close_formats": 9,
+      "level": "crowded",
+      "weight": 0.316,
+      "examples": [
+        "The Inheritance (International)",
+        "The Inheritance",
+        "Love Stories"
+      ]
+    },
+    "s07e03-a": {
+      "close_formats": 13,
+      "level": "crowded",
+      "weight": 0.267,
+      "examples": [
+        "I Know My Kid's a Star",
+        "Dancing with the Stars: Juniors",
+        "LEGO Masters: Out of the Box"
+      ]
+    },
+    "s07e03-b": {
+      "close_formats": 114,
+      "level": "saturated",
+      "weight": 0.093,
+      "examples": [
+        "Welcome To The LA",
+        "The Piano S2",
+        "The Piano"
+      ]
+    },
+    "s07e04-a": {
+      "close_formats": 1,
+      "level": "light",
+      "weight": 0.707,
+      "examples": [
+        "Animal Precinct"
+      ]
+    },
+    "s07e04-b": {
+      "close_formats": 9,
+      "level": "crowded",
+      "weight": 0.316,
+      "examples": [
+        "Zombieverse: New Blood",
+        "Utopia 2",
+        "Members Only: Palm Beach"
+      ]
+    },
+    "s07e05-a": {
+      "close_formats": 12,
+      "level": "crowded",
+      "weight": 0.277,
+      "examples": [
+        "I Survived a Japanese Game Show",
+        "He's a Lady",
+        "Geer & Goor: Zoeken een hobby!"
+      ]
+    },
+    "s07e05-b": {
+      "close_formats": 43,
+      "level": "saturated",
+      "weight": 0.151,
+      "examples": [
+        "The Golden Bachelorette",
+        "The Golden Bachelor",
+        "The Bachelorette S22"
+      ]
+    },
+    "s07e06-a": {
+      "close_formats": 13,
+      "level": "crowded",
+      "weight": 0.267,
+      "examples": [
+        "SPY TV",
+        "Punk'd",
+        "Nobody's Fool"
+      ]
+    },
+    "s07e06-b": {
+      "close_formats": 39,
+      "level": "saturated",
+      "weight": 0.158,
+      "examples": [
+        "The Crystal Maze (Revival)",
+        "Fort Boyard (game show)",
+        "Endurance (TV series)"
+      ]
+    },
+    "s07e07-a": {
+      "close_formats": 98,
+      "level": "saturated",
+      "weight": 0.101,
+      "examples": [
+        "Useless Celebrity History",
+        "You Don't Know Jack",
+        "Vild Med Dans"
+      ]
+    },
+    "s07e07-b": {
+      "close_formats": 3,
+      "level": "light",
+      "weight": 0.5,
+      "examples": [
+        "Thanks a Million",
+        "Battle of the Ex Besties",
+        "Bands Reunited"
+      ]
+    },
+    "s07e08-a": {
+      "close_formats": 18,
+      "level": "crowded",
+      "weight": 0.229,
+      "examples": [
+        "Voyeur Nation",
+        "The X Zone",
+        "The A-Z of the Unexplained"
+      ]
+    },
+    "s07e08-b": {
+      "close_formats": 39,
+      "level": "saturated",
+      "weight": 0.158,
+      "examples": [
+        "The Crystal Maze (Revival)",
+        "Fort Boyard (game show)",
+        "Endurance (TV series)"
+      ]
+    },
+    "s07e09-a": {
+      "close_formats": 43,
+      "level": "saturated",
+      "weight": 0.151,
+      "examples": [
+        "Puzzle Time",
+        "Plankgas",
+        "Ninja Warrior (International)"
+      ]
+    },
+    "s07e09-b": {
+      "close_formats": 16,
+      "level": "crowded",
+      "weight": 0.243,
+      "examples": [
+        "Three Idiots in Kenya",
+        "Sergio & Axel: van de Kaart",
+        "De Grannies van Amsterdam"
+      ]
+    },
+    "s07e10-a": {
+      "close_formats": 34,
+      "level": "saturated",
+      "weight": 0.169,
+      "examples": [
+        "De Pappi's",
+        "De Mutti's",
+        "Worlds Apart"
+      ]
+    },
+    "s07e11-a": {
+      "close_formats": 7,
+      "level": "crowded",
+      "weight": 0.354,
+      "examples": [
+        "Love Con Revenge",
+        "Kees van der Spek: Oplichters Aangepakt!",
+        "Kees van der Spek Ontmaskert"
+      ]
+    },
+    "s07e11-b": {
+      "close_formats": 1,
+      "level": "light",
+      "weight": 0.707,
+      "examples": [
+        "De Grannies van Amsterdam"
+      ]
+    },
+    "s07e11-c": {
+      "close_formats": 40,
+      "level": "saturated",
+      "weight": 0.156,
+      "examples": [
+        "Sneaky Links: Dating After Dark",
+        "Winter Vol Liefde",
+        "The Later Daters"
+      ]
+    },
+    "s07e12-a": {
+      "close_formats": 7,
+      "level": "crowded",
+      "weight": 0.354,
+      "examples": [
+        "Zombieverse: New Blood",
+        "Utopia 2",
+        "I Survived a Zombie Apocalypse"
+      ]
+    },
+    "s07e12-b": {
+      "close_formats": 20,
+      "level": "crowded",
+      "weight": 0.218,
+      "examples": [
+        "Vilde Vidunderlige Danmark",
+        "Shaolin Heroes (Original Denmark)",
+        "Shaolin Heroes (Belgium adaptation)"
+      ]
+    },
+    "s07e13-a": {
+      "close_formats": 7,
+      "level": "crowded",
+      "weight": 0.354,
+      "examples": [
+        "Love Con Revenge",
+        "Kees van der Spek: Oplichters Aangepakt!",
+        "Kees van der Spek Ontmaskert"
+      ]
+    },
+    "s07e13-b": {
+      "close_formats": 15,
+      "level": "crowded",
+      "weight": 0.25,
+      "examples": [
+        "Wild Reckoning with Bear Grylls",
+        "Una Sola Debole Voce 2",
+        "Rebooting (International)"
+      ]
+    },
+    "s07e14-a": {
+      "close_formats": 2,
+      "level": "light",
+      "weight": 0.577,
+      "examples": [
+        "Louisa & Rosanna: Onze Transgender Liefde",
+        "Black Love (TV series)"
+      ]
+    },
+    "s07e15-a": {
+      "close_formats": 152,
+      "level": "saturated",
+      "weight": 0.081,
+      "examples": [
+        "The Intern",
+        "Jamie's Kitchen",
+        "Half Pint Brawlers"
+      ]
+    },
+    "s07e15-b": {
+      "close_formats": 59,
+      "level": "saturated",
+      "weight": 0.129,
+      "examples": [
+        "Who Wants to Be a Millionaire",
+        "Wheel of Fortune (Rebrand)",
+        "Wheel of Fortune"
+      ]
+    },
+    "s07e16-a": {
+      "close_formats": 13,
+      "level": "crowded",
+      "weight": 0.267,
+      "examples": [
+        "True Love",
+        "Love Never Lies: South Africa",
+        "Love Never Lies: Poland"
+      ]
+    },
+    "s07e16-b": {
+      "close_formats": 112,
+      "level": "saturated",
+      "weight": 0.094,
+      "examples": [
+        "Welcome To The LA",
+        "The Intern",
+        "Open Keuken met Sandra Bekkari"
+      ]
+    },
+    "s07e17-a": {
+      "close_formats": 204,
+      "level": "saturated",
+      "weight": 0.07,
+      "examples": [
+        "Yum Factor",
+        "X Factor Danmark",
+        "Wisdom of the Crowd (Global)"
+      ]
+    },
+    "s07e17-b": {
+      "close_formats": 43,
+      "level": "saturated",
+      "weight": 0.151,
+      "examples": [
+        "The Golden Bachelorette",
+        "The Golden Bachelor",
+        "The Bachelorette S22"
+      ]
+    },
+    "s07e18-a": {
+      "close_formats": 152,
+      "level": "saturated",
+      "weight": 0.081,
+      "examples": [
+        "The Intern",
+        "Jamie's Kitchen",
+        "Half Pint Brawlers"
+      ]
+    },
+    "s07e19-a": {
+      "close_formats": 4,
+      "level": "light",
+      "weight": 0.447,
+      "examples": [
+        "Virgin Island",
+        "Sexy Spots",
+        "Nude TV"
+      ]
+    },
+    "s07e20-a": {
+      "close_formats": 15,
+      "level": "crowded",
+      "weight": 0.25,
+      "examples": [
+        "Spy Date",
+        "Ex-treme Dating",
+        "The Nevermets"
+      ]
+    },
+    "s07e21-a": {
+      "close_formats": 2,
+      "level": "light",
+      "weight": 0.577,
+      "examples": [
+        "Louisa & Rosanna: Onze Transgender Liefde",
+        "Black Love (TV series)"
+      ]
+    },
+    "s07e22-a": {
+      "close_formats": 35,
+      "level": "saturated",
+      "weight": 0.167,
+      "examples": [
+        "De Pappi's",
+        "De Mutti's",
+        "Rêve d'un soir"
+      ]
+    },
+    "s07e23-a": {
+      "close_formats": 6,
+      "level": "crowded",
+      "weight": 0.378,
+      "examples": [
+        "Cheat: Unfinished Business",
+        "Blue Therapy",
+        "Tommy and Georgia: I Do"
+      ]
+    },
+    "s07e23-b": {
+      "close_formats": 8,
+      "level": "crowded",
+      "weight": 0.333,
+      "examples": [
+        "My Family Mystery",
+        "An American Family",
+        "Secret Little Assistant"
+      ]
+    },
+    "s08e01-a": {
+      "close_formats": 8,
+      "level": "crowded",
+      "weight": 0.333,
+      "examples": [
+        "My Family Mystery",
+        "An American Family",
+        "Secret Little Assistant"
+      ]
+    },
+    "s08e02-a": {
+      "close_formats": 8,
+      "level": "crowded",
+      "weight": 0.333,
+      "examples": [
+        "My Family Mystery",
+        "An American Family",
+        "Secret Little Assistant"
+      ]
+    },
+    "s08e03-a": {
+      "close_formats": 7,
+      "level": "crowded",
+      "weight": 0.354,
+      "examples": [
+        "Love Stories",
+        "Tommy and Georgia: I Do",
+        "Say Yes to the Dress"
+      ]
+    },
+    "s08e03-b": {
+      "close_formats": 204,
+      "level": "saturated",
+      "weight": 0.07,
+      "examples": [
+        "The Real Housewives Ultimate Girls Trip: Benelux",
+        "Rush",
+        "Reality Queens on Safari"
+      ]
+    },
+    "s08e04-a": {
+      "close_formats": 13,
+      "level": "crowded",
+      "weight": 0.267,
+      "examples": [
+        "SPY TV",
+        "Punk'd",
+        "Nobody's Fool"
+      ]
+    },
+    "s08e05-a": {
+      "close_formats": 9,
+      "level": "crowded",
+      "weight": 0.316,
+      "examples": [
+        "Transit Love (EXchange) S4",
+        "EXChange S5",
+        "Change Days S2"
+      ]
+    },
+    "s08e05-b": {
+      "close_formats": 8,
+      "level": "crowded",
+      "weight": 0.333,
+      "examples": [
+        "Louisa & Rosanna: Onze Transgender Liefde",
+        "Black Love (TV series)",
+        "Polyamorie: Liefde in Overvloed"
+      ]
+    },
+    "s08e06-a": {
+      "close_formats": 207,
+      "level": "saturated",
+      "weight": 0.069,
+      "examples": [
+        "LEGO Masters: Out of the Box",
+        "America's Best Dance Crew",
+        "Yum Factor"
+      ]
+    },
+    "s08e06-b": {
+      "close_formats": 9,
+      "level": "crowded",
+      "weight": 0.316,
+      "examples": [
+        "My Family Mystery",
+        "An American Family",
+        "Secret Little Assistant"
+      ]
+    },
+    "s08e07-a": {
+      "close_formats": 26,
+      "level": "saturated",
+      "weight": 0.192,
+      "examples": [
+        "The Dead Files",
+        "Beau Séjour S2",
+        "Vals Spel"
+      ]
+    },
+    "s08e07-b": {
+      "close_formats": 5,
+      "level": "light",
+      "weight": 0.408,
+      "examples": [
+        "Tommy and Georgia: I Do",
+        "Say Yes to the Dress",
+        "Love Stories"
+      ]
+    },
+    "s08e08-a": {
+      "close_formats": 4,
+      "level": "light",
+      "weight": 0.447,
+      "examples": [
+        "The Newlywed Game",
+        "Help, Mijn Man is Klusser NL",
+        "Tommy and Georgia: I Do"
+      ]
+    },
+    "s08e09-a": {
+      "close_formats": 7,
+      "level": "crowded",
+      "weight": 0.354,
+      "examples": [
+        "Love Con Revenge",
+        "Kees van der Spek: Oplichters Aangepakt!",
+        "Kees van der Spek Ontmaskert"
+      ]
+    },
+    "s08e10-a": {
+      "close_formats": 16,
+      "level": "crowded",
+      "weight": 0.243,
+      "examples": [
+        "What's the Big Deal?",
+        "The Wall (International)",
+        "The Wall"
+      ]
+    },
+    "s08e11-a": {
+      "close_formats": 2,
+      "level": "light",
+      "weight": 0.577,
+      "examples": [
+        "Louisa & Rosanna: Onze Transgender Liefde",
+        "Black Love (TV series)"
+      ]
+    },
+    "s08e12-a": {
+      "close_formats": 3,
+      "level": "light",
+      "weight": 0.5,
+      "examples": [
+        "Jersey Shore (TV series)",
+        "Geordie Shore",
+        "Floribama Shore"
+      ]
+    },
+    "s08e13-a": {
+      "close_formats": 10,
+      "level": "crowded",
+      "weight": 0.302,
+      "examples": [
+        "Nul Stjerner",
+        "Michella & Louisa Werken Mee",
+        "I Survived a Japanese Game Show"
+      ]
+    },
+    "s08e13-b": {
+      "close_formats": 0,
+      "level": "open",
+      "weight": 1.0,
+      "examples": []
+    },
+    "s08e14-a": {
+      "close_formats": 6,
+      "level": "crowded",
+      "weight": 0.378,
+      "examples": [
+        "The Dead Files",
+        "Ghost Hunters (TV series)",
+        "Ghost Chasers"
+      ]
+    },
+    "s08e14-b": {
+      "close_formats": 4,
+      "level": "light",
+      "weight": 0.447,
+      "examples": [
+        "Thanks a Million",
+        "De Grannies van Amsterdam",
+        "Battle of the Ex Besties"
+      ]
+    },
+    "s08e15-a": {
+      "close_formats": 0,
+      "level": "open",
+      "weight": 1.0,
+      "examples": []
+    },
+    "s08e16-a": {
+      "close_formats": 4,
+      "level": "light",
+      "weight": 0.447,
+      "examples": [
+        "Jersey Shore (TV series)",
+        "Geordie Shore",
+        "Floribama Shore"
+      ]
+    },
+    "s08e17-a": {
+      "close_formats": 2,
+      "level": "light",
+      "weight": 0.577,
+      "examples": [
+        "Louisa & Rosanna: Onze Transgender Liefde",
+        "Black Love (TV series)"
+      ]
+    },
+    "s08e17-b": {
+      "close_formats": 70,
+      "level": "saturated",
+      "weight": 0.119,
+      "examples": [
+        "The Boyfriend",
+        "Soundtrack of Love",
+        "Sexy Beasts"
+      ]
+    },
+    "s08e18-a": {
+      "close_formats": 7,
+      "level": "crowded",
+      "weight": 0.354,
+      "examples": [
+        "Claim to Fame S3",
+        "Claim to Fame",
+        "Secret Little Assistant"
+      ]
+    },
+    "s08e18-b": {
+      "close_formats": 11,
+      "level": "crowded",
+      "weight": 0.289,
+      "examples": [
+        "Braxton Family Values",
+        "SommerSummarum",
+        "Reality Queens of the Jungle: Family Edition"
+      ]
+    },
+    "s08e19-a": {
+      "close_formats": 12,
+      "level": "crowded",
+      "weight": 0.277,
+      "examples": [
+        "The Secret Lives of Mormon Wives",
+        "Secret Lives of Mormon Wives S2",
+        "VIP News"
+      ]
+    },
+    "s08e20-a": {
+      "close_formats": 34,
+      "level": "saturated",
+      "weight": 0.169,
+      "examples": [
+        "Rêve d'un soir",
+        "Gogglebox (International)",
+        "De Pappi's"
+      ]
+    },
+    "s08e20-b": {
+      "close_formats": 112,
+      "level": "saturated",
+      "weight": 0.094,
+      "examples": [
+        "Welcome To The LA",
+        "The Intern",
+        "Open Keuken met Sandra Bekkari"
+      ]
+    },
+    "s08e21-a": {
+      "close_formats": 352,
+      "level": "saturated",
+      "weight": 0.053,
+      "examples": [
+        "The Piano S2",
+        "The Piano",
+        "Test the Nation"
+      ]
+    },
+    "s08e22-a": {
+      "close_formats": 15,
+      "level": "crowded",
+      "weight": 0.25,
+      "examples": [
+        "Who Wants to Marry My Son?",
+        "Who Wants to Marry My Mom?",
+        "Supernanny"
+      ]
+    },
+    "s08e23-a": {
+      "close_formats": 13,
+      "level": "crowded",
+      "weight": 0.267,
+      "examples": [
+        "SommerSummarum",
+        "Rêve d'un soir",
+        "Reality Queens of the Jungle: Family Edition"
+      ]
+    },
+    "s08e23-b": {
+      "close_formats": 5,
+      "level": "light",
+      "weight": 0.408,
+      "examples": [
+        "Tommy and Georgia: I Do",
+        "Love Stories",
+        "Say Yes to the Dress"
+      ]
+    },
+    "s09e01-a": {
+      "close_formats": 0,
+      "level": "open",
+      "weight": 1.0,
+      "examples": []
+    },
+    "s09e01-b": {
+      "close_formats": 14,
+      "level": "crowded",
+      "weight": 0.258,
+      "examples": [
+        "Love Stories",
+        "Tommy and Georgia: I Do",
+        "Say Yes to the Dress"
+      ]
+    },
+    "s09e02-a": {
+      "close_formats": 4,
+      "level": "light",
+      "weight": 0.447,
+      "examples": [
+        "Cheat: Unfinished Business",
+        "Blue Therapy",
+        "Olivia Atwood's Bad Boyfriends"
+      ]
+    },
+    "s09e02-b": {
+      "close_formats": 1,
+      "level": "light",
+      "weight": 0.707,
+      "examples": [
+        "De Grannies van Amsterdam"
+      ]
+    },
+    "s09e03-a": {
+      "close_formats": 112,
+      "level": "saturated",
+      "weight": 0.094,
+      "examples": [
+        "Ze Zeggen Dat",
+        "Yolanthe",
+        "Velvet Soup"
+      ]
+    },
+    "s09e03-b": {
+      "close_formats": 34,
+      "level": "saturated",
+      "weight": 0.169,
+      "examples": [
+        "The Boyfriend",
+        "Soundtrack of Love",
+        "Sexy Beasts"
+      ]
+    },
+    "s09e04-a": {
+      "close_formats": 1,
+      "level": "light",
+      "weight": 0.707,
+      "examples": [
+        "Polyamorie: Liefde in Overvloed"
+      ]
+    },
+    "s09e04-b": {
+      "close_formats": 11,
+      "level": "crowded",
+      "weight": 0.289,
+      "examples": [
+        "Extreme Makeover: Home Edition",
+        "Backyard Blitz",
+        "I Married a Princess"
+      ]
+    },
+    "s09e05-a": {
+      "close_formats": 5,
+      "level": "light",
+      "weight": 0.408,
+      "examples": [
+        "Thanks a Million",
+        "Members Only: Palm Beach",
+        "Echt Meisjes: The Reunion"
+      ]
+    },
+    "s09e05-b": {
+      "close_formats": 1,
+      "level": "light",
+      "weight": 0.707,
+      "examples": [
+        "Intervention (TV series)"
+      ]
+    },
+    "s09e06-a": {
+      "close_formats": 122,
+      "level": "saturated",
+      "weight": 0.09,
+      "examples": [
+        "Open Keuken met Sandra Bekkari",
+        "Let's Roll with Tony Greenhand",
+        "De Keuken van Sofie"
+      ]
+    },
+    "s09e06-b": {
+      "close_formats": 3,
+      "level": "light",
+      "weight": 0.5,
+      "examples": [
+        "Take Us Home: Leeds United",
+        "Fame Asylum",
+        "Deadliest Catch"
+      ]
+    },
+    "s09e07-a": {
+      "close_formats": 10,
+      "level": "crowded",
+      "weight": 0.302,
+      "examples": [
+        "Adorableness (TV series)",
+        "Nul Stjerner",
+        "Michella & Louisa Werken Mee"
+      ]
+    },
+    "s09e07-b": {
+      "close_formats": 10,
+      "level": "crowded",
+      "weight": 0.302,
+      "examples": [
+        "Take Us Home: Leeds United",
+        "Members Only: Palm Beach",
+        "Fraternity Life"
+      ]
+    },
+    "s09e08-a": {
+      "close_formats": 0,
+      "level": "open",
+      "weight": 1.0,
+      "examples": []
+    },
+    "s09e08-b": {
+      "close_formats": 15,
+      "level": "crowded",
+      "weight": 0.25,
+      "examples": [
+        "Holiday Showdown",
+        "Who Wants to Marry My Son?",
+        "Who Wants to Marry My Mom?"
+      ]
+    },
+    "s09e09-a": {
+      "close_formats": 109,
+      "level": "saturated",
+      "weight": 0.095,
+      "examples": [
+        "The Boyfriend",
+        "Soundtrack of Love",
+        "Sexy Beasts"
+      ]
+    },
+    "s09e09-b": {
+      "close_formats": 5,
+      "level": "light",
+      "weight": 0.408,
+      "examples": [
+        "Thanks a Million",
+        "How Far Is Tattoo Far?",
+        "Førstemann"
+      ]
+    },
+    "s09e10-a": {
+      "close_formats": 2,
+      "level": "light",
+      "weight": 0.577,
+      "examples": [
+        "Louisa & Rosanna: Onze Transgender Liefde",
+        "Black Love (TV series)"
+      ]
+    },
+    "s09e11-a": {
+      "close_formats": 239,
+      "level": "saturated",
+      "weight": 0.065,
+      "examples": [
+        "Vanderpump Rules S12",
+        "The Golden Ticket",
+        "The Apprentice S19"
+      ]
+    },
+    "s09e12-a": {
+      "close_formats": 10,
+      "level": "crowded",
+      "weight": 0.302,
+      "examples": [
+        "Wild Reckoning with Bear Grylls",
+        "Una Sola Debole Voce 2",
+        "Rebooting (International)"
+      ]
+    },
+    "s09e12-b": {
+      "close_formats": 239,
+      "level": "saturated",
+      "weight": 0.065,
+      "examples": [
+        "Vanderpump Rules S12",
+        "The Golden Ticket",
+        "The Apprentice S19"
+      ]
+    },
+    "s09e13-a": {
+      "close_formats": 69,
+      "level": "saturated",
+      "weight": 0.12,
+      "examples": [
+        "You Don't Know Jack",
+        "Vild Med Dans",
+        "Useless Celebrity History"
+      ]
+    },
+    "s09e13-b": {
+      "close_formats": 8,
+      "level": "crowded",
+      "weight": 0.333,
+      "examples": [
+        "Louisa & Rosanna: Onze Transgender Liefde",
+        "Black Love (TV series)",
+        "Polyamorie: Liefde in Overvloed"
+      ]
+    },
+    "s09e14-a": {
+      "close_formats": 5,
+      "level": "light",
+      "weight": 0.408,
+      "examples": [
+        "Jersey Shore (TV series)",
+        "How Far Is Tattoo Far?",
+        "Geordie Shore"
+      ]
+    },
+    "s09e15-a": {
+      "close_formats": 9,
+      "level": "crowded",
+      "weight": 0.316,
+      "examples": [
+        "Una Sola Debole Voce 2",
+        "Rebooting (International)",
+        "Wild Reckoning with Bear Grylls"
+      ]
+    },
+    "s09e15-b": {
+      "close_formats": 152,
+      "level": "saturated",
+      "weight": 0.081,
+      "examples": [
+        "The Intern",
+        "Jamie's Kitchen",
+        "Half Pint Brawlers"
+      ]
+    },
+    "s09e16-a": {
+      "close_formats": 13,
+      "level": "crowded",
+      "weight": 0.267,
+      "examples": [
+        "True Love",
+        "Love Never Lies: South Africa",
+        "Love Never Lies: Poland"
+      ]
+    },
+    "s09e17-a": {
+      "close_formats": 204,
+      "level": "saturated",
+      "weight": 0.07,
+      "examples": [
+        "The Real Housewives van het Zuiden",
+        "The Real Housewives of Rotterdam",
+        "The Real Housewives of Cheshire"
+      ]
+    },
+    "s09e18-a": {
+      "close_formats": 15,
+      "level": "crowded",
+      "weight": 0.25,
+      "examples": [
+        "The Weakest Link (Revival)",
+        "The Weakest Link",
+        "The Trust: A Game of Greed S2"
+      ]
+    },
+    "s09e19-a": {
+      "close_formats": 4,
+      "level": "light",
+      "weight": 0.447,
+      "examples": [
+        "Jersey Shore (TV series)",
+        "Geordie Shore",
+        "Floribama Shore"
+      ]
+    },
+    "s09e20-a": {
+      "close_formats": 11,
+      "level": "crowded",
+      "weight": 0.289,
+      "examples": [
+        "Members Only: Palm Beach",
+        "Fraternity Life",
+        "Echt Meisjes: The Reunion"
+      ]
+    },
+    "s09e21-a": {
+      "close_formats": 14,
+      "level": "crowded",
+      "weight": 0.258,
+      "examples": [
+        "Love Stories",
+        "Tommy and Georgia: I Do",
+        "Say Yes to the Dress"
+      ]
+    },
+    "s09e22-a": {
+      "close_formats": 5,
+      "level": "light",
+      "weight": 0.408,
+      "examples": [
+        "Tommy and Georgia: I Do",
+        "Love Stories",
+        "Say Yes to the Dress"
+      ]
+    },
+    "s09e23-a": {
+      "close_formats": 11,
+      "level": "crowded",
+      "weight": 0.289,
+      "examples": [
+        "World's Wildest Race",
+        "Three Idiots in Kenya",
+        "The Amazing Race: Asia S8"
+      ]
+    },
+    "s09e23-b": {
+      "close_formats": 16,
+      "level": "crowded",
+      "weight": 0.243,
+      "examples": [
+        "Nul Stjerner",
+        "Geer & Goor: Zoeken een hobby!",
+        "Welcome To The LA"
+      ]
+    },
+    "s10e01-a": {
+      "close_formats": 4,
+      "level": "light",
+      "weight": 0.447,
+      "examples": [
+        "Jersey Shore (TV series)",
+        "Geordie Shore",
+        "Floribama Shore"
+      ]
+    },
+    "s10e02-a": {
+      "close_formats": 2,
+      "level": "light",
+      "weight": 0.577,
+      "examples": [
+        "How Far Is Tattoo Far?",
+        "Førstemann"
+      ]
+    },
+    "s10e03-a": {
+      "close_formats": 69,
+      "level": "saturated",
+      "weight": 0.12,
+      "examples": [
+        "Nation's Dumbest (Scandinavia)",
+        "Nation's Dumbest (Fox)",
+        "Nation's Dumbest"
+      ]
+    },
+    "s10e03-b": {
+      "close_formats": 16,
+      "level": "crowded",
+      "weight": 0.243,
+      "examples": [
+        "The Boyfriend",
+        "Soundtrack of Love",
+        "Sexy Beasts"
+      ]
+    },
+    "s10e04-a": {
+      "close_formats": 11,
+      "level": "crowded",
+      "weight": 0.289,
+      "examples": [
+        "Hi-Jinks",
+        "Totally Outrageous – Vacations",
+        "Single Mom Candice"
+      ]
+    },
+    "s10e05-a": {
+      "close_formats": 15,
+      "level": "crowded",
+      "weight": 0.25,
+      "examples": [
+        "Who Wants to Marry My Son?",
+        "Who Wants to Marry My Mom?",
+        "Supernanny"
+      ]
+    },
+    "s10e05-b": {
+      "close_formats": 2,
+      "level": "light",
+      "weight": 0.577,
+      "examples": [
+        "House Hunters",
+        "Fixer Upper (TV series)"
+      ]
+    },
+    "s10e06-a": {
+      "close_formats": 0,
+      "level": "open",
+      "weight": 1.0,
+      "examples": []
+    },
+    "s10e07-a": {
+      "close_formats": 5,
+      "level": "light",
+      "weight": 0.408,
+      "examples": [
+        "'Til Death Do Us Part: Carmen and Dave",
+        "Ice Loves Coco",
+        "Britney and Kevin: Chaotic"
+      ]
+    },
+    "s10e08-a": {
+      "close_formats": 3,
+      "level": "light",
+      "weight": 0.5,
+      "examples": [
+        "Thanks a Million",
+        "Battle of the Ex Besties",
+        "Bands Reunited"
+      ]
+    },
+    "s10e09-a": {
+      "close_formats": 5,
+      "level": "light",
+      "weight": 0.408,
+      "examples": [
+        "Tommy and Georgia: I Do",
+        "Love Stories",
+        "Say Yes to the Dress"
+      ]
+    },
+    "s10e10-a": {
+      "close_formats": 29,
+      "level": "saturated",
+      "weight": 0.183,
+      "examples": [
+        "Førstemann",
+        "Wie is de Mol?",
+        "Wie Is De Mol? (Belgium)"
+      ]
+    },
+    "s10e11-a": {
+      "close_formats": 18,
+      "level": "crowded",
+      "weight": 0.229,
+      "examples": [
+        "Voyeur Nation",
+        "The X Zone",
+        "The A-Z of the Unexplained"
+      ]
+    },
+    "s10e12-a": {
+      "close_formats": 9,
+      "level": "crowded",
+      "weight": 0.316,
+      "examples": [
+        "Zombieverse: New Blood",
+        "Utopia 2",
+        "Members Only: Palm Beach"
+      ]
+    },
+    "s10e13-a": {
+      "close_formats": 114,
+      "level": "saturated",
+      "weight": 0.093,
+      "examples": [
+        "Welcome To The LA",
+        "The Piano S2",
+        "The Piano"
+      ]
+    },
+    "s10e14-a": {
+      "close_formats": 6,
+      "level": "crowded",
+      "weight": 0.378,
+      "examples": [
+        "Louisa & Rosanna: Onze Transgender Liefde",
+        "Black Love (TV series)",
+        "The Ultimatum: South Africa"
+      ]
+    },
+    "s10e14-b": {
+      "close_formats": 59,
+      "level": "saturated",
+      "weight": 0.129,
+      "examples": [
+        "Vanderpump Rules S12",
+        "VIP News",
+        "The Secret Lives of Mormon Wives"
+      ]
+    },
+    "s10e15-a": {
+      "close_formats": 8,
+      "level": "crowded",
+      "weight": 0.333,
+      "examples": [
+        "Kees van der Spek: Oplichters Aangepakt!",
+        "Kees van der Spek Ontmaskert",
+        "Love Con Revenge"
+      ]
+    },
+    "s10e16-a": {
+      "close_formats": 4,
+      "level": "light",
+      "weight": 0.447,
+      "examples": [
+        "Olivia Atwood's Bad Boyfriends",
+        "Eating With My Ex",
+        "Cheat: Unfinished Business"
+      ]
+    },
+    "s10e17-a": {
+      "close_formats": 40,
+      "level": "saturated",
+      "weight": 0.156,
+      "examples": [
+        "Love at Third Sight",
+        "Winter Vol Liefde",
+        "Tien om te Zien: Het Vlot"
+      ]
+    },
+    "s10e17-b": {
+      "close_formats": 6,
+      "level": "crowded",
+      "weight": 0.378,
+      "examples": [
+        "Tommy and Georgia: I Do",
+        "Say Yes to the Dress",
+        "Love Stories"
+      ]
+    }
+  }
+}
