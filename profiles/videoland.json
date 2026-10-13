@@ -1,0 +1,61 @@
+{
+  "name": "Videoland",
+  "platform_type": "SVOD",
+  "country": "Netherlands",
+
+  "positioning": "The largest local streamer in the Netherlands. Dutch-language focus. Part of RTL Group — high-budget tentpoles only happen when RTL linear is also commissioning. Videoland standalone commissions need to be cost-efficient and subscriber-driving.",
+
+  "evaluation_lens": "Commercially minded senior commissioner. Evaluates through the lens of scale, platform fit, subscriber growth, and long-term strategic value — not purely creative enthusiasm. Asks: will this grow our subscriber base? Can it sustain multiple series? Does it have cultural event potential?",
+
+  "mandate": {
+    "description": "Videoland needs unscripted that drives subscriptions — content people sign up FOR, not content they watch because they're already a subscriber. The sweet spot is formats with broad cultural talkability, clear franchise potential, and a cost profile that doesn't require RTL linear co-commissioning.",
+    "actively_looking_for": [
+      "Cost-efficient formats that can sustain 2+ series — the B&B Vol Liefde model",
+      "Content that genuinely appeals to men aged 18–30 — historically underserved on Dutch streaming",
+      "Social experiment or deception formats that aren't De Verraders — they own that format but it is currently oversaturated, so they need a fresh angle in this space",
+      "Event-style programming with broad Dutch cultural relevance — something the whole country talks about",
+      "Celebrity-led formats with a strong personality at the centre — De Verhulstjes, Only Joling model",
+      "True crime or investigative reality with long-form potential",
+      "Comedy-adjacent reality that attracts male viewers without being pure adventure/survival"
+    ],
+    "slot_needs": [
+      "Male 18-30 audience — biggest underserved slot on the platform",
+      "Cost-efficient returning format — needs more B&B Vol Liefde equivalents",
+      "Social experiment / deception — De Verraders is on pause due to oversaturation, need a fresh format in this space they own"
+    ],
+    "tone": "Emotionally authentic, culturally recognizable, Dutch. Not too niche. Should feel like something your whole family or friend group would talk about."
+  },
+
+  "what_works": {
+    "proven_formats": [
+      "Ex On The Beach Double Dutch — dating chaos, strong 18-30 appeal, social media talkability",
+      "Echte Jongens Op Safari — male-skewing adventure, celebrity-led, cost-efficient",
+      "De Bachelorette — format acquisition, proven dating elimination structure",
+      "Real Housewives Of Het Zuiden — celebrity social reality, franchise model",
+      "De Verhulstjes — celebrity family docu-reality, warm, returnable",
+      "Kees van der Spek Ontmaskert — investigative reality, strong brand, returnable",
+      "And & Melissa — docu-celebrity, personality-driven",
+      "Only Joling — legacy celebrity, nostalgia, broad appeal"
+    ],
+    "note_on_rtl_shows": "The Voice, Bureau Utrecht, Married At First Sight, and Pandora are RTL productions that appear on Videoland — they do not reflect Videoland's standalone commissioning appetite or budget. Do not pitch at this cost level for Videoland-only."
+  },
+
+  "rejects": [
+    "Small niche projects without scale",
+    "Concepts without strong long-form audiovisual value",
+    "Sports or live events unless major societal relevance",
+    "High-budget formats that require RTL linear co-commissioning to be viable",
+    "Ideas where the format engine is weak — personality alone is not enough",
+    "Anything that requires more than 2 sentences to explain the premise"
+  ],
+
+  "cost_sensitivity": "HIGH. Videoland standalone commissioning is cost-efficient by necessity. The B&B Vol Liefde model (one location, small cast, returning structure) is the benchmark. Adventure formats work because they can be shot cost-efficiently. Avoid anything requiring multiple international locations, large ensemble casts, or complex production infrastructure unless there is a clear RTL linear co-commission case.",
+
+  "scoring_weights": {
+    "subscriber_growth_potential": 0.30,
+    "cost_efficiency": 0.25,
+    "franchise_potential": 0.20,
+    "male_18_30_appeal": 0.15,
+    "cultural_talkability": 0.10
+  }
+}
