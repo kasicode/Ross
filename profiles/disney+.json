@@ -1,0 +1,44 @@
+{
+  "name": "Disney+",
+  "mandate": {
+    "description": "Disney+ wil actief investeren in lokale content, deels vanuit de Nederlandse investeringsverplichting en deels om de marktpositie te versterken. Ambitie: minstens één 'leading' lokale titel lanceren, aangevuld met meerdere 'follow-up' titels die engagement creëren. Focus ligt op het verhogen van nieuwe instroom van abonnees en op engagement/retentie van bestaande abonnees. Voorkeur voor 'paper formats' — originele, specifiek voor Nederland ontwikkelde concepten — boven adaptaties van bestaande buitenlandse formats.",
+    "actively_looking_for": [
+      "Dating reality — toon dichter bij Love Island dan bij Temptation Island of Undercover Lover; Married At First Sight staat op het wensenlijstje",
+      "Adventure reality — fysiek, out-of-comfort-zone formats met een reis- of competitie-element",
+      "Competitive reality — formats met een sterke spelstructuur, bewezen bij concurrenten",
+      "Documentaire series — geen harde crime, meer gericht op cults, bedriegers of schandalen; docu's zijn bovendien nodig om aan hun Nederlandse investeringsverplichting te voldoen",
+      "Workplace reality — interessant, maar van mindere prioriteit dan bovenstaande genres",
+      "Creator space — actief op zoek naar projecten die een stap zetten richting de creator-economie"
+    ],
+    "slot_needs": [
+      "Eén 'leading' vlaggenschip lokale titel",
+      "Meerdere 'follow-up' titels die engagement creëren",
+      "Minimaal 6-8 afleveringen — geen korte series",
+      "Bij voorkeur paper formats voor de Nederlandse markt, niet primair ontwikkeld met internationale adaptatie als doel",
+      "Sterke lokale talentkoppeling geniet de voorkeur voor herkenbaarheid en promotionele slagkracht; een civiele cast kan ook, mits ondersteund door een sterke marketinghoek"
+    ],
+    "tone": "Breed toegankelijke reality/documentaire — vergelijkbaar met The Kardashians en The Secret Lives Of Mormon Wives, die lokaal relatief goed presteren op Disney+"
+  },
+  "cost_sensitivity": "MEDIUM — ruimte voor een grotere investering in de 'leading' titel, follow-up titels waarschijnlijk kostenbewuster",
+  "what_works": {
+    "proven_formats": [
+      "The Kardashians",
+      "The Secret Lives Of Mormon Wives"
+    ]
+  },
+  "rejects": [
+    "Korte series (minder dan 6-8 afleveringen)",
+    "Harde/grafische true crime",
+    "Formats primair gericht op een jong mannelijk publiek — dat is het domein van Prime Video, niet van Disney+"
+  ],
+  "scoring_weights": {
+    "audience_fit": "Kernfocus vrouwen 18-34 — Prime Video's publiek is te jong voor Disney+",
+    "genre_fit": "Dating reality, adventure reality, competitive reality en documentaire (cults/bedriegers/schandalen) scoren hoogst; workplace reality lager",
+    "talent_attachment": "Zwaar meewegend — lokale talentkoppeling geniet de voorkeur voor herkenbaarheid en promotie; een civiele cast is bespreekbaar mits er een sterke marketinghoek tegenover staat",
+    "ip_bonus": "Bonus voor bestaand/herkenbaar IP",
+    "cross_label_bonus": "Bonus als het format ook geschikt is voor andere Disney labels (24 Kitchen, Star, Nat Geo, ESPN)",
+    "international_bonus": "Kleine bonus voor een potentieel internationaal doorvertaalpad, bijvoorbeeld naar ABC in de VS — al ligt de primaire voorkeur nu bij paper formats specifiek voor Nederland, niet bij internationaal opgezette concepten",
+    "market_position_fit": "Bonus voor formats die helpen richting Videoland (nu nr. 2) te bewegen en Amazon Prime Video achter zich houden",
+    "creator_space_bonus": "Bonus voor projecten die een stap zetten richting de creator-economie — expliciet aandachtsgebied"
+  }
+}
